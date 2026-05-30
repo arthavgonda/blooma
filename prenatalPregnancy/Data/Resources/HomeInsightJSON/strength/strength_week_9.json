@@ -1,0 +1,151 @@
+{
+  "week": 9,
+  "section": "strength_from_within",
+
+  "title": "Balanced Nourishment",
+  "subtitle": "Rebuilding strength with stability",
+
+  "description": "At this stage, appetite may begin to feel more stable and nausea may reduce slightly. This allows you to gradually return to more balanced and complete meals, supporting your energy and overall well-being.",
+
+  "what_to_expect": [
+    "Improvement in appetite and food tolerance",
+    "Reduction in nausea for many individuals",
+    "Better ability to maintain regular eating patterns"
+  ],
+
+  "nutrition_focus": [
+    "Return to balanced and regular meals",
+    "Include a variety of food groups",
+    "Maintain consistency in meal timings"
+  ],
+
+  "recommended_foods": [
+    "Balanced meals like dal, roti, rice, and sabzi",
+    "Fruits like banana, apple, papaya, and orange",
+    "Vegetables including spinach, carrots, and beans",
+    "Protein sources like curd, paneer, lentils, and eggs (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Excessively oily or spicy foods",
+    "Highly processed and packaged items",
+    "Irregular eating patterns"
+  ],
+
+  "hydration": [
+    "Drink water consistently throughout the day",
+    "Include fluids like buttermilk, coconut water, or fresh lemon water"
+  ],
+
+  "reassurance": "As your appetite stabilizes, balanced meals can help you feel stronger and more energized.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent and balanced meals support stable energy and blood sugar levels.",
+
+      "nutrition_focus": [
+        "Maintain regular meal timings",
+        "Prefer low glycemic index foods",
+        "Avoid large fluctuations in meal portions"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils and paneer"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large portion meals"
+      ],
+
+      "reassurance": "Regular and balanced meals help maintain stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Improved appetite allows better inclusion of iron-rich foods for strength.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods regularly",
+        "Pair meals with vitamin C sources",
+        "Maintain consistent eating patterns"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Balanced meals can help build your energy steadily."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals with controlled salt intake support stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals balanced and moderate in salt",
+        "Maintain regular meal timings",
+        "Avoid heavy or processed foods"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Consistent meals support a calm and balanced routine."
+    },
+
+    "thyroid": {
+      "personalized_description": "A steady and balanced diet supports overall metabolic stability.",
+
+      "nutrition_focus": [
+        "Maintain regular eating intervals",
+        "Include a balanced variety of nutrients",
+        "Avoid irregular eating habits"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency and balance support your body's needs."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, balanced meals and consistent routines help maintain stability and comfort.",
+
+    "priority_nutrition": [
+      "Maintain regular meal timings",
+      "Include balanced and varied meals",
+      "Avoid skipping meals or irregular eating"
+    ],
+
+    "reassurance": "Steady and balanced nourishment supports your overall well-being."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "week": 13,
+  "section": "rest_mindfulness",
+
+  "title": "Renewed Energy",
+  "subtitle": "Embracing a more balanced rhythm",
+
+  "description": "As you enter the second trimester, you may begin to feel more energetic and emotionally balanced. With reduced fatigue and improved comfort, this is a good time to establish steady and sustainable rest and mindfulness routines.",
+
+  "what_to_expect": [
+    "Noticeable improvement in energy levels",
+    "More stable emotions and reduced sensitivity",
+    "Improved sleep quality and consistency"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Balance activity with short, planned rest breaks",
+    "Continue a calming and structured bedtime routine"
+  ],
+
+  "mindfulness_practices": [
+    "Practice breathing or relaxation exercises daily",
+    "Engage in calming activities like reading or journaling",
+    "Maintain reduced screen exposure before sleep"
+  ],
+
+  "emotional_wellbeing": [
+    "Enjoy increased emotional stability and clarity",
+    "Maintain a calm and positive daily environment",
+    "Stay connected with supportive people"
+  ],
+
+  "important_note": "This phase is ideal for building sustainable routines that support long-term comfort.",
+  "reassurance": "With improving energy and balance, you can begin to feel more at ease.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Improved energy can support better routine management and stable blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain consistent sleep and meal schedules",
+        "Balance activity with rest to avoid fatigue",
+        "Monitor energy levels and adjust routines"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress levels",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Energy may improve, but continued rest and pacing remain important.",
+
+      "rest_practices": [
+        "Take rest breaks during periods of activity",
+        "Avoid overexertion despite improved energy"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before sleep"
+      ],
+
+      "reassurance": "Steady rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and structured routine supports stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a regular sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines support hormonal balance and stable energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep patterns"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining balanced routines and consistent rest becomes especially important.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Balance activity with adequate rest"
+    ],
+
+    "reassurance": "Steady routines support both comfort and long-term balance."
+  }
+}

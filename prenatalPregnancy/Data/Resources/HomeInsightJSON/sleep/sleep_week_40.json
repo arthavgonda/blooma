@@ -1,0 +1,120 @@
+{
+  "week": 40,
+  "section": "rest_mindfulness",
+
+  "title": "Final Calm",
+  "subtitle": "Resting before the transition",
+
+  "description": "At this final stage, your body may need maximum rest while staying aware of changes. Sleep may be minimal, so focusing on calmness, comfort, and support can help you feel prepared for the transition ahead.",
+
+  "what_to_expect": [
+    "Maximum need for rest and recovery",
+    "Very limited or highly disrupted sleep",
+    "Strong awareness of body signals and readiness"
+  ],
+
+  "rest_practices": [
+    "Rest whenever possible without strict schedules",
+    "Use full support for comfort in all resting positions",
+    "Allow your body to guide your rest and recovery needs"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation regularly",
+    "Engage in calming activities like soft music or quiet reading",
+    "Create a peaceful and reassuring environment"
+  ],
+
+  "emotional_wellbeing": [
+    "Stay calm and trust your body's process",
+    "Focus on reassurance and emotional support",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Prioritizing rest and calm awareness can support a smoother transition.",
+  "reassurance": "You are prepared — trust your body and the care you have given throughout this journey.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Flexible routines and adequate rest support stable energy and blood sugar levels during this phase.",
+
+      "rest_practices": [
+        "Maintain regular meal timing alongside flexible rest",
+        "Take rest breaks whenever needed",
+        "Monitor your body's response to energy fluctuations"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Awareness and consistency support stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may be at its highest, requiring maximum rest and minimal exertion.",
+
+      "rest_practices": [
+        "Take frequent and extended rest breaks",
+        "Avoid prolonged or physically demanding activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before rest"
+      ],
+
+      "reassurance": "Rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and supported rest help maintain stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a calm and flexible rest routine",
+        "Avoid stimulants like caffeine"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calmness supports overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent awareness and rest support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain gentle and consistent rest patterns",
+        "Avoid irregular or stressful routines"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before rest"
+      ],
+
+      "reassurance": "Calmness and consistency support stability."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, prioritizing rest, calmness, and awareness is essential in this final stage.",
+
+    "priority_practices": [
+      "Rest whenever needed without strict schedules",
+      "Incorporate regular relaxation or breathing exercises",
+      "Focus on comfort and recovery"
+    ],
+
+    "reassurance": "Supportive routines help maintain comfort and readiness for the transition ahead."
+  }
+}

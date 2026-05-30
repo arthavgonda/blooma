@@ -1,0 +1,114 @@
+{
+  "week": 34,
+  "section": "bump_care",
+
+  "title": "Almost There",
+  "subtitle": "Final growth and preparation",
+
+  "description": "By week 34, your baby continues to grow and mature. The lungs are nearing full development, and your baby may settle deeper into the pelvis in preparation for birth.",
+
+  "what_to_expect": [
+    "Fetal movements remain strong but space is limited",
+    "Lung development is nearing completion",
+    "You may feel increased pelvic pressure as the baby settles lower"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Rest adequately and avoid strenuous activities"
+  ],
+
+  "medical_checkups": {
+    "note": "Close monitoring continues as delivery approaches.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal position"
+      },
+      {
+        "name": "Ultrasound Scan (if advised)",
+        "purpose": "Assesses growth and positioning"
+      }
+    ],
+    "guidance": "Your doctor may closely monitor your baby’s position and readiness for birth."
+  },
+
+  "important_note": "Your baby is nearing full development and preparing for delivery.",
+  "reassurance": "You are getting very close to meeting your baby.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you notice reduced movements or unusual discomfort.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports final growth and preparation for birth.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored closely during this stage.",
+
+      "reassurance": "Consistent management supports a healthy final phase."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports oxygen supply during this final growth stage.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is essential as you approach delivery.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring may become more frequent.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing metabolic stability.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As you approach delivery, managing multiple conditions requires consistent and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain a balanced and regular lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a smooth transition to delivery."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "week": 9,
+  "section": "rest_mindfulness",
+
+  "title": "Balanced Rest",
+  "subtitle": "Strengthening steady routines",
+
+  "description": "At this stage, fatigue may begin to feel more predictable, and emotional fluctuations may become easier to manage. Reinforcing stable rest routines and maintaining a calm environment can help support overall well-being.",
+
+  "what_to_expect": [
+    "Fatigue may feel more consistent rather than fluctuating",
+    "Better awareness and control of emotional responses",
+    "Improved understanding of personal rest and sleep needs"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Incorporate short rest breaks during the day",
+    "Continue building a calming and predictable bedtime routine"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or relaxation exercises daily",
+    "Engage in calming activities like reading or journaling",
+    "Limit screen exposure and stimulation before sleep"
+  ],
+
+  "emotional_wellbeing": [
+    "Recognize patterns in your mood and energy levels",
+    "Maintain a calm and supportive environment",
+    "Stay connected with trusted individuals for emotional support"
+  ],
+
+  "important_note": "Consistency in rest and mindfulness can help stabilize both energy and emotions.",
+  "reassurance": "Steady routines can help you feel more balanced and in control.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent routines support stable blood sugar levels and energy balance.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Avoid skipping meals due to fatigue",
+        "Adjust activity levels based on energy"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may continue but can be better managed with steady rest routines.",
+
+      "rest_practices": [
+        "Take regular rest breaks or short naps",
+        "Avoid prolonged or tiring activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Regular rest helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and consistent routine supports stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a regular sleep schedule",
+        "Avoid stimulants, especially in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent rest and reduced stress support hormonal balance and energy stability.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep patterns"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency helps maintain stability."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining steady rest and mindfulness routines becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Steady routines support both comfort and balance."
+  }
+}

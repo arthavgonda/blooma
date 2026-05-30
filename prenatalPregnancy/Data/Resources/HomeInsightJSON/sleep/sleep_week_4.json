@@ -1,0 +1,118 @@
+{
+  "week": 4,
+  "section": "rest_mindfulness",
+
+  "title": "Soothing Rest",
+  "subtitle": "Finding comfort through gentle care",
+
+  "description": "At this stage, early symptoms like nausea or discomfort may begin to affect your rest and sleep quality. Creating a soothing environment and allowing flexibility in your routine can help support both physical comfort and emotional balance.",
+
+  "what_to_expect": [
+    "Mild nausea or discomfort affecting rest",
+    "Interrupted or less consistent sleep patterns",
+    "Increased emotional sensitivity or need for reassurance"
+  ],
+
+  "rest_practices": [
+    "Aim for 7–9 hours of sleep with flexibility based on comfort",
+    "Take short rest breaks during the day as needed",
+    "Use supportive pillows or positions for better comfort"
+  ],
+
+  "mindfulness_practices": [
+    "Practice gentle breathing or relaxation techniques daily",
+    "Engage in calming activities like soft music or quiet reading",
+    "Reduce screen time and stimulation before sleep"
+  ],
+
+  "emotional_wellbeing": [
+    "Allow yourself to slow down and adjust expectations",
+    "Seek comfort in familiar and calming environments",
+    "Stay connected with supportive people around you"
+  ],
+
+  "important_note": "Adjusting your routine based on comfort can help manage early symptoms more effectively.",
+  "reassurance": "It’s okay to take things slowly — your comfort and rest come first.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Managing rest alongside meal timing can help support stable blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain consistent sleep and meal timing",
+        "Avoid going to bed on an empty stomach if it affects comfort",
+        "Adjust rest based on energy levels"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation techniques to manage stress",
+        "Use gentle breathing exercises before sleep"
+      ],
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue and early discomfort may require additional rest and slower pacing.",
+
+      "rest_practices": [
+        "Take frequent rest breaks during the day",
+        "Avoid prolonged activity without rest"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in gentle relaxation to conserve energy",
+        "Avoid tiring activities close to bedtime"
+      ],
+
+      "reassurance": "Rest helps support your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and flexible routine supports stable blood pressure during early symptoms.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule where possible",
+        "Avoid stimulants, especially in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow, steady breathing"
+      ],
+
+      "reassurance": "Calmness and routine support better balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent rest and stress reduction support overall hormonal balance.",
+
+      "rest_practices": [
+        "Maintain regular sleep timing as much as possible",
+        "Avoid irregular or disrupted sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness practices to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, adjusting your routine for comfort and rest becomes especially important.",
+
+    "priority_practices": [
+      "Maintain a flexible but consistent sleep routine",
+      "Incorporate daily relaxation practices",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Gentle and adaptive routines support both comfort and balance."
+  }
+}

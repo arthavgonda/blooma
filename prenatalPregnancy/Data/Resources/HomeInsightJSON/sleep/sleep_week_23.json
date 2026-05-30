@@ -1,0 +1,120 @@
+{
+  "week": 23,
+  "section": "rest_mindfulness",
+
+  "title": "Deep Recovery",
+  "subtitle": "Prioritizing rest and relaxation depth",
+
+  "description": "As your body continues to carry more physical load, you may notice a need for more frequent and deeper rest. Prioritizing recovery, comfort, and relaxation can help maintain energy and emotional balance.",
+
+  "what_to_expect": [
+    "Increased need for rest during the day",
+    "Mild physical strain affecting sleep comfort",
+    "Greater need for deeper relaxation and recovery"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Take frequent rest breaks between activities",
+    "Use supportive pillows to improve comfort during sleep"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities like soft music or reading",
+    "Allow dedicated time for uninterrupted relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Be patient with increased physical demands",
+    "Create a calm and supportive environment",
+    "Stay connected with reassuring and supportive individuals"
+  ],
+
+  "important_note": "Deeper rest and regular recovery periods can help manage increasing physical demands.",
+  "reassurance": "Giving your body time to rest and recover helps you stay comfortable and balanced.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balanced rest and consistent routines support stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Take rest breaks to avoid fatigue",
+        "Monitor your body's response to activity levels"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Increased fatigue may require more frequent rest and reduced exertion.",
+
+      "rest_practices": [
+        "Take frequent rest breaks during the day",
+        "Avoid prolonged or physically tiring activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest helps support your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and adequate rest support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and proper rest support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, prioritizing deeper rest and recovery becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Take frequent rest breaks to support recovery"
+    ],
+
+    "reassurance": "Rest and recovery-focused routines support comfort and balance."
+  }
+}

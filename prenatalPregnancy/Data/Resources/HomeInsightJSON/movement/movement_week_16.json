@@ -1,0 +1,114 @@
+{
+  "week": 16,
+  "section": "safety_awareness",
+
+  "title": "Balanced Support",
+  "subtitle": "Adapting to subtle body changes",
+
+  "description": "As your body continues to change, subtle shifts in balance and posture may begin. Focusing on stability, controlled movement, and proper support can help maintain comfort and reduce the risk of strain.",
+
+  "what_to_expect": [
+    "Slight changes in balance due to body adjustments",
+    "Increased awareness of posture and core support",
+    "Improved energy with a need for controlled movement"
+  ],
+
+  "daily_safety_tips": [
+    "Maintain proper posture and engage core gently during movement",
+    "Avoid sudden turns or movements that may affect balance",
+    "Use supportive seating and rest positions"
+  ],
+
+  "movement_guidelines": [
+    "Engage in light to moderate activities with controlled movements",
+    "Avoid activities that risk imbalance or falls",
+    "Focus on stability and proper body alignment"
+  ],
+
+  "environmental_awareness": [
+    "Be cautious on uneven, wet, or slippery surfaces",
+    "Ensure living spaces are clutter-free and safe for movement",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Use proper back and lower body support while sitting",
+    "Avoid long periods in one position without movement",
+    "Take breaks to stretch and adjust posture during travel"
+  ],
+
+  "important_note": "Maintaining balance and body support becomes increasingly important as your body adapts.",
+  "reassurance": "With mindful movement and support, you can stay active and stable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent activity and balanced routines continue to support stable blood sugar levels as activity increases.",
+
+      "movement_guidelines": [
+        "Engage in moderate movement such as walking regularly",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to activity and adjust as needed"
+      ],
+
+      "safety_focus": "Be mindful of energy fluctuations or signs of low blood sugar.",
+
+      "reassurance": "Balanced habits support ongoing stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Energy levels may be better, but balance and pacing remain important.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and move steadily",
+        "Take breaks during longer activities"
+      ],
+
+      "safety_focus": "Watch for dizziness or weakness, especially during movement.",
+
+      "reassurance": "Steady pacing helps maintain comfort and safety."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm and structured routine supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically intense situations",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Be mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during this stage.",
+
+      "movement_guidelines": [
+        "Maintain a steady activity pattern",
+        "Avoid sudden changes in exertion or routine"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining balance, controlled movement, and consistent routines is essential.",
+
+    "priority_guidelines": [
+      "Avoid activities that risk imbalance or strain",
+      "Maintain steady and moderate daily movement",
+      "Take regular breaks and stay hydrated"
+    ],
+
+    "reassurance": "Careful movement and consistency support overall safety and comfort."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "week": 3,
+  "section": "bump_care",
+
+  "title": "The Beginning of Life",
+  "subtitle": "Where everything quietly starts",
+
+  "description": "In week 3, fertilization may occur, marking the true beginning of pregnancy. A fertilized egg (zygote) starts dividing and traveling toward the uterus for implantation.",
+
+  "what_to_expect": [
+    "Fertilization may take place during this time",
+    "The zygote begins rapid cell division",
+    "The fertilized egg moves toward the uterus for implantation"
+  ],
+
+  "care_tips": [
+    "Continue maintaining a healthy and balanced diet",
+    "Avoid alcohol, smoking, and exposure to harmful substances",
+    "Ensure adequate rest and manage stress levels"
+  ],
+
+  "medical_checkups": {
+    "note": "Pregnancy is usually not confirmed yet, but early awareness remains important.",
+    "commonly_suggested": [
+      {
+        "name": "Ovulation Confirmation",
+        "purpose": "Helps understand timing of fertilization"
+      },
+      {
+        "name": "Preconception Health Review",
+        "purpose": "Ensures readiness and identifies any health concerns"
+      }
+    ],
+    "guidance": "Further confirmation tests are typically done after implantation in the following weeks."
+  },
+
+  "important_note": "This is a crucial stage where the foundation of new life begins forming at a microscopic level.",
+  "reassurance": "Even though you may not feel it yet, an important journey may have already begun within you.",
+
+  "medical_disclaimer": "Consult your healthcare provider before making any medical or lifestyle changes.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Stable blood sugar levels during this stage support healthy early cell development.",
+
+      "care_tips": [
+        "Monitor blood glucose levels regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar and processed foods"
+      ],
+
+      "medical_focus": "Blood sugar control may be reviewed to support early pregnancy health.",
+
+      "reassurance": "Keeping your levels stable can support a smoother start."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support early cellular growth and energy levels.",
+
+      "care_tips": [
+        "Include iron-rich foods in daily meals",
+        "Pair iron sources with vitamin C",
+        "Avoid skipping meals"
+      ],
+
+      "medical_focus": "Iron levels may be assessed if needed during early evaluation.",
+
+      "reassurance": "Supporting your body now helps build strength for the coming weeks."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining stable blood pressure supports a healthy internal environment for early development.",
+
+      "care_tips": [
+        "Reduce salt intake",
+        "Practice relaxation and stress management",
+        "Avoid excessive physical strain"
+      ],
+
+      "medical_focus": "Blood pressure may be monitored as part of routine care.",
+
+      "reassurance": "Calm and consistent habits can support your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels are important for early hormonal and developmental processes.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Avoid irregular eating patterns",
+        "Maintain a stable daily routine"
+      ],
+
+      "medical_focus": "Thyroid function may be reviewed during early pregnancy confirmation.",
+
+      "reassurance": "Consistency helps your body maintain balance during this phase."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "Managing multiple health conditions during this early stage requires consistency and awareness.",
+
+    "priority_tips": [
+      "Follow a structured daily routine",
+      "Adhere to medical advice consistently",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, steady efforts can support a healthy beginning."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "week": 3,
+  "section": "strength_from_within",
+
+  "title": "Light Nourishment",
+  "subtitle": "Adapting to changing appetite",
+
+  "description": "At this stage, you may begin to notice slight changes in appetite or mild discomfort. Choosing light, simple, and easy-to-digest foods can help you stay nourished while keeping you comfortable.",
+
+  "what_to_expect": [
+    "Mild changes in appetite or food preferences",
+    "Possible early nausea or sensitivity to smells",
+    "Need for lighter and more frequent meals"
+  ],
+
+  "nutrition_focus": [
+    "Eat small, frequent meals throughout the day",
+    "Choose light and easily digestible foods",
+    "Avoid staying on an empty stomach for long periods"
+  ],
+
+  "recommended_foods": [
+    "Simple foods like khichdi, dal-rice, and porridge",
+    "Fruits like banana, apple, and orange",
+    "Light vegetables like bottle gourd, pumpkin, and carrots",
+    "Protein sources like lentils, curd, and eggs (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Very spicy, oily, or heavy foods",
+    "Strong-smelling or overly rich dishes",
+    "Skipping meals despite low appetite"
+  ],
+
+  "hydration": [
+    "Sip water regularly throughout the day",
+    "Include fluids like coconut water, lemon water, or light soups"
+  ],
+
+  "reassurance": "Eating small and simple meals can help you stay comfortable and nourished.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Managing smaller and frequent meals can help maintain stable energy levels.",
+
+      "nutrition_focus": [
+        "Prefer low glycemic index foods",
+        "Eat small, frequent meals",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils and paneer"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large portion meals"
+      ],
+
+      "reassurance": "Frequent and balanced meals can help you feel more stable."
+    },
+
+    "anemia": {
+      "personalized_description": "Even with reduced appetite, including iron-rich foods remains important.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods in small portions",
+        "Pair meals with vitamin C sources",
+        "Avoid skipping meals"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Small portions can still support your strength effectively."
+    },
+
+    "hypertension": {
+      "personalized_description": "Light and balanced meals can support comfort and stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals light and balanced",
+        "Limit excess salt",
+        "Maintain regular meal timings"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Simple meals can help you feel more comfortable and balanced."
+    },
+
+    "thyroid": {
+      "personalized_description": "Maintaining consistency in meals supports overall balance despite appetite changes.",
+
+      "nutrition_focus": [
+        "Eat at regular intervals",
+        "Choose light and balanced meals",
+        "Avoid irregular eating patterns"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Even light meals can support your body effectively."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on small, simple, and regular meals can help maintain balance.",
+
+    "priority_nutrition": [
+      "Eat small and frequent meals",
+      "Choose light and easy-to-digest foods",
+      "Avoid skipping meals or long gaps"
+    ],
+
+    "reassurance": "Gentle and consistent nourishment supports your overall well-being."
+  }
+}

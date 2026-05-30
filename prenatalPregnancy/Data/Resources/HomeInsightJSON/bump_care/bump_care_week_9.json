@@ -1,0 +1,114 @@
+{
+  "week": 9,
+  "section": "bump_care",
+
+  "title": "Entering the Fetal Stage",
+  "subtitle": "From embryo to fetus",
+
+  "description": "By week 9, your baby is now officially called a fetus. Major organs have formed, and growth now focuses on development and refinement of body structures.",
+
+  "what_to_expect": [
+    "Transition from embryo to fetus",
+    "Facial features become more defined",
+    "Symptoms like nausea, fatigue, and mood changes may continue"
+  ],
+
+  "care_tips": [
+    "Continue eating small, nutritious meals",
+    "Stay hydrated and manage nausea with simple foods",
+    "Get adequate rest and avoid stress"
+  ],
+
+  "medical_checkups": {
+    "note": "Ongoing monitoring ensures steady development during this stage.",
+    "commonly_suggested": [
+      {
+        "name": "Ultrasound Scan",
+        "purpose": "Checks fetal growth and heartbeat"
+      },
+      {
+        "name": "Routine Blood Tests",
+        "purpose": "Monitors overall maternal health"
+      }
+    ],
+    "guidance": "Your doctor will guide the frequency of tests based on your progress and health condition."
+  },
+
+  "important_note": "This marks a key milestone as your baby enters the fetal stage of development.",
+  "reassurance": "Your baby is steadily growing and becoming more developed each day.",
+
+  "medical_disclaimer": "Consult your healthcare provider for any concerns or unusual symptoms.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Stable blood sugar levels continue to support healthy fetal development.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Eat balanced, frequent meals",
+        "Avoid high-sugar and processed foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored regularly during prenatal visits.",
+
+      "reassurance": "Consistent control helps support steady growth."
+    },
+
+    "anemia": {
+      "personalized_description": "Maintaining adequate iron levels supports increased blood demand and fetal growth.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair iron with vitamin C sources",
+        "Follow supplement advice if given"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be checked during routine tests.",
+
+      "reassurance": "Proper nutrition supports both your energy and your baby’s growth."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during fetal development.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm routine supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels are important for continued brain and organ development.",
+
+      "care_tips": [
+        "Take prescribed medication consistently",
+        "Maintain regular routines",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As your baby enters the fetal stage, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical guidance consistently",
+      "Maintain a balanced routine",
+      "Avoid sudden lifestyle or dietary changes"
+    ],
+
+    "reassurance": "Small, consistent efforts can support healthy development."
+  }
+}

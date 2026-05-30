@@ -1,0 +1,120 @@
+{
+  "week": 17,
+  "section": "rest_mindfulness",
+
+  "title": "Calm Continuity",
+  "subtitle": "Sustaining balance and relaxation",
+
+  "description": "At this stage, your body may feel more adapted to a steady routine. Maintaining consistent rest patterns and deepening relaxation habits can support sustained energy, emotional balance, and overall comfort.",
+
+  "what_to_expect": [
+    "Stable energy levels with predictable daily rhythms",
+    "Improved ability to relax and unwind",
+    "Consistent emotional balance with reduced fluctuations"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Continue balancing activity with planned rest breaks",
+    "Ensure a calm, comfortable, and supportive sleep environment"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or relaxation exercises daily",
+    "Engage in calming activities like journaling or soft music",
+    "Take intentional pauses during the day for relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Maintain emotional stability through routine and calmness",
+    "Create time for self-care and relaxation",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Consistency in rest and relaxation helps sustain long-term comfort and stability.",
+  "reassurance": "With steady routines, you can continue to feel balanced and at ease.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Stable routines support consistent energy and balanced blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Balance activity with adequate rest",
+        "Monitor energy levels throughout the day"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Energy may feel stable, but continued rest and pacing remain important.",
+
+      "rest_practices": [
+        "Take rest breaks during extended activity",
+        "Avoid overexertion"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Steady rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm and structured routines support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines support hormonal balance and stable energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, sustaining consistent rest and calm routines becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Balance activity with adequate rest"
+    ],
+
+    "reassurance": "Steady routines support both comfort and long-term well-being."
+  }
+}

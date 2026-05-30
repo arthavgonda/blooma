@@ -1,0 +1,152 @@
+{
+  "week": 24,
+  "section": "strength_from_within",
+
+  "title": "Steady Nourishment",
+  "subtitle": "Fueling through balanced timing",
+
+  "description": "As your body's energy demands continue to rise, you may feel hungrier more often. Paying attention to meal spacing and including nutrient-dense foods can help maintain steady energy and overall well-being.",
+
+  "what_to_expect": [
+    "Stronger and more frequent hunger cues",
+    "Need for better meal spacing",
+    "Increased importance of sustained energy intake"
+  ],
+
+  "nutrition_focus": [
+    "Maintain proper spacing between meals and snacks",
+    "Focus on nutrient-dense and energy-supporting foods",
+    "Avoid long gaps between meals"
+  ],
+
+  "recommended_foods": [
+    "Balanced meals like dal, roti, rice, sabzi, and salad",
+    "Fruits like banana, apple, orange, guava, and pomegranate",
+    "Vegetables including spinach, beetroot, carrots, beans, and broccoli",
+    "Healthy snacks like nuts, roasted chana, fruit bowls, or curd",
+    "Protein sources like milk, paneer, lentils, eggs, or chicken (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Excessively oily or fried foods",
+    "Highly processed snacks",
+    "Skipping meals or delaying meals for long periods"
+  ],
+
+  "hydration": [
+    "Drink water consistently throughout the day",
+    "Include fluids like buttermilk, coconut water, or lemon water"
+  ],
+
+  "reassurance": "Timely meals and balanced nutrition help you stay energized and supported.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Proper meal spacing and balanced intake help maintain stable blood sugar levels.",
+
+      "nutrition_focus": [
+        "Eat at regular intervals with controlled portions",
+        "Balance carbohydrates with protein and fiber",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils, paneer, and nuts"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large or irregular meals"
+      ],
+
+      "reassurance": "Consistent meal timing supports steady energy."
+    },
+
+    "anemia": {
+      "personalized_description": "Regular meals with iron-rich foods help support energy and reduce fatigue.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods daily",
+        "Pair meals with vitamin C sources",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Regular nourishment supports your energy levels."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals with proper spacing support stable blood pressure.",
+
+      "nutrition_focus": [
+        "Maintain regular meal timings",
+        "Limit excess salt intake",
+        "Avoid heavy or processed foods"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Regular meals help maintain a calm and balanced routine."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent meal timing supports metabolic balance and steady energy.",
+
+      "nutrition_focus": [
+        "Maintain regular eating intervals",
+        "Include balanced nutrients in meals",
+        "Avoid irregular eating habits"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency in timing supports your body's rhythm."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, proper meal spacing and balanced nutrition help maintain energy and stability.",
+
+    "priority_nutrition": [
+      "Maintain regular meal and snack timings",
+      "Avoid long gaps between meals",
+      "Focus on nutrient-dense foods"
+    ],
+
+    "reassurance": "Timely and balanced nourishment supports your overall well-being."
+  }
+}

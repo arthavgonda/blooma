@@ -1,0 +1,114 @@
+{
+  "week": 8,
+  "section": "safety_awareness",
+
+  "title": "Steady Adaptation",
+  "subtitle": "Finding comfort within changing routines",
+
+  "description": "At this stage, while symptoms like nausea and fatigue may still be present, your body may begin to gradually adapt. Maintaining a steady routine with gentle activity, proper rest, and awareness of triggers can help improve comfort and stability.",
+
+  "what_to_expect": [
+    "Nausea may continue but could feel more manageable at times",
+    "Fatigue remains, but you may begin adapting to energy changes",
+    "Better awareness of personal triggers like smells or environments"
+  ],
+
+  "daily_safety_tips": [
+    "Follow a consistent daily routine with planned rest periods",
+    "Avoid sudden or unnecessary movements that may trigger discomfort",
+    "Keep hydration and light snacks easily accessible"
+  ],
+
+  "movement_guidelines": [
+    "Engage in gentle movement such as short, slow walks",
+    "Avoid overexertion and physically demanding activities",
+    "Balance activity with regular rest intervals"
+  ],
+
+  "environmental_awareness": [
+    "Continue avoiding strong odors, smoke, and chemical exposure",
+    "Stay in clean, well-ventilated, and calm environments",
+    "Identify and avoid personal triggers that worsen symptoms"
+  ],
+
+  "travel_safety": [
+    "Limit long or uncomfortable travel where possible",
+    "Use seatbelts correctly and ensure proper support while sitting",
+    "Take breaks to move and stretch during necessary travel"
+  ],
+
+  "important_note": "Recognizing your body's patterns and adapting your routine can help improve daily comfort.",
+  "reassurance": "With gentle adjustments, you may begin to feel more in control of your routine.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent meals, hydration, and light activity supports stable blood sugar levels as your body adapts.",
+
+      "movement_guidelines": [
+        "Engage in gentle movement such as short walks after meals",
+        "Avoid skipping meals and maintain regular eating patterns",
+        "Monitor your body's response to activity and adjust accordingly"
+      ],
+
+      "safety_focus": "Be alert to dizziness, weakness, or signs of low energy during activity.",
+
+      "reassurance": "Consistency in routine supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may still be present, requiring continued rest and careful pacing.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and allow frequent rest breaks",
+        "Move slowly and steadily throughout the day"
+      ],
+
+      "safety_focus": "Watch for dizziness, weakness, or breathlessness during activity.",
+
+      "reassurance": "Steady pacing and rest help maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm, structured routine supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in slow, controlled, and relaxed movements"
+      ],
+
+      "safety_focus": "Stay away from environments that may increase stress or discomfort.",
+
+      "reassurance": "A balanced and calm routine supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent daily habits help maintain metabolic balance during this phase.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity routine",
+        "Avoid sudden changes in energy levels or activity patterns"
+      ],
+
+      "safety_focus": "Be mindful of unusual fatigue or restlessness.",
+
+      "reassurance": "Regular routines help support stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining a consistent and gentle routine with proper rest and hydration remains essential.",
+
+    "priority_guidelines": [
+      "Avoid strenuous or physically demanding activities",
+      "Maintain slow and steady daily movement",
+      "Take regular breaks and stay well-hydrated"
+    ],
+
+    "reassurance": "Consistency and awareness support overall comfort and safety."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "week": 2,
+  "section": "safety_awareness",
+
+  "title": "Gentle Awareness",
+  "subtitle": "Adapting safely to early changes",
+
+  "description": "As your body continues adjusting, maintaining gentle and mindful daily habits becomes increasingly important. Subtle changes may begin, so staying aware of your movements and surroundings can help you feel more stable and comfortable.",
+
+  "what_to_expect": [
+    "Mild fatigue or low energy levels may begin to appear",
+    "Increased sensitivity to physical strain or long activity",
+    "Need for slightly slower and more mindful movement"
+  ],
+
+  "daily_safety_tips": [
+    "Avoid lifting heavy objects or engaging in physically tiring tasks",
+    "Choose stable, comfortable footwear to reduce risk of imbalance",
+    "Maintain good posture and take breaks when sitting or standing for long periods"
+  ],
+
+  "movement_guidelines": [
+    "Continue light activities such as walking at a comfortable pace",
+    "Avoid high-impact or physically exhausting exercises",
+    "Take short breaks and rest when feeling tired"
+  ],
+
+  "environmental_awareness": [
+    "Avoid exposure to strong chemicals, smoke, or polluted environments",
+    "Keep living spaces well-ventilated and clean",
+    "Be extra careful on slippery, crowded, or uneven surfaces"
+  ],
+
+  "travel_safety": [
+    "Limit long or unnecessary travel, especially if feeling fatigued",
+    "Use seatbelts correctly with proper positioning below the abdomen",
+    "Take short movement breaks during longer periods of sitting"
+  ],
+
+  "important_note": "Listening to your body's signals and slowing down when needed can help prevent discomfort.",
+  "reassurance": "A gentle and mindful routine can help you stay comfortable and supported.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Regular and gentle activity can help maintain stable blood sugar levels during early changes.",
+
+      "movement_guidelines": [
+        "Engage in light movement such as short, frequent walks",
+        "Avoid long gaps between meals and activity",
+        "Monitor your body's response during and after movement"
+      ],
+
+      "safety_focus": "Be aware of signs like dizziness, sweating, or sudden weakness.",
+
+      "reassurance": "Consistent and balanced activity can support better control and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may become more noticeable, requiring slower and more careful movement.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and take frequent rest breaks",
+        "Move slowly when standing up or changing positions"
+      ],
+
+      "safety_focus": "Watch for symptoms such as dizziness, weakness, or shortness of breath.",
+
+      "reassurance": "Pacing your activities helps maintain energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm and steady routines supports stable blood pressure levels.",
+
+      "movement_guidelines": [
+        "Avoid physically or emotionally stressful activities",
+        "Prefer slow, controlled, and relaxed movements"
+      ],
+
+      "safety_focus": "Avoid environments that may cause stress or physical strain.",
+
+      "reassurance": "A calm approach to daily activity helps maintain balance and safety."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced and consistent activity helps support metabolic stability during early changes.",
+
+      "movement_guidelines": [
+        "Maintain a regular and moderate activity routine",
+        "Avoid sudden increases or drops in activity levels"
+      ],
+
+      "safety_focus": "Be mindful of unusual fatigue, restlessness, or energy fluctuations.",
+
+      "reassurance": "Consistency in daily habits supports overall well-being."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining gentle, consistent, and well-paced movement is especially important.",
+
+    "priority_guidelines": [
+      "Avoid high-impact or physically demanding activities",
+      "Maintain a slow and steady level of movement",
+      "Take regular breaks and listen to your body's signals"
+    ],
+
+    "reassurance": "A balanced and careful routine supports overall safety and comfort."
+  }
+}

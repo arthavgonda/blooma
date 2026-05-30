@@ -1,0 +1,114 @@
+{
+  "week": 15,
+  "section": "safety_awareness",
+
+  "title": "Sustained Comfort",
+  "subtitle": "Balancing activity with body awareness",
+
+  "description": "At this stage, energy levels may feel more consistent, allowing for longer periods of activity. While this can improve daily comfort, maintaining proper posture and avoiding strain becomes increasingly important as your body continues to adapt.",
+
+  "what_to_expect": [
+    "More sustained energy throughout the day",
+    "Improved tolerance for daily activities",
+    "Increased awareness of posture and body alignment"
+  ],
+
+  "daily_safety_tips": [
+    "Maintain good posture while sitting, standing, and walking",
+    "Avoid carrying heavy loads or placing strain on your back",
+    "Take breaks during long periods of activity to prevent fatigue"
+  ],
+
+  "movement_guidelines": [
+    "Engage in light to moderate activities such as walking or gentle stretching",
+    "Avoid activities that involve sudden movements or imbalance",
+    "Focus on controlled and steady movements"
+  ],
+
+  "environmental_awareness": [
+    "Continue avoiding exposure to harmful chemicals, smoke, or pollutants",
+    "Stay in clean, well-ventilated, and safe environments",
+    "Be cautious on uneven or slippery surfaces"
+  ],
+
+  "travel_safety": [
+    "Travel can be more comfortable but should still be paced",
+    "Use proper back support while sitting for long durations",
+    "Take breaks to move and stretch during travel"
+  ],
+
+  "important_note": "As activity increases, maintaining posture and avoiding strain becomes essential.",
+  "reassurance": "With mindful movement and posture, you can stay active and comfortable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "With increased activity tolerance, maintaining balanced meals and regular movement supports stable blood sugar levels.",
+
+      "movement_guidelines": [
+        "Engage in regular moderate activity such as walking",
+        "Maintain consistent meal timing and balanced nutrition",
+        "Monitor your body's response to longer activity periods"
+      ],
+
+      "safety_focus": "Be mindful of energy fluctuations or signs of low blood sugar during extended activity.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Improved energy may allow more activity, but pacing is still important.",
+
+      "movement_guidelines": [
+        "Gradually increase activity while avoiding fatigue",
+        "Take breaks during longer tasks"
+      ],
+
+      "safety_focus": "Watch for dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Steady pacing helps maintain energy levels."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm and steady routine supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in controlled and relaxed movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and environmental triggers.",
+
+      "reassurance": "A calm and balanced routine supports well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance as activity increases.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden increases in workload or exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining posture, steady activity, and balanced routines remains essential.",
+
+    "priority_guidelines": [
+      "Avoid overexertion or prolonged strain",
+      "Maintain moderate and consistent daily movement",
+      "Take regular breaks and stay hydrated"
+    ],
+
+    "reassurance": "Balanced pacing and awareness support overall comfort and safety."
+  }
+}

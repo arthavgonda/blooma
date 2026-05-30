@@ -1,0 +1,114 @@
+{
+  "week": 11,
+  "section": "safety_awareness",
+
+  "title": "Stable Flow",
+  "subtitle": "Maintaining balance in daily routines",
+
+  "description": "At this stage, many early symptoms may begin to settle, and daily routines can feel more manageable. Maintaining a steady balance between activity and rest, while continuing safe practices, helps support comfort and stability.",
+
+  "what_to_expect": [
+    "Nausea may reduce significantly for many individuals",
+    "Energy levels may feel more stable throughout the day",
+    "Improved ability to carry out routine daily activities"
+  ],
+
+  "daily_safety_tips": [
+    "Maintain a consistent routine with balanced activity and rest",
+    "Avoid overconfidence in increasing workload or physical strain",
+    "Continue prioritizing hydration and regular meals"
+  ],
+
+  "movement_guidelines": [
+    "Engage in light to moderate activities at a comfortable pace",
+    "Avoid sudden or excessive increases in physical effort",
+    "Continue taking breaks to prevent fatigue"
+  ],
+
+  "environmental_awareness": [
+    "Continue avoiding exposure to harmful chemicals, smoke, or pollutants",
+    "Stay in clean, well-ventilated environments",
+    "Be mindful of surroundings that may still cause discomfort"
+  ],
+
+  "travel_safety": [
+    "Carry out necessary travel with appropriate precautions",
+    "Use seatbelts properly and maintain good posture",
+    "Take regular breaks during longer journeys to stretch and move"
+  ],
+
+  "important_note": "Even with improved comfort, maintaining safe and consistent habits remains important.",
+  "reassurance": "A balanced routine supports continued comfort and well-being.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "With improved stability, maintaining consistent meals and regular activity continues to support blood sugar balance.",
+
+      "movement_guidelines": [
+        "Engage in light to moderate movement such as walking after meals",
+        "Maintain regular meal timing and portion control",
+        "Monitor your body's response to routine changes"
+      ],
+
+      "safety_focus": "Be aware of fluctuations in energy or signs of low blood sugar.",
+
+      "reassurance": "Consistency in daily habits helps maintain stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Energy levels may feel better, but continued pacing and rest are still important.",
+
+      "movement_guidelines": [
+        "Gradually increase activity while avoiding fatigue",
+        "Take breaks as needed to maintain energy levels"
+      ],
+
+      "safety_focus": "Watch for dizziness, weakness, or breathlessness during activity.",
+
+      "reassurance": "Balanced pacing supports steady energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm and steady routine continues to support stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically intense situations",
+        "Engage in controlled and relaxed movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and environmental factors.",
+
+      "reassurance": "A calm and consistent approach supports overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during this phase.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity level",
+        "Avoid sudden changes in routine or exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy changes.",
+
+      "reassurance": "Consistency helps maintain stability and well-being."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining a consistent and balanced routine remains essential for overall safety.",
+
+    "priority_guidelines": [
+      "Avoid sudden increases in physical activity or stress",
+      "Maintain steady and moderate daily movement",
+      "Continue hydration and regular rest breaks"
+    ],
+
+    "reassurance": "Consistency and balance support ongoing comfort and safety."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "week": 20,
+  "section": "rest_mindfulness",
+
+  "title": "Midway Comfort",
+  "subtitle": "Supporting deeper rest and relaxation",
+
+  "description": "At the midpoint of pregnancy, physical changes may begin to affect how you rest and sleep. Prioritizing comfort, especially back support and relaxation quality, can help maintain restful sleep and overall well-being.",
+
+  "what_to_expect": [
+    "Increased need for comfortable sleep positioning",
+    "Occasional fatigue despite stable energy levels",
+    "Greater focus on relaxation quality during rest"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Use supportive pillows for back and side comfort",
+    "Adjust rest positions to improve sleep quality"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or relaxation exercises daily",
+    "Engage in calming activities like reading or soft music",
+    "Take time during the day for quiet relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Maintain calmness through structured routines",
+    "Adapt gently to physical changes",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Comfort-focused rest and proper support can improve relaxation and reduce discomfort.",
+  "reassurance": "With the right support, your rest can remain comfortable and refreshing.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balanced routines and comfortable rest support stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Balance activity with adequate rest",
+        "Monitor your body's response to fatigue"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Mild fatigue may persist, requiring continued rest and comfort-focused routines.",
+
+      "rest_practices": [
+        "Take rest breaks during extended activity",
+        "Use comfortable positions to reduce strain"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Steady rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and comfortable rest support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines support hormonal balance and stable energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on comfort, support, and consistent rest routines becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Use supportive positioning for better rest"
+    ],
+
+    "reassurance": "Comfort-focused routines support both relaxation and long-term balance."
+  }
+}

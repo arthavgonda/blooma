@@ -1,0 +1,114 @@
+{
+  "week": 34,
+  "section": "safety_awareness",
+
+  "title": "Preparation Phase",
+  "subtitle": "Supporting your body for the final weeks",
+
+  "description": "As your body prepares for the final stages of pregnancy, you may experience increased pressure and discomfort. Prioritizing rest, maintaining supportive positions, and staying aware of your body's signals can help you stay comfortable and prepared.",
+
+  "what_to_expect": [
+    "Increased pressure in the lower body and pelvis",
+    "Greater discomfort during movement and rest",
+    "Heightened awareness of body changes and readiness signals"
+  ],
+
+  "daily_safety_tips": [
+    "Prioritize rest and avoid unnecessary physical effort",
+    "Use supportive pillows and positions to reduce pressure",
+    "Move slowly and carefully during all activities"
+  ],
+
+  "movement_guidelines": [
+    "Limit movement to gentle and essential activities",
+    "Avoid any movement that causes discomfort or strain",
+    "Use support or assistance whenever needed"
+  ],
+
+  "environmental_awareness": [
+    "Ensure surroundings are safe, stable, and easily accessible",
+    "Keep pathways clear to prevent trips or falls",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Avoid travel unless absolutely necessary",
+    "Use maximum support while seated",
+    "Take breaks to adjust posture if travel cannot be avoided"
+  ],
+
+  "important_note": "Listening to your body and prioritizing rest can help you stay comfortable during this phase.",
+  "reassurance": "With support and gentle care, you can feel more at ease as you approach the final weeks.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent meals and minimal activity supports stable blood sugar levels during this phase.",
+
+      "movement_guidelines": [
+        "Engage in minimal gentle movement when comfortable",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to reduced activity"
+      ],
+
+      "safety_focus": "Watch for fatigue, dizziness, or changes in energy levels.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Increased fatigue and discomfort require maximum rest and minimal exertion.",
+
+      "movement_guidelines": [
+        "Limit activity to essential tasks only",
+        "Take frequent and extended rest periods"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and minimal effort help maintain comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm environment and avoiding strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in minimal and controlled movements"
+      ],
+
+      "safety_focus": "Be mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and minimal activity support metabolic balance during this stage.",
+
+      "movement_guidelines": [
+        "Maintain a steady and minimal activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, prioritizing rest, support, and minimal movement becomes critical during this phase.",
+
+    "priority_guidelines": [
+      "Avoid unnecessary physical effort or strain",
+      "Maintain minimal and essential movement only",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Careful rest and support help maintain comfort and safety."
+  }
+}

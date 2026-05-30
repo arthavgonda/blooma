@@ -1,0 +1,114 @@
+{
+  "week": 1,
+  "section": "safety_awareness",
+
+  "title": "Safe Movement",
+  "subtitle": "Building awareness in your daily routine",
+
+  "description": "At this early stage, adopting safe and mindful daily habits can help reduce unnecessary risks. Small adjustments in movement and environment can support a smoother journey ahead.",
+
+  "what_to_expect": [
+    "No major physical limitations yet, but awareness becomes important",
+    "Early pregnancy requires cautious and balanced activity",
+    "Body sensitivity may gradually increase over time"
+  ],
+
+  "daily_safety_tips": [
+    "Avoid lifting heavy objects or sudden jerky movements",
+    "Wear comfortable and supportive footwear",
+    "Maintain proper posture while sitting and standing"
+  ],
+
+  "movement_guidelines": [
+    "Engage in light physical activity such as walking",
+    "Avoid high-impact or strenuous exercises",
+    "Listen to your body and stop if discomfort occurs"
+  ],
+
+  "environmental_awareness": [
+    "Avoid exposure to harmful chemicals or strong fumes",
+    "Ensure proper ventilation in living spaces",
+    "Be cautious on slippery or uneven surfaces"
+  ],
+
+  "travel_safety": [
+    "Limit unnecessary travel during early stages",
+    "Use seatbelts properly while traveling",
+    "Avoid long periods of continuous sitting without movement"
+  ],
+
+  "important_note": "Early awareness and small precautions can help prevent avoidable strain or risks.",
+  "reassurance": "Simple, mindful actions can make your daily routine safer and more comfortable.",
+
+  "medical_disclaimer": "Consult your healthcare provider before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining safe activity levels can help support stable blood sugar management.",
+
+      "movement_guidelines": [
+        "Engage in light, regular activity like short walks",
+        "Avoid skipping meals before physical activity",
+        "Monitor energy levels during movement"
+      ],
+
+      "safety_focus": "Be mindful of signs of low energy or dizziness during activity.",
+
+      "reassurance": "Balanced movement can support both safety and stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Low energy levels may require extra caution during physical activity.",
+
+      "movement_guidelines": [
+        "Avoid prolonged standing or exertion",
+        "Move slowly when changing positions"
+      ],
+
+      "safety_focus": "Watch for signs like dizziness or fatigue during activity.",
+
+      "reassurance": "Gentle and mindful movement helps conserve your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Controlled and gentle activity can support stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid sudden or intense physical exertion",
+        "Incorporate calm and steady movements"
+      ],
+
+      "safety_focus": "Avoid stress-inducing or physically demanding environments.",
+
+      "reassurance": "Slow and steady routines support better balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Maintaining a balanced activity level supports overall metabolic stability.",
+
+      "movement_guidelines": [
+        "Avoid extreme inactivity or overexertion",
+        "Maintain a consistent daily activity pattern"
+      ],
+
+      "safety_focus": "Pay attention to unusual fatigue or restlessness.",
+
+      "reassurance": "Moderation in movement helps maintain balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, prioritizing safe and moderate movement becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid strenuous or high-impact activities",
+      "Maintain a steady and moderate activity level",
+      "Be attentive to body signals during movement"
+    ],
+
+    "reassurance": "Careful and consistent movement can support your overall safety."
+  }
+}

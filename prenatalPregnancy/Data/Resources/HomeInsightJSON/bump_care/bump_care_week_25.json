@@ -1,0 +1,114 @@
+{
+  "week": 25,
+  "section": "bump_care",
+
+  "title": "Responding to You",
+  "subtitle": "Senses become more active",
+
+  "description": "By week 25, your baby’s senses continue to develop, and responsiveness to sound and touch becomes more noticeable. Movements are stronger, and you may feel clear patterns of activity.",
+
+  "what_to_expect": [
+    "Fetal movements are strong and more predictable",
+    "Baby may respond to sounds and voices",
+    "You may notice regular patterns of activity and rest"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Engage in light exercise and maintain proper posture"
+  ],
+
+  "medical_checkups": {
+    "note": "Monitoring continues with focus on growth and responsiveness.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal development"
+      },
+      {
+        "name": "Glucose Tolerance Test (if not done earlier)",
+        "purpose": "Screens for gestational diabetes"
+      }
+    ],
+    "guidance": "Your doctor may complete or review glucose testing results during this period."
+  },
+
+  "important_note": "Your baby’s increasing responsiveness is a positive sign of sensory development.",
+  "reassurance": "You may start feeling a stronger connection as your baby responds to your voice and movements.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you notice any unusual changes in movement patterns.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports continued growth and responsiveness.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be reviewed along with glucose test results.",
+
+      "reassurance": "Consistent management supports healthy development."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports oxygen supply during increased activity and development.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during this active stage.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support continued growth and metabolic balance.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As responsiveness increases, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support healthy development."
+  }
+}

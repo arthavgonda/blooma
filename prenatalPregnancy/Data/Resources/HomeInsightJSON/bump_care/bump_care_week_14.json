@@ -1,0 +1,114 @@
+{
+  "week": 14,
+  "section": "bump_care",
+
+  "title": "Growing with Strength",
+  "subtitle": "Development becomes more active",
+
+  "description": "By week 14, your baby continues to grow steadily, and many body systems become more active. You may begin to feel more energetic as early pregnancy symptoms continue to ease.",
+
+  "what_to_expect": [
+    "Increased fetal movement, though not yet felt",
+    "Facial expressions begin developing",
+    "Energy levels may improve as symptoms reduce"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow regular meal timings",
+    "Engage in light physical activity like walking"
+  ],
+
+  "medical_checkups": {
+    "note": "Routine monitoring continues during this stable phase.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Monitors maternal health and fetal growth"
+      },
+      {
+        "name": "Urine Test",
+        "purpose": "Checks for infections and overall health markers"
+      }
+    ],
+    "guidance": "Your doctor may schedule regular visits to track your progress and address any concerns."
+  },
+
+  "important_note": "This stage marks steady growth and increasing activity in your baby’s development.",
+  "reassurance": "You may begin to feel more comfortable and energetic as your journey progresses.",
+
+  "medical_disclaimer": "Continue following your healthcare provider’s guidance for a healthy pregnancy.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports ongoing growth and energy balance.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timing",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be reviewed during routine prenatal visits.",
+
+      "reassurance": "Consistent care supports healthy progress."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron intake supports increased blood volume and energy levels.",
+
+      "care_tips": [
+        "Include iron-rich foods in your meals",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during this stage of growth.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice stress management",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm routine supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support continued development and metabolism.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As your pregnancy progresses, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced routine",
+      "Avoid sudden lifestyle or dietary changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support healthy development."
+  }
+}

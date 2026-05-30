@@ -1,0 +1,114 @@
+{
+  "week": 31,
+  "section": "safety_awareness",
+
+  "title": "Comfort First",
+  "subtitle": "Prioritizing rest and ease",
+
+  "description": "As your body continues to carry increased weight, movement may feel more uncomfortable and tiring. Prioritizing rest, using support, and minimizing strain can help you stay comfortable and reduce unnecessary stress on the body.",
+
+  "what_to_expect": [
+    "Increased discomfort during movement or prolonged activity",
+    "Greater dependence on rest and support",
+    "Reduced ease in performing routine physical tasks"
+  ],
+
+  "daily_safety_tips": [
+    "Plan your day around comfort and avoid unnecessary strain",
+    "Use support while changing positions or performing tasks",
+    "Keep essential items within easy reach to reduce movement"
+  ],
+
+  "movement_guidelines": [
+    "Engage in gentle movement only as comfortable",
+    "Avoid activities that cause discomfort or strain",
+    "Move slowly and take breaks frequently"
+  ],
+
+  "environmental_awareness": [
+    "Ensure surroundings are safe, clutter-free, and easy to navigate",
+    "Use stable support surfaces while moving",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Limit travel to essential needs only",
+    "Use proper support for back, legs, and sides while seated",
+    "Take frequent breaks to adjust posture and move gently"
+  ],
+
+  "important_note": "Prioritizing comfort and reducing strain can help manage increasing physical demands.",
+  "reassurance": "Listening to your body and resting when needed helps maintain comfort and safety.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining balanced meals and gentle activity supports stable blood sugar levels during reduced mobility.",
+
+      "movement_guidelines": [
+        "Engage in gentle activity such as short walks when comfortable",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to reduced movement"
+      ],
+
+      "safety_focus": "Watch for fatigue, dizziness, or changes in energy levels.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue and reduced stamina require increased rest and minimal strain.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and limit activity to essential tasks",
+        "Take frequent rest breaks"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and gentle pacing help maintain comfort and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm routine and avoiding physical strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Be mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and manageable activity support metabolic balance during reduced mobility.",
+
+      "movement_guidelines": [
+        "Maintain a steady and minimal activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, prioritizing comfort, minimizing strain, and maintaining gentle routines becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid overexertion or unnecessary physical activity",
+      "Maintain gentle and consistent daily movement",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Careful pacing and rest support overall comfort and safety."
+  }
+}

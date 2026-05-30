@@ -1,0 +1,1404 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q1)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q1"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q2)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q2"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q3)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q3"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q4)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q4"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q5)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q5"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q6)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q6"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q7)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q7"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q8)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q8"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q9)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q9"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q10)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q10"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q11)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q11"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q12)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q12"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q13)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q13"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q14)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q14"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q15)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q15"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q16)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q16"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q17)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q17"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q18)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q18"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q19)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q19"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q20)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q20"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q21)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q21"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q22)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q22"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q23)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q23"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q24)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q24"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q25)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q25"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q26)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q26"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q27)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q27"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q28)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q28"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q29)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q29"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q30)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q30"
+      ]
+    },
+    {
+      "id": 31,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q31)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q31"
+      ]
+    },
+    {
+      "id": 32,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q32)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q32"
+      ]
+    },
+    {
+      "id": 33,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q33)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q33"
+      ]
+    },
+    {
+      "id": 34,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q34)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q34"
+      ]
+    },
+    {
+      "id": 35,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q35)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q35"
+      ]
+    },
+    {
+      "id": 36,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q36)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q36"
+      ]
+    },
+    {
+      "id": 37,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q37)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q37"
+      ]
+    },
+    {
+      "id": 38,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q38)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q38"
+      ]
+    },
+    {
+      "id": 39,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q39)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q39"
+      ]
+    },
+    {
+      "id": 40,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q40)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q40"
+      ]
+    },
+    {
+      "id": 41,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q41)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q41"
+      ]
+    },
+    {
+      "id": 42,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q42)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q42"
+      ]
+    },
+    {
+      "id": 43,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q43)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q43"
+      ]
+    },
+    {
+      "id": 44,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q44)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q44"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q45)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q45"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q46)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q46"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q47)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q47"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q48)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q48"
+      ]
+    },
+    {
+      "id": 49,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q49)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q49"
+      ]
+    },
+    {
+      "id": 50,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q50)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q50"
+      ]
+    },
+    {
+      "id": 51,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q51)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q51"
+      ]
+    },
+    {
+      "id": 52,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q52)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q52"
+      ]
+    },
+    {
+      "id": 53,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q53)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q53"
+      ]
+    },
+    {
+      "id": 54,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q54)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q54"
+      ]
+    },
+    {
+      "id": 55,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q55)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q55"
+      ]
+    },
+    {
+      "id": 56,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q56)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q56"
+      ]
+    },
+    {
+      "id": 57,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q57)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q57"
+      ]
+    },
+    {
+      "id": 58,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q58)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q58"
+      ]
+    },
+    {
+      "id": 59,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q59)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q59"
+      ]
+    },
+    {
+      "id": 60,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q60)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q60"
+      ]
+    },
+    {
+      "id": 61,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q61)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q61"
+      ]
+    },
+    {
+      "id": 62,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q62)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q62"
+      ]
+    },
+    {
+      "id": 63,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q63)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q63"
+      ]
+    },
+    {
+      "id": 64,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q64)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q64"
+      ]
+    },
+    {
+      "id": 65,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q65)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q65"
+      ]
+    },
+    {
+      "id": 66,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q66)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q66"
+      ]
+    },
+    {
+      "id": 67,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q67)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q67"
+      ]
+    },
+    {
+      "id": 68,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q68)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q68"
+      ]
+    },
+    {
+      "id": 69,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q69)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q69"
+      ]
+    },
+    {
+      "id": 70,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q70)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q70"
+      ]
+    },
+    {
+      "id": 71,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q71)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q71"
+      ]
+    },
+    {
+      "id": 72,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q72)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q72"
+      ]
+    },
+    {
+      "id": 73,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q73)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q73"
+      ]
+    },
+    {
+      "id": 74,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q74)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q74"
+      ]
+    },
+    {
+      "id": 75,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q75)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q75"
+      ]
+    },
+    {
+      "id": 76,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q76)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q76"
+      ]
+    },
+    {
+      "id": 77,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q77)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q77"
+      ]
+    },
+    {
+      "id": 78,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q78)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q78"
+      ]
+    },
+    {
+      "id": 79,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q79)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q79"
+      ]
+    },
+    {
+      "id": 80,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q80)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q80"
+      ]
+    },
+    {
+      "id": 81,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q81)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q81"
+      ]
+    },
+    {
+      "id": 82,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q82)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q82"
+      ]
+    },
+    {
+      "id": 83,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q83)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q83"
+      ]
+    },
+    {
+      "id": 84,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q84)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q84"
+      ]
+    },
+    {
+      "id": 85,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q85)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q85"
+      ]
+    },
+    {
+      "id": 86,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q86)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q86"
+      ]
+    },
+    {
+      "id": 87,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q87)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q87"
+      ]
+    },
+    {
+      "id": 88,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q88)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q88"
+      ]
+    },
+    {
+      "id": 89,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q89)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q89"
+      ]
+    },
+    {
+      "id": 90,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q90)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q90"
+      ]
+    },
+    {
+      "id": 91,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q91)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q91"
+      ]
+    },
+    {
+      "id": 92,
+      "category": "Workouts",
+      "icon": "figure.walk",
+      "question": "How does workouts feature work in Blooma? (Q92)",
+      "answer": "This feature in Blooma helps you manage workouts effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "workouts",
+        "blooma",
+        "help",
+        "feature",
+        "q92"
+      ]
+    },
+    {
+      "id": 93,
+      "category": "Progress",
+      "icon": "chart.bar",
+      "question": "How does progress feature work in Blooma? (Q93)",
+      "answer": "This feature in Blooma helps you manage progress effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "progress",
+        "blooma",
+        "help",
+        "feature",
+        "q93"
+      ]
+    },
+    {
+      "id": 94,
+      "category": "Tracking",
+      "icon": "waveform.path.ecg",
+      "question": "How does tracking feature work in Blooma? (Q94)",
+      "answer": "This feature in Blooma helps you manage tracking effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "tracking",
+        "blooma",
+        "help",
+        "feature",
+        "q94"
+      ]
+    },
+    {
+      "id": 95,
+      "category": "Account",
+      "icon": "person.crop.circle",
+      "question": "How does account feature work in Blooma? (Q95)",
+      "answer": "This feature in Blooma helps you manage account effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "account",
+        "blooma",
+        "help",
+        "feature",
+        "q95"
+      ]
+    },
+    {
+      "id": 96,
+      "category": "Devices",
+      "icon": "applewatch",
+      "question": "How does devices feature work in Blooma? (Q96)",
+      "answer": "This feature in Blooma helps you manage devices effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "devices",
+        "blooma",
+        "help",
+        "feature",
+        "q96"
+      ]
+    },
+    {
+      "id": 97,
+      "category": "Technical",
+      "icon": "gearshape",
+      "question": "How does technical feature work in Blooma? (Q97)",
+      "answer": "This feature in Blooma helps you manage technical effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "technical",
+        "blooma",
+        "help",
+        "feature",
+        "q97"
+      ]
+    },
+    {
+      "id": 98,
+      "category": "Support",
+      "icon": "questionmark.circle",
+      "question": "How does support feature work in Blooma? (Q98)",
+      "answer": "This feature in Blooma helps you manage support effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "support",
+        "blooma",
+        "help",
+        "feature",
+        "q98"
+      ]
+    },
+    {
+      "id": 99,
+      "category": "General",
+      "icon": "info.circle",
+      "question": "How does general feature work in Blooma? (Q99)",
+      "answer": "This feature in Blooma helps you manage general effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "general",
+        "blooma",
+        "help",
+        "feature",
+        "q99"
+      ]
+    },
+    {
+      "id": 100,
+      "category": "Safety",
+      "icon": "shield.checkerboard",
+      "question": "How does safety feature work in Blooma? (Q100)",
+      "answer": "This feature in Blooma helps you manage safety effectively during your pregnancy journey. It is designed to be simple, safe, and easy to follow so that you can stay consistent and confident while using the app. If you ever feel unsure, you can always adjust settings or consult guidance provided inside the app.",
+      "keywords": [
+        "safety",
+        "blooma",
+        "help",
+        "feature",
+        "q100"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "week": 11,
+  "section": "bump_care",
+
+  "title": "Growing Stronger",
+  "subtitle": "Development becomes more refined",
+
+  "description": "By week 11, your baby continues to grow and develop rapidly. Organs are now functioning, and features like fingers, toes, and facial structures are becoming more refined.",
+
+  "what_to_expect": [
+    "Organs continue to develop and start functioning more actively",
+    "Fingers and toes are fully separated",
+    "Symptoms like nausea and fatigue may begin to ease for some individuals"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced diet with a variety of nutrients",
+    "Stay hydrated and continue regular meal patterns",
+    "Get enough rest and begin light activity if comfortable"
+  ],
+
+  "medical_checkups": {
+    "note": "This stage may involve early screening and continued monitoring.",
+    "commonly_suggested": [
+      {
+        "name": "First Trimester Screening",
+        "purpose": "Assesses risk of certain chromosomal conditions"
+      },
+      {
+        "name": "Ultrasound Scan",
+        "purpose": "Evaluates fetal growth and development"
+      }
+    ],
+    "guidance": "Your doctor may recommend screening tests based on your age, medical history, and preferences."
+  },
+
+  "important_note": "Your baby is becoming more developed, with many structures now clearly formed.",
+  "reassurance": "You are nearing the end of the first trimester, and progress is steadily continuing.",
+
+  "medical_disclaimer": "Discuss any screening options and results with your healthcare provider.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports continued development and reduces risks.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timing",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored closely during screening and checkups.",
+
+      "reassurance": "Consistent management helps support a healthy pregnancy."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support increased blood volume and fetal growth.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement guidance if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports healthy circulation and fetal development.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice stress management",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during prenatal visits.",
+
+      "reassurance": "A calm and consistent routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing growth and development.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be reviewed during routine checkups.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As you approach the end of the first trimester, managing multiple conditions requires steady attention and routine care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports continued healthy progress."
+  }
+}

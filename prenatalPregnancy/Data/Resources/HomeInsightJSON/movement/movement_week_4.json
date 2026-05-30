@@ -1,0 +1,114 @@
+{
+  "week": 4,
+  "section": "safety_awareness",
+
+  "title": "Gentle Adjustment",
+  "subtitle": "Adapting to early physical changes",
+
+  "description": "At this stage, early pregnancy symptoms such as mild nausea or increased fatigue may begin to appear. Adapting your daily routine with gentle movements, proper rest, and increased awareness can help maintain comfort and reduce strain.",
+
+  "what_to_expect": [
+    "Mild nausea or queasiness may begin",
+    "Fatigue may become more noticeable throughout the day",
+    "Greater sensitivity to smells, movement, or exertion"
+  ],
+
+  "daily_safety_tips": [
+    "Avoid sudden movements, especially when getting up or bending",
+    "Wear comfortable, non-slip footwear for better stability",
+    "Take frequent breaks and avoid overloading your schedule"
+  ],
+
+  "movement_guidelines": [
+    "Continue light activities like slow walking or gentle daily tasks",
+    "Avoid physically demanding, fast-paced, or high-impact exercises",
+    "Pause immediately if you feel dizzy, nauseous, or uncomfortable"
+  ],
+
+  "environmental_awareness": [
+    "Avoid strong smells, chemicals, smoke, or poorly ventilated spaces",
+    "Ensure fresh air circulation in your surroundings",
+    "Be extra cautious in crowded, hot, or slippery environments"
+  ],
+
+  "travel_safety": [
+    "Limit long or tiring travel, especially if experiencing nausea",
+    "Use seatbelts correctly, ensuring comfort and proper positioning",
+    "Take breaks to stretch or walk during longer travel durations"
+  ],
+
+  "important_note": "Recognizing early symptoms and adjusting your pace can help reduce discomfort.",
+  "reassurance": "Gentle adjustments and listening to your body can make daily activities more manageable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Managing activity along with regular meals can help maintain stable blood sugar levels during this phase.",
+
+      "movement_guidelines": [
+        "Engage in light movement such as short walks after meals",
+        "Avoid skipping meals, especially when feeling nauseous",
+        "Monitor your energy and adjust activity accordingly"
+      ],
+
+      "safety_focus": "Watch for signs like dizziness, sweating, or sudden weakness, especially during nausea.",
+
+      "reassurance": "Balanced activity and regular meals support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue and low energy may increase, requiring more rest and slower movement.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and allow time for rest between tasks",
+        "Move slowly and carefully, especially when feeling weak"
+      ],
+
+      "safety_focus": "Be aware of symptoms such as dizziness, breathlessness, or fatigue.",
+
+      "reassurance": "Rest and gentle pacing help conserve energy and maintain comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm and low-stress routine supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid physically or emotionally stressful activities",
+        "Focus on slow, relaxed, and controlled movements"
+      ],
+
+      "safety_focus": "Avoid stressful situations or environments that may cause strain.",
+
+      "reassurance": "A calm and steady approach helps maintain balance and safety."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent and moderate activity supports overall metabolic balance during early symptoms.",
+
+      "movement_guidelines": [
+        "Maintain a steady and predictable activity routine",
+        "Avoid sudden changes in activity levels"
+      ],
+
+      "safety_focus": "Pay attention to unusual fatigue, restlessness, or energy shifts.",
+
+      "reassurance": "Consistency in daily habits supports overall well-being."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining gentle, well-paced, and consistent routines becomes even more important during early symptoms.",
+
+    "priority_guidelines": [
+      "Avoid strenuous or high-impact activities",
+      "Maintain slow and manageable daily movement",
+      "Take frequent breaks and respond to symptoms promptly"
+    ],
+
+    "reassurance": "Careful pacing and awareness support overall comfort and safety."
+  }
+}

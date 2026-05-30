@@ -1,0 +1,118 @@
+{
+  "week": 1,
+  "section": "rest_mindfulness",
+
+  "title": "Calm Before Sleep",
+  "subtitle": "Creating space for rest and emotional balance",
+
+  "description": "As your body begins adjusting to early pregnancy, prioritizing rest and mental calmness can support both physical and emotional well-being. Even subtle hormonal changes can influence your energy, mood, and sleep patterns.",
+
+  "what_to_expect": [
+    "Mild fatigue or increased need for rest due to hormonal changes",
+    "Occasional mood fluctuations or emotional sensitivity",
+    "Slight changes in sleep patterns or sleep quality"
+  ],
+
+  "rest_practices": [
+    "Aim for around 7–9 hours of sleep each night",
+    "Maintain a consistent sleep and wake schedule",
+    "Create a calm, quiet, and comfortable sleeping environment"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or light meditation for 5–10 minutes daily",
+    "Engage in calming activities like reading or listening to soft music",
+    "Limit screen exposure and bright lights before bedtime"
+  ],
+
+  "emotional_wellbeing": [
+    "Acknowledge emotional changes without self-judgment",
+    "Stay connected with supportive family or friends",
+    "Limit exposure to stressful or overwhelming content"
+  ],
+
+  "important_note": "Adequate rest and a calm mind can support overall well-being and early pregnancy adaptation.",
+  "reassurance": "Taking time to rest is an essential part of caring for yourself during this phase.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balanced rest and reduced stress can support stable blood sugar levels and overall energy.",
+
+      "rest_practices": [
+        "Avoid late-night heavy meals that may affect glucose levels",
+        "Maintain consistent sleep timing",
+        "Monitor fatigue and adjust daily activity accordingly"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation techniques to help manage stress",
+        "Focus on gentle breathing exercises before sleep"
+      ],
+
+      "reassurance": "Consistent rest and calm routines can support better stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Proper rest can help manage early fatigue associated with lower energy levels.",
+
+      "rest_practices": [
+        "Take short rest breaks during the day if needed",
+        "Avoid overexertion or prolonged standing"
+      ],
+
+      "mindfulness_practices": [
+        "Practice gentle relaxation to conserve energy",
+        "Avoid physically tiring activities close to bedtime"
+      ],
+
+      "reassurance": "Listening to your body’s need for rest supports your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and consistent routine can support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Ensure uninterrupted and sufficient sleep",
+        "Limit caffeine or stimulants, especially in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Incorporate guided relaxation or meditation",
+        "Practice slow and steady breathing exercises"
+      ],
+
+      "reassurance": "Calmness and routine can support better balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent sleep patterns support overall hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain fixed sleep and wake times daily",
+        "Avoid irregular or disrupted sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness practices to reduce stress",
+        "Avoid overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency in rest helps your body function more smoothly."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "Balancing rest and mental calmness becomes especially important when managing multiple conditions.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep schedule",
+      "Incorporate short daily relaxation practices",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Simple and steady routines can support both your mind and body effectively."
+  }
+}

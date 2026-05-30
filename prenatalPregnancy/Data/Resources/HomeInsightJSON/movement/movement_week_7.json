@@ -1,0 +1,114 @@
+{
+  "week": 7,
+  "section": "safety_awareness",
+
+  "title": "Energy Conservation",
+  "subtitle": "Prioritizing rest and gentle routines",
+
+  "description": "This phase may bring peak levels of nausea and fatigue. Conserving energy, maintaining hydration, and limiting physical strain become especially important. A slower, well-paced routine can help reduce discomfort and support daily stability.",
+
+  "what_to_expect": [
+    "Nausea may peak and occur at multiple times during the day",
+    "Fatigue may feel more intense and persistent",
+    "Increased sensitivity to smells, motion, and environmental triggers"
+  ],
+
+  "daily_safety_tips": [
+    "Plan your day with minimal physical strain and include frequent rest breaks",
+    "Avoid sudden movements and rise slowly to prevent dizziness",
+    "Keep essentials within reach to reduce unnecessary movement"
+  ],
+
+  "movement_guidelines": [
+    "Limit activity to gentle movement like short walks or light tasks",
+    "Avoid prolonged standing, bending, or physically demanding work",
+    "Rest immediately when feeling tired, dizzy, or nauseous"
+  ],
+
+  "environmental_awareness": [
+    "Avoid strong odors, smoke, chemicals, and poorly ventilated areas",
+    "Stay in cool, quiet, and well-ventilated environments",
+    "Minimize exposure to crowded or noisy surroundings"
+  ],
+
+  "travel_safety": [
+    "Avoid unnecessary travel, especially during peak nausea periods",
+    "Use seatbelts correctly and sit in a comfortable, supported position",
+    "Take frequent pauses if travel is unavoidable"
+  ],
+
+  "important_note": "Reducing physical strain and conserving energy can help manage peak symptoms more effectively.",
+  "reassurance": "Slowing down and prioritizing rest can help you feel more stable and comfortable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balancing food intake, hydration, and minimal activity is important during peak nausea to maintain stable blood sugar levels.",
+
+      "movement_guidelines": [
+        "Engage in very light movement such as short walks when comfortable",
+        "Avoid skipping meals despite nausea",
+        "Monitor your body's response to both food and activity"
+      ],
+
+      "safety_focus": "Watch for dizziness, sweating, or weakness, especially if appetite is reduced.",
+
+      "reassurance": "Small, consistent steps in routine can help maintain stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Increased fatigue may require more rest and very limited physical exertion.",
+
+      "movement_guidelines": [
+        "Avoid physically demanding tasks and prioritize rest",
+        "Move slowly and carefully to prevent dizziness"
+      ],
+
+      "safety_focus": "Be aware of weakness, breathlessness, or lightheadedness.",
+
+      "reassurance": "Extra rest and gentle pacing help support your energy levels."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm and low-stress environment is especially important during this phase.",
+
+      "movement_guidelines": [
+        "Avoid stressful situations and physical exertion",
+        "Focus on slow, relaxed, and minimal movement"
+      ],
+
+      "safety_focus": "Stay away from stress-inducing or physically demanding environments.",
+
+      "reassurance": "A calm and controlled routine supports overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Maintaining consistency and avoiding overexertion supports metabolic balance during peak symptoms.",
+
+      "movement_guidelines": [
+        "Keep activity minimal and consistent",
+        "Avoid both overexertion and prolonged inactivity"
+      ],
+
+      "safety_focus": "Be mindful of unusual fatigue, restlessness, or fluctuations in energy.",
+
+      "reassurance": "Gentle and consistent routines help maintain stability."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, conserving energy and maintaining a gentle, structured routine becomes critical during this phase.",
+
+    "priority_guidelines": [
+      "Avoid strenuous or physically exhausting activities",
+      "Limit movement to gentle and necessary tasks",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Careful energy management supports overall comfort and safety."
+  }
+}

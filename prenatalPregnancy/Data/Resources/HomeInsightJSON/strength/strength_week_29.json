@@ -1,0 +1,152 @@
+{
+  "week": 29,
+  "section": "strength_from_within",
+
+  "title": "Steady Energy",
+  "subtitle": "Supporting increased demands",
+
+  "description": "At this stage, your body continues to need more energy, and you may feel fatigue more often. Eating frequent, balanced meals and staying well hydrated can help maintain steady energy and overall comfort.",
+
+  "what_to_expect": [
+    "Increased fatigue at times",
+    "Higher caloric needs",
+    "Greater importance of regular meals and hydration"
+  ],
+
+  "nutrition_focus": [
+    "Eat smaller, more frequent meals",
+    "Include energy-dense and nutrient-rich foods",
+    "Maintain hydration consistently throughout the day"
+  ],
+
+  "recommended_foods": [
+    "Balanced meals like dal, roti, rice, sabzi, and salad",
+    "Fruits like banana, apple, orange, guava, and pomegranate",
+    "Vegetables including spinach, beetroot, carrots, beans, and broccoli",
+    "Healthy snacks like nuts, roasted chana, fruit bowls, or curd",
+    "Protein and calcium sources like milk, paneer, lentils, eggs, or chicken (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Excessively oily or fried foods",
+    "Highly processed snacks",
+    "Skipping meals or long gaps between meals"
+  ],
+
+  "hydration": [
+    "Drink water frequently throughout the day",
+    "Include fluids like buttermilk, coconut water, lemon water, or light soups"
+  ],
+
+  "reassurance": "Frequent and balanced meals help you maintain steady energy and feel supported.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Frequent and balanced meals support stable energy and blood sugar levels.",
+
+      "nutrition_focus": [
+        "Eat small, frequent meals",
+        "Balance carbohydrates with protein and fiber",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils, paneer, and nuts"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large or irregular meals"
+      ],
+
+      "reassurance": "Regular meals support steady energy and stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Iron-rich foods and regular meals support energy and help manage fatigue.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods daily",
+        "Pair meals with vitamin C sources",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Consistent nourishment helps support your strength and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals and hydration support stable blood pressure and comfort.",
+
+      "nutrition_focus": [
+        "Maintain regular meal timings",
+        "Limit excess salt intake",
+        "Stay well hydrated"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Balanced routines support a calm and steady state."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent meals and hydration support metabolic balance and energy levels.",
+
+      "nutrition_focus": [
+        "Maintain regular eating intervals",
+        "Include balanced nutrients",
+        "Stay hydrated throughout the day"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency supports your body's natural rhythm."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, frequent balanced meals and proper hydration help maintain energy and stability.",
+
+    "priority_nutrition": [
+      "Eat small and frequent meals",
+      "Include energy-dense and nutrient-rich foods",
+      "Stay well hydrated throughout the day"
+    ],
+
+    "reassurance": "Steady nourishment and hydration support your overall well-being."
+  }
+}

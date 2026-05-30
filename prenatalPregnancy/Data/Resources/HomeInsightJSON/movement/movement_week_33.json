@@ -1,0 +1,114 @@
+{
+  "week": 33,
+  "section": "safety_awareness",
+
+  "title": "Supported Comfort",
+  "subtitle": "Focusing on ease and assistance",
+
+  "description": "At this stage, mobility may feel significantly limited, and discomfort can increase. Prioritizing assisted movement, proper rest positioning, and minimizing strain can help maintain comfort and reduce physical stress.",
+
+  "what_to_expect": [
+    "Very limited mobility during daily activities",
+    "Increased physical discomfort and fatigue",
+    "Greater reliance on support and assisted movement"
+  ],
+
+  "daily_safety_tips": [
+    "Use support or assistance while moving or changing positions",
+    "Avoid unnecessary physical effort and conserve energy",
+    "Maintain comfortable and supported rest positions"
+  ],
+
+  "movement_guidelines": [
+    "Limit movement to essential and gentle activity only",
+    "Avoid any movement that causes discomfort or strain",
+    "Move slowly and use support at all times"
+  ],
+
+  "environmental_awareness": [
+    "Ensure surroundings are safe, stable, and easy to access",
+    "Keep pathways clear to prevent trips or imbalance",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Avoid travel unless absolutely necessary",
+    "Use maximum support while seated",
+    "Take frequent breaks to adjust posture if travel is unavoidable"
+  ],
+
+  "important_note": "Assisted movement and proper rest positioning are essential to reduce strain and maintain comfort.",
+  "reassurance": "With support and careful pacing, you can remain comfortable and safe.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent meals and minimal movement supports stable blood sugar levels during limited mobility.",
+
+      "movement_guidelines": [
+        "Engage in minimal gentle movement when possible",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to reduced activity"
+      ],
+
+      "safety_focus": "Watch for fatigue, dizziness, or changes in energy levels.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Severe fatigue requires maximum rest and minimal physical effort.",
+
+      "movement_guidelines": [
+        "Limit activity strictly to essential tasks",
+        "Take frequent and extended rest periods"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and minimal exertion help maintain comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm, low-stress environment supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in minimal and controlled movement"
+      ],
+
+      "safety_focus": "Be mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady routine supports well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and minimal activity support metabolic balance during this phase.",
+
+      "movement_guidelines": [
+        "Maintain a steady and minimal activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, relying on assistance, minimizing movement, and prioritizing rest becomes critical.",
+
+    "priority_guidelines": [
+      "Avoid unnecessary physical effort or strain",
+      "Maintain minimal and essential movement only",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Support and careful rest help maintain comfort and safety."
+  }
+}

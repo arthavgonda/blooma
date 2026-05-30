@@ -1,0 +1,120 @@
+{
+  "week": 34,
+  "section": "rest_mindfulness",
+
+  "title": "Preparation Rest",
+  "subtitle": "Supporting comfort in the final phase",
+
+  "description": "As your body prepares for the final stage, sleep may feel more uncomfortable and fatigue may increase. Prioritizing supportive rest positions, frequent recovery, and calming routines can help maintain comfort and emotional balance.",
+
+  "what_to_expect": [
+    "Very limited comfort during sleep or prolonged rest",
+    "Increased fatigue and need for frequent recovery",
+    "Greater focus on positioning and support during rest"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Take frequent rest breaks based on comfort",
+    "Use multiple pillows or supports for optimal alignment"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities like soft music or reading",
+    "Create quiet time for uninterrupted relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Be patient with increasing discomfort and fatigue",
+    "Maintain a calm and reassuring environment",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Supportive positioning and regular rest can help manage discomfort in this phase.",
+  "reassurance": "With care and support, you can continue to find comfort and rest.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent routines and supported rest help maintain stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Take rest breaks to manage fatigue",
+        "Monitor your body's response to reduced energy"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may be significant, requiring frequent rest and minimal exertion.",
+
+      "rest_practices": [
+        "Take frequent and extended rest breaks",
+        "Avoid prolonged or physically demanding activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and supported rest help maintain stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and supported rest help maintain hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, prioritizing supported rest and recovery becomes critical in this phase.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Take frequent rest breaks to support recovery"
+    ],
+
+    "reassurance": "Supportive routines help maintain comfort and balance."
+  }
+}

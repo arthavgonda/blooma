@@ -1,0 +1,114 @@
+{
+  "week": 26,
+  "section": "safety_awareness",
+
+  "title": "Circulation Care",
+  "subtitle": "Supporting movement and rest",
+
+  "description": "As your body continues to adapt to increased physical demands, you may experience more fatigue and leg strain. Supporting circulation through gentle movement, proper rest positioning, and regular breaks can help maintain comfort and reduce discomfort.",
+
+  "what_to_expect": [
+    "Increased fatigue during daily activities",
+    "Heaviness or mild strain in legs and lower body",
+    "Greater need for rest and movement balance"
+  ],
+
+  "daily_safety_tips": [
+    "Avoid sitting or standing in one position for too long",
+    "Elevate your legs slightly during rest when comfortable",
+    "Stay hydrated to support circulation and overall comfort"
+  ],
+
+  "movement_guidelines": [
+    "Engage in gentle movement such as short walks",
+    "Avoid prolonged inactivity or overexertion",
+    "Take frequent breaks and stretch lightly"
+  ],
+
+  "environmental_awareness": [
+    "Ensure your surroundings allow safe and easy movement",
+    "Be cautious on slippery or uneven surfaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Avoid long periods of sitting without movement",
+    "Take frequent breaks to walk and stretch",
+    "Use proper leg and back support during travel"
+  ],
+
+  "important_note": "Maintaining circulation and balancing rest with movement can help reduce fatigue and discomfort.",
+  "reassurance": "Gentle movement and proper rest can help you feel more comfortable and supported.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining regular movement, hydration, and meals supports stable blood sugar and circulation.",
+
+      "movement_guidelines": [
+        "Engage in gentle activity such as walking after meals",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to fatigue and activity"
+      ],
+
+      "safety_focus": "Watch for dizziness, fatigue, or signs of low energy affecting movement.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue and reduced stamina may require extra rest and slower pacing.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and take frequent rest breaks",
+        "Move slowly and avoid prolonged standing"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and gentle pacing help maintain comfort and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm routines and avoiding physical strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding activities",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during this phase.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, supporting circulation, maintaining gentle movement, and prioritizing rest becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid prolonged inactivity or overexertion",
+      "Maintain gentle and consistent daily movement",
+      "Take frequent breaks and stay hydrated"
+    ],
+
+    "reassurance": "Balanced movement and rest help support comfort and safety."
+  }
+}

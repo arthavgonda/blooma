@@ -1,0 +1,114 @@
+{
+  "week": 20,
+  "section": "safety_awareness",
+
+  "title": "Midpoint Support",
+  "subtitle": "Strengthening comfort and posture",
+
+  "description": "At the midpoint of pregnancy, physical changes may become more noticeable, especially in posture and back support. Maintaining proper alignment, managing fatigue, and supporting your body during daily activities can help improve comfort and reduce strain.",
+
+  "what_to_expect": [
+    "More noticeable posture changes due to growing body",
+    "Increased pressure on the lower back and hips",
+    "Need for better support during daily activities"
+  ],
+
+  "daily_safety_tips": [
+    "Use proper back support while sitting and resting",
+    "Avoid standing or sitting for prolonged periods without breaks",
+    "Wear supportive and comfortable footwear to reduce strain"
+  ],
+
+  "movement_guidelines": [
+    "Engage in light to moderate activities with attention to posture",
+    "Avoid heavy lifting or movements that strain the back",
+    "Use proper techniques when bending or picking up objects"
+  ],
+
+  "environmental_awareness": [
+    "Ensure your surroundings are safe and easy to navigate",
+    "Use supportive furniture and avoid unstable surfaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Use lumbar and back support during travel",
+    "Take regular breaks to stretch and adjust posture",
+    "Avoid long durations in one position without movement"
+  ],
+
+  "important_note": "Supporting your back and maintaining posture can help reduce discomfort as your body changes.",
+  "reassurance": "With proper support and pacing, you can stay comfortable and active.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent activity and posture supports stable blood sugar levels and physical comfort.",
+
+      "movement_guidelines": [
+        "Engage in moderate activity such as walking",
+        "Maintain regular meal timing and hydration",
+        "Be mindful of posture during prolonged activity"
+      ],
+
+      "safety_focus": "Watch for fatigue or energy changes that may affect movement.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue and physical strain may require careful pacing and support.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and take frequent rest breaks",
+        "Move steadily and avoid prolonged standing"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Gentle pacing and support help maintain energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm routine and avoiding strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding activities",
+        "Engage in slow, controlled movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during physical changes.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining posture, support, and balanced routines becomes increasingly important.",
+
+    "priority_guidelines": [
+      "Avoid strain on the back and joints",
+      "Maintain moderate and consistent daily movement",
+      "Take regular breaks and stay hydrated"
+    ],
+
+    "reassurance": "Proper support and balanced activity help maintain comfort and safety."
+  }
+}

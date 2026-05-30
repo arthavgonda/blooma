@@ -1,0 +1,114 @@
+{
+  "week": 29,
+  "section": "safety_awareness",
+
+  "title": "Energy Conservation",
+  "subtitle": "Prioritizing rest and comfort",
+
+  "description": "At this stage, fatigue may become more noticeable again, and finding comfortable rest or sleep positions can be more challenging. Conserving energy, maintaining proper positioning, and pacing daily activities can help improve comfort and reduce strain.",
+
+  "what_to_expect": [
+    "Increased fatigue, especially toward the end of the day",
+    "Difficulty finding comfortable sleeping or resting positions",
+    "Greater need for structured rest and energy conservation"
+  ],
+
+  "daily_safety_tips": [
+    "Plan your day with frequent rest breaks and lighter tasks",
+    "Use supportive pillows for better sleep and rest positioning",
+    "Avoid rushing and allow extra time for daily activities"
+  ],
+
+  "movement_guidelines": [
+    "Engage in gentle movement such as short, slow walks",
+    "Avoid overexertion or prolonged physical activity",
+    "Alternate between activity and rest to conserve energy"
+  ],
+
+  "environmental_awareness": [
+    "Ensure your surroundings are calm, comfortable, and easy to navigate",
+    "Maintain a safe environment to prevent trips or falls",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Limit long travel and avoid prolonged sitting",
+    "Take frequent breaks to stretch and move gently",
+    "Use proper support for back, legs, and rest positioning"
+  ],
+
+  "important_note": "Conserving energy and maintaining proper rest positions can help reduce fatigue and discomfort.",
+  "reassurance": "With mindful pacing and rest, you can maintain comfort and stability.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining balanced meals, hydration, and gentle activity supports stable blood sugar and energy levels.",
+
+      "movement_guidelines": [
+        "Engage in gentle activity such as walking after meals",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to fatigue and rest patterns"
+      ],
+
+      "safety_focus": "Watch for fatigue, dizziness, or changes in energy levels.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue and reduced stamina require extra rest and careful pacing.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and take frequent rest breaks",
+        "Move slowly and avoid prolonged activity"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and gentle pacing help maintain comfort and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm routines and avoiding strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Be mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during this phase.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, conserving energy, maintaining proper rest, and pacing activities becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid overexertion or prolonged activity",
+      "Maintain gentle and consistent daily movement",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Balanced rest and activity support overall comfort and safety."
+  }
+}

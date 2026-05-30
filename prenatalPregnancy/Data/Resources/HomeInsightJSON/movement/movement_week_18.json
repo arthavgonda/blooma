@@ -1,0 +1,114 @@
+{
+  "week": 18,
+  "section": "safety_awareness",
+
+  "title": "Steady Balance",
+  "subtitle": "Adjusting to changing body alignment",
+
+  "description": "As your body continues to grow and change, shifts in your center of gravity may become more noticeable. Maintaining balance, moving carefully, and creating a safe environment are important to reduce the risk of falls or strain.",
+
+  "what_to_expect": [
+    "More noticeable changes in balance and body alignment",
+    "Increased need for stability during movement",
+    "Greater awareness of posture and coordination"
+  ],
+
+  "daily_safety_tips": [
+    "Move slowly and carefully, especially when changing direction",
+    "Wear supportive, non-slip footwear to maintain stability",
+    "Keep frequently used items within easy reach to avoid unnecessary bending"
+  ],
+
+  "movement_guidelines": [
+    "Engage in controlled, light to moderate activities such as walking",
+    "Avoid activities that involve sudden turns, imbalance, or risk of falling",
+    "Focus on stability, alignment, and steady movement"
+  ],
+
+  "environmental_awareness": [
+    "Keep floors dry and clutter-free to prevent slips or trips",
+    "Be cautious on uneven, wet, or crowded surfaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Use proper support while sitting and avoid prolonged stillness",
+    "Take breaks to stretch and adjust posture during travel",
+    "Ensure safe entry and exit from vehicles"
+  ],
+
+  "important_note": "Changes in balance increase the importance of fall prevention and controlled movement.",
+  "reassurance": "With steady and mindful movement, you can maintain comfort and safety.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining steady routines and moderate activity supports stable blood sugar levels during increased physical awareness.",
+
+      "movement_guidelines": [
+        "Engage in regular moderate activity such as walking",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to changes in balance and movement"
+      ],
+
+      "safety_focus": "Be mindful of dizziness or low energy that may affect balance.",
+
+      "reassurance": "Balanced habits support stability and safety."
+    },
+
+    "anemia": {
+      "personalized_description": "Balance changes combined with fatigue require careful and steady movement.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and move slowly",
+        "Take breaks during activities to prevent fatigue"
+      ],
+
+      "safety_focus": "Watch for dizziness, weakness, or lightheadedness.",
+
+      "reassurance": "Gentle pacing supports stability and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm and controlled movement supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically intense situations",
+        "Engage in slow and steady movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress and environmental triggers.",
+
+      "reassurance": "A calm and balanced routine supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity help maintain metabolic balance during physical changes.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden or excessive exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining balance, steady movement, and a safe environment becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid activities that risk imbalance or falls",
+      "Maintain controlled and moderate daily movement",
+      "Take regular breaks and stay hydrated"
+    ],
+
+    "reassurance": "Careful movement and awareness support overall safety and comfort."
+  }
+}

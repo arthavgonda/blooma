@@ -1,0 +1,114 @@
+{
+  "week": 37,
+  "section": "bump_care",
+
+  "title": "Full Term Begins",
+  "subtitle": "Ready for arrival anytime",
+
+  "description": "By week 37, your pregnancy is considered early full term. Your baby’s organs are fully developed, and they are ready for life outside the womb. Birth can occur anytime from now.",
+
+  "what_to_expect": [
+    "Fetal movements continue but may feel tighter due to limited space",
+    "Baby is fully developed and ready for birth",
+    "You may experience signs like increased pelvic pressure or mild contractions"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a calm routine",
+    "Be prepared for signs of labor and keep essentials ready"
+  ],
+
+  "medical_checkups": {
+    "note": "Weekly monitoring is common during this stage.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Monitors maternal health and readiness for delivery"
+      },
+      {
+        "name": "Cervical Examination (if advised)",
+        "purpose": "Checks for signs of labor readiness"
+      }
+    ],
+    "guidance": "Your doctor may assess your readiness for labor and monitor your baby closely."
+  },
+
+  "important_note": "You are now in the full-term stage, and delivery can happen anytime.",
+  "reassurance": "Your baby is fully developed and ready to meet you.",
+
+  "medical_disclaimer": "Contact your healthcare provider immediately if you notice signs of labor or unusual symptoms.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels is critical as you approach delivery.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Follow your doctor’s dietary advice"
+      ],
+
+      "medical_focus": "Blood sugar levels may be closely monitored as delivery approaches.",
+
+      "reassurance": "Careful management supports a safe delivery."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports your body during delivery and recovery.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Follow supplement advice if prescribed",
+        "Maintain regular meals"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be reviewed before delivery.",
+
+      "reassurance": "Supporting your nutrition helps prepare your body for childbirth."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is essential for a safe delivery.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring is crucial at this stage.",
+
+      "reassurance": "A calm and steady routine supports a safer delivery."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support stability during labor and delivery.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored as needed.",
+
+      "reassurance": "Consistency helps maintain balance during this important time."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As delivery can happen anytime, managing multiple conditions requires careful and consistent attention.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Keep emergency contacts and hospital plans ready",
+      "Avoid any sudden lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a safe and smooth delivery experience."
+  }
+}

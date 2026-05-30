@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="NO" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="PersonalizationContinueCollectionViewCell" id="continue-cell" customClass="PersonalizationContinueCollectionViewCell" customModule="Blooma" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="353" height="106"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="NO" multipleTouchEnabled="YES" contentMode="center" id="continue-content">
+                <rect key="frame" x="0.0" y="0.0" width="353" height="106"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <visualEffectView opaque="NO" clipsSubviews="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="continue-card">
+                        <rect key="frame" x="0.0" y="0.0" width="353" height="96"/>
+                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="continue-card-content">
+                            <rect key="frame" x="0.0" y="0.0" width="353" height="96"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="continue-button">
+                                    <rect key="frame" x="16" y="16" width="321" height="56"/>
+                                    <color key="backgroundColor" systemColor="systemPinkColor"/>
+                                    <state key="normal" title="Begin My Blooma Journey">
+                                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                    <buttonConfiguration key="configuration" style="plain" title="Begin My Blooma Journey"/>
+                                    <connections>
+                                        <action selector="continueTapped:" destination="continue-cell" eventType="touchUpInside" id="tap-action"/>
+                                        <action selector="continueTouchDown:" destination="continue-cell" eventType="touchDown" id="down-action"/>
+                                        <action selector="continueTouchDown:" destination="continue-cell" eventType="touchDragEnter" id="enter-action"/>
+                                        <action selector="continueTouchUp:" destination="continue-cell" eventType="touchUpInside" id="up-action"/>
+                                        <action selector="continueTouchUp:" destination="continue-cell" eventType="touchCancel" id="cancel-action"/>
+                                        <action selector="continueTouchUp:" destination="continue-cell" eventType="touchDragExit" id="exit-action"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <constraints>
+                                <constraint firstItem="continue-button" firstAttribute="top" secondItem="continue-card-content" secondAttribute="top" constant="16" id="button-top"/>
+                                <constraint firstItem="continue-button" firstAttribute="leading" secondItem="continue-card-content" secondAttribute="leading" constant="16" id="button-leading"/>
+                                <constraint firstAttribute="trailing" secondItem="continue-button" secondAttribute="trailing" constant="16" id="button-trailing"/>
+                                <constraint firstItem="continue-button" firstAttribute="height" constant="56" id="button-height"/>
+                            </constraints>
+                        </view>
+                        <blurEffect style="systemThinMaterialLight"/>
+                    </visualEffectView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="continue-card" firstAttribute="top" secondItem="continue-content" secondAttribute="top" id="card-top"/>
+                    <constraint firstItem="continue-card" firstAttribute="leading" secondItem="continue-content" secondAttribute="leading" id="card-leading"/>
+                    <constraint firstAttribute="trailing" secondItem="continue-card" secondAttribute="trailing" id="card-trailing"/>
+                    <constraint firstItem="continue-card" firstAttribute="height" constant="96" id="card-height"/>
+                </constraints>
+            </collectionViewCellContentView>
+            <connections>
+                <outlet property="cardContainer" destination="continue-card" id="out-card"/>
+                <outlet property="continueButton" destination="continue-button" id="out-button"/>
+            </connections>
+            <point key="canvasLocation" x="138" y="98"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemPinkColor">
+            <color red="1" green="0.17647058823529413" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

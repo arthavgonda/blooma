@@ -1,0 +1,114 @@
+{
+  "week": 35,
+  "section": "bump_care",
+
+  "title": "Final Adjustments",
+  "subtitle": "Getting ready for birth",
+
+  "description": "By week 35, your baby is making final adjustments for birth. Most organs are fully developed, and your baby continues to gain weight and settle into position.",
+
+  "what_to_expect": [
+    "Fetal movements remain strong but feel tighter due to limited space",
+    "Most organ systems are fully developed",
+    "You may feel increased pelvic pressure and discomfort"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Rest adequately and avoid overexertion"
+  ],
+
+  "medical_checkups": {
+    "note": "Frequent monitoring is important as you approach delivery.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal position"
+      },
+      {
+        "name": "Group B Streptococcus (GBS) Test",
+        "purpose": "Screens for bacterial infection before delivery"
+      }
+    ],
+    "guidance": "Your doctor may perform GBS screening during this stage as part of routine care."
+  },
+
+  "important_note": "Screening tests at this stage help prepare for a safe delivery.",
+  "reassurance": "Your baby is almost ready to enter the world.",
+
+  "medical_disclaimer": "Follow your healthcare provider’s advice for all tests and preparations.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports final growth and preparation for delivery.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be closely monitored during this stage.",
+
+      "reassurance": "Consistent management supports a healthy final phase."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports oxygen supply during this final stage.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is essential as delivery approaches.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring may become more frequent.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support metabolic stability during the final stage.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As you prepare for delivery, managing multiple conditions requires consistent and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain a balanced and regular lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a safe and healthy delivery."
+  }
+}

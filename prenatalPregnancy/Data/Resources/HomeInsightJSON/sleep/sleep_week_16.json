@@ -1,0 +1,120 @@
+{
+  "week": 16,
+  "section": "rest_mindfulness",
+
+  "title": "Restful Flow",
+  "subtitle": "Balancing activity and recovery",
+
+  "description": "At this stage, your body may adapt well to daily routines, allowing deeper relaxation and better sleep recovery. Maintaining a balance between activity and rest can help sustain comfort and overall well-being.",
+
+  "what_to_expect": [
+    "Improved ability to relax and recover after activity",
+    "More restorative and consistent sleep",
+    "Balanced energy levels throughout the day"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Alternate activity with planned rest periods",
+    "Ensure a comfortable and supportive sleep setup"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or relaxation exercises daily",
+    "Engage in calming activities like reading or journaling",
+    "Take short moments during the day to pause and relax"
+  ],
+
+  "emotional_wellbeing": [
+    "Maintain emotional stability through balanced routines",
+    "Create space for relaxation and self-care",
+    "Stay connected with supportive people"
+  ],
+
+  "important_note": "Balancing rest and activity helps maintain steady energy and recovery.",
+  "reassurance": "With a balanced routine, you can feel more refreshed and at ease.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balanced routines support steady energy levels and stable blood sugar.",
+
+      "rest_practices": [
+        "Maintain consistent sleep and meal schedules",
+        "Balance activity with adequate rest",
+        "Monitor energy levels throughout the day"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Improved energy allows more activity, but pacing and rest remain important.",
+
+      "rest_practices": [
+        "Take rest breaks during longer activities",
+        "Avoid overexertion despite improved energy"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Steady rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm routines and balanced rest supports stable blood pressure.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines support hormonal balance and stable energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, balancing activity with rest and maintaining calm routines becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Balance activity with adequate rest"
+    ],
+
+    "reassurance": "Balanced routines support both comfort and long-term well-being."
+  }
+}

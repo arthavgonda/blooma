@@ -1,0 +1,120 @@
+{
+  "week": 11,
+  "section": "rest_mindfulness",
+
+  "title": "Gentle Stability",
+  "subtitle": "Reinforcing calm and consistent routines",
+
+  "description": "At this stage, you may begin to feel a gradual improvement in energy levels and emotional balance. Fatigue may still be present but less intense. Strengthening consistent rest and mindfulness routines can help maintain comfort and stability.",
+
+  "what_to_expect": [
+    "Gradual improvement in daily energy levels",
+    "Reduced intensity of fatigue compared to earlier weeks",
+    "More stable emotions with occasional sensitivity"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Continue taking short rest breaks when needed",
+    "Reinforce a calming and predictable bedtime routine"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or relaxation exercises daily",
+    "Engage in calming activities like reading or journaling",
+    "Limit stimulation and screen exposure before bedtime"
+  ],
+
+  "emotional_wellbeing": [
+    "Recognize improvements in emotional stability",
+    "Maintain a calm and supportive environment",
+    "Stay connected with trusted people for reassurance"
+  ],
+
+  "important_note": "Reinforcing consistent routines can help sustain improving energy and emotional balance.",
+  "reassurance": "Small, steady habits can help you feel more balanced and comfortable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining steady routines supports stable blood sugar levels and energy balance.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Avoid skipping meals or irregular eating patterns",
+        "Adjust activity levels based on energy"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Energy may improve slightly, but continued rest and pacing remain important.",
+
+      "rest_practices": [
+        "Take regular rest breaks during the day",
+        "Avoid prolonged or tiring activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Steady rest helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm and consistent routines supports stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a regular sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent rest and reduced stress support hormonal balance and energy stability.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep patterns"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency helps maintain stability."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, reinforcing consistent rest and mindfulness routines remains essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Steady routines support both comfort and balance."
+  }
+}

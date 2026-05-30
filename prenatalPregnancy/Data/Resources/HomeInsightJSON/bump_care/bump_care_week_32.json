@@ -1,0 +1,114 @@
+{
+  "week": 32,
+  "section": "bump_care",
+
+  "title": "Growing and Settling",
+  "subtitle": "Preparing for position changes",
+
+  "description": "By week 32, your baby continues to gain weight and may start settling into a head-down position in preparation for birth. Movements remain strong, though space is becoming more limited.",
+
+  "what_to_expect": [
+    "Fetal movements are strong but may feel more restricted",
+    "Baby may begin moving into a head-down position",
+    "You may feel increased pressure in the abdomen or pelvis"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Rest adequately and avoid strenuous activities"
+  ],
+
+  "medical_checkups": {
+    "note": "Close monitoring continues as you move toward the final weeks.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal position"
+      },
+      {
+        "name": "Ultrasound Scan (if advised)",
+        "purpose": "Assesses fetal position and growth"
+      }
+    ],
+    "guidance": "Your doctor may begin monitoring your baby’s position more closely during this stage."
+  },
+
+  "important_note": "Changes in position are a natural preparation for delivery.",
+  "reassurance": "Your baby is gradually getting ready for birth.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you notice reduced movements or unusual discomfort.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports continued growth and positioning.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored closely during this stage.",
+
+      "reassurance": "Consistent management supports a healthy progression."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports oxygen supply as your baby continues to grow.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is important as your body adapts to late-stage pregnancy.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring may become more frequent.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing development and metabolic balance.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As your baby prepares for birth, managing multiple conditions requires consistent and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain a balanced and regular lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a smooth transition into the final weeks."
+  }
+}

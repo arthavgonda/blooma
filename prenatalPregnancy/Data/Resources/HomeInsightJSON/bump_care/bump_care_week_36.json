@@ -1,0 +1,114 @@
+{
+  "week": 36,
+  "section": "bump_care",
+
+  "title": "Almost Ready",
+  "subtitle": "Final weeks of preparation",
+
+  "description": "By week 36, your baby is considered late preterm and continues final preparations for birth. Organs are mature, and your baby may settle deeper into the pelvis.",
+
+  "what_to_expect": [
+    "Fetal movements remain strong but feel more restricted",
+    "Baby may move lower into the pelvis",
+    "You may experience increased pelvic pressure and frequent urination"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Rest adequately and prepare for delivery"
+  ],
+
+  "medical_checkups": {
+    "note": "Weekly monitoring may begin at this stage.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal position"
+      },
+      {
+        "name": "Fetal Heart Rate Monitoring (if advised)",
+        "purpose": "Ensures fetal well-being"
+      }
+    ],
+    "guidance": "Your doctor may begin weekly visits to closely monitor you and your baby."
+  },
+
+  "important_note": "Your baby is in the final stage of preparation for birth.",
+  "reassurance": "You are very close to meeting your baby.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you notice reduced movements or any unusual symptoms.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels is essential as delivery approaches.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be closely monitored during this stage.",
+
+      "reassurance": "Consistent management supports a safe delivery."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports oxygen supply during this final preparation phase.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is critical as you approach delivery.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring may be more frequent.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support stability during the final stage.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As you enter the final weeks, managing multiple conditions requires consistent and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain a balanced and regular lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a smooth and safe delivery."
+  }
+}

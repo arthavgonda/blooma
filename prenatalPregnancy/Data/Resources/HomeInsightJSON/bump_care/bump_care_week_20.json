@@ -1,0 +1,114 @@
+{
+  "week": 20,
+  "section": "bump_care",
+
+  "title": "Halfway There",
+  "subtitle": "A major milestone reached",
+
+  "description": "By week 20, you have reached the halfway point of your pregnancy. Your baby continues to grow steadily, and movements are now more noticeable and regular.",
+
+  "what_to_expect": [
+    "You may feel clear and regular fetal movements",
+    "Your baby continues steady growth and development",
+    "Your abdomen may become more visibly prominent"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and continue regular routines",
+    "Practice light exercise and maintain proper posture"
+  ],
+
+  "medical_checkups": {
+    "note": "This stage includes one of the most important detailed scans.",
+    "commonly_suggested": [
+      {
+        "name": "Anomaly Scan (Level 2 Ultrasound)",
+        "purpose": "Provides a detailed assessment of fetal anatomy"
+      },
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Monitors maternal health and fetal growth"
+      }
+    ],
+    "guidance": "If not already completed, the anomaly scan is usually done around this time to assess development in detail."
+  },
+
+  "important_note": "Reaching the halfway mark is an important milestone in your pregnancy journey.",
+  "reassurance": "You’ve come a long way, and your baby is growing steadily and strongly.",
+
+  "medical_disclaimer": "Continue following your healthcare provider’s advice for all tests and checkups.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports continued growth and development.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be closely monitored during routine prenatal care.",
+
+      "reassurance": "Consistent management supports a healthy pregnancy."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support increased blood volume and oxygen supply.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during this stage of growth.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing development and metabolism.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "At this halfway point, managing multiple conditions requires consistent and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain a balanced and regular lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a strong and healthy journey ahead."
+  }
+}

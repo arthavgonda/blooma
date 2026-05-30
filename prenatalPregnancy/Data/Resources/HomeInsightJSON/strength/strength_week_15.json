@@ -1,0 +1,151 @@
+{
+  "week": 15,
+  "section": "strength_from_within",
+
+  "title": "Complete Nourishment",
+  "subtitle": "Strengthening with balanced meals",
+
+  "description": "At this stage, your appetite is likely consistent and your body’s nutritional needs continue to increase. Focusing on complete and balanced meals with adequate protein and iron can help support your strength and energy.",
+
+  "what_to_expect": [
+    "Stable and consistent appetite",
+    "Improved energy levels",
+    "Increased need for nutrient-rich meals"
+  ],
+
+  "nutrition_focus": [
+    "Ensure meals are balanced and complete",
+    "Increase intake of protein and iron-rich foods",
+    "Maintain consistent meal timing and portion sizes"
+  ],
+
+  "recommended_foods": [
+    "Balanced meals like dal, roti, rice, sabzi, and salad",
+    "Fruits like banana, apple, papaya, orange, and guava",
+    "Vegetables including spinach, beetroot, beans, and carrots",
+    "Protein sources like curd, paneer, lentils, eggs, or chicken (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Excessively oily or fried foods",
+    "Highly processed and packaged items",
+    "Skipping meals or irregular eating patterns"
+  ],
+
+  "hydration": [
+    "Drink water consistently throughout the day",
+    "Include fluids like buttermilk, coconut water, or lemon water"
+  ],
+
+  "reassurance": "Balanced and complete meals can help you feel stronger and maintain steady energy.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balanced and complete meals help support stable energy and blood sugar levels.",
+
+      "nutrition_focus": [
+        "Maintain regular meal timings",
+        "Balance carbohydrates with protein and fiber",
+        "Avoid large or irregular meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils and paneer"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large portion meals"
+      ],
+
+      "reassurance": "Consistent and balanced meals support stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Higher intake of iron-rich foods supports building strength and energy.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods daily",
+        "Pair meals with vitamin C sources",
+        "Maintain regular eating patterns"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Consistent iron intake helps improve energy levels."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals with controlled salt intake support stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals balanced and moderate in salt",
+        "Maintain regular meal timings",
+        "Avoid heavy or processed foods"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Consistent meals support a calm and balanced routine."
+    },
+
+    "thyroid": {
+      "personalized_description": "A complete and balanced diet supports overall metabolic stability.",
+
+      "nutrition_focus": [
+        "Maintain regular eating intervals",
+        "Include a balanced mix of nutrients",
+        "Avoid irregular eating habits"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency and balance help your body function smoothly."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on complete and balanced meals helps maintain stability and overall well-being.",
+
+    "priority_nutrition": [
+      "Maintain regular meal timings",
+      "Include protein and iron-rich foods",
+      "Ensure meals are balanced and complete"
+    ],
+
+    "reassurance": "Complete and steady nourishment supports your strength and comfort."
+  }
+}

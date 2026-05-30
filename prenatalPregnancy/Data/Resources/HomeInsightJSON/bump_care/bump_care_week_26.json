@@ -1,0 +1,114 @@
+{
+  "week": 26,
+  "section": "bump_care",
+
+  "title": "Preparing for the Final Trimester",
+  "subtitle": "Growth and maturity continue",
+
+  "description": "By week 26, your baby continues to grow and gain weight. The lungs are developing further, and movements are strong and consistent. You are also approaching the final trimester of pregnancy.",
+
+  "what_to_expect": [
+    "Fetal movements are strong and regular",
+    "Lung development continues, preparing for breathing after birth",
+    "You may notice more defined patterns of activity and rest"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Engage in light exercise and maintain proper posture"
+  ],
+
+  "medical_checkups": {
+    "note": "Monitoring continues as you approach the third trimester.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal growth"
+      },
+      {
+        "name": "Glucose Monitoring (if required)",
+        "purpose": "Evaluates blood sugar control"
+      }
+    ],
+    "guidance": "Your doctor may review glucose test results and adjust care plans if needed."
+  },
+
+  "important_note": "Approaching the third trimester marks an important transition in your pregnancy journey.",
+  "reassurance": "Your baby is growing stronger each day as you move closer to the final stage.",
+
+  "medical_disclaimer": "Always follow your healthcare provider’s advice for ongoing care and monitoring.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels remains essential as growth and weight gain increase.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be reviewed regularly during prenatal visits.",
+
+      "reassurance": "Consistent management supports a healthy progression."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports increased blood volume and oxygen supply.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation as you approach the final trimester.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support continued growth and metabolic function.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As you approach the third trimester, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support a healthy journey forward."
+  }
+}

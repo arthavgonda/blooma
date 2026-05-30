@@ -1,0 +1,151 @@
+{
+  "week": 7,
+  "section": "strength_from_within",
+
+  "title": "Flexible Nourishment",
+  "subtitle": "Adapting to your body's changing needs",
+
+  "description": "At this stage, sensitivity to food and smells may be at its peak, and appetite can vary throughout the day. Being flexible with your food choices and eating what feels comfortable can help you stay nourished without added stress.",
+
+  "what_to_expect": [
+    "Fluctuating appetite throughout the day",
+    "Increased sensitivity to smells or certain foods",
+    "Need for flexibility in eating patterns"
+  ],
+
+  "nutrition_focus": [
+    "Eat based on comfort rather than strict schedules",
+    "Choose foods that feel easy to tolerate",
+    "Maintain hydration even if appetite is low"
+  ],
+
+  "recommended_foods": [
+    "Light meals like khichdi, dal-rice, or soft roti with sabzi",
+    "Fruits like banana, apple, or sweet lime",
+    "Simple snacks like toast, crackers, or biscuits",
+    "Curd, buttermilk, lentils, or eggs (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Spicy, oily, or strong-smelling foods",
+    "Heavy or overly rich meals",
+    "Forcing food when feeling uncomfortable"
+  ],
+
+  "hydration": [
+    "Take small sips of water frequently",
+    "Include coconut water, lemon water, or light soups"
+  ],
+
+  "reassurance": "Listening to your body and staying flexible is enough to support your nourishment right now.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining flexibility while keeping meals regular can support stable energy levels.",
+
+      "nutrition_focus": [
+        "Eat small, frequent meals",
+        "Choose low glycemic index foods",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils and paneer"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large meals at once"
+      ],
+
+      "reassurance": "Balanced and frequent meals help maintain stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Even with fluctuating appetite, small amounts of iron-rich foods remain helpful.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods in small portions",
+        "Pair meals with vitamin C sources",
+        "Avoid skipping meals completely"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Small, consistent intake supports your energy gradually."
+    },
+
+    "hypertension": {
+      "personalized_description": "Light and simple meals can help maintain comfort and support stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals light and balanced",
+        "Limit excess salt intake",
+        "Maintain regular intake even if portions are small"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Simple meals help maintain balance and comfort."
+    },
+
+    "thyroid": {
+      "personalized_description": "Maintaining some consistency, even with flexibility, supports overall balance.",
+
+      "nutrition_focus": [
+        "Eat at regular intervals when possible",
+        "Choose light and balanced meals",
+        "Avoid long gaps without food"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Irregular eating patterns"
+      ],
+
+      "reassurance": "Flexibility with consistency supports your body's needs."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, staying flexible while maintaining small, regular meals can help support balance.",
+
+    "priority_nutrition": [
+      "Eat small and frequent meals",
+      "Choose foods that feel easy to tolerate",
+      "Stay hydrated throughout the day"
+    ],
+
+    "reassurance": "Gentle and flexible nourishment supports your well-being during this phase."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "week": 6,
+  "section": "rest_mindfulness",
+
+  "title": "Restful Rhythm",
+  "subtitle": "Creating structure in rest and calmness",
+
+  "description": "At this stage, fatigue may peak and sleep patterns can feel more disrupted. Establishing a gentle structure with planned rest, calming routines, and reduced stimulation can help support both physical recovery and emotional balance.",
+
+  "what_to_expect": [
+    "Peak fatigue levels during the day",
+    "Disrupted or irregular sleep patterns",
+    "Increased emotional sensitivity and need for calmness"
+  ],
+
+  "rest_practices": [
+    "Aim for sufficient sleep while allowing flexibility based on comfort",
+    "Incorporate planned rest breaks throughout the day",
+    "Create a consistent and calming bedtime routine"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in soothing activities like soft music or quiet reading",
+    "Reduce screen exposure and mental stimulation before sleep"
+  ],
+
+  "emotional_wellbeing": [
+    "Allow yourself to rest without guilt or pressure",
+    "Focus on calming and reassuring environments",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Creating a structured yet flexible rest routine can help manage fatigue and improve comfort.",
+  "reassurance": "Slowing down and resting is exactly what your body needs right now.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining structured rest and meal timing can support stable blood sugar levels during fatigue.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Avoid skipping meals even during fatigue",
+        "Adjust activity levels based on energy"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation techniques to reduce stress",
+        "Use breathing exercises before sleep"
+      ],
+
+      "reassurance": "Consistent routines support better balance and stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Peak fatigue may require frequent rest and minimal exertion.",
+
+      "rest_practices": [
+        "Take multiple short rest breaks or naps during the day",
+        "Avoid prolonged or tiring activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines close to bedtime"
+      ],
+
+      "reassurance": "Rest is key to supporting your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and structured routine supports stable blood pressure during this phase.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep routine where possible",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance and well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent rest and reduced stress support hormonal balance and energy stability.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular or disrupted sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency in rest supports your body’s natural rhythm."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, structured rest and calming routines become especially important.",
+
+    "priority_practices": [
+      "Maintain a consistent and calming sleep routine",
+      "Incorporate daily relaxation or breathing exercises",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Structured rest and calmness support both comfort and balance."
+  }
+}

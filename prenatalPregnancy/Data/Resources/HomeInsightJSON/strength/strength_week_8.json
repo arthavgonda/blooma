@@ -1,0 +1,151 @@
+{
+  "week": 8,
+  "section": "strength_from_within",
+
+  "title": "Steady Nourishment",
+  "subtitle": "Finding a gentle rhythm",
+
+  "description": "At this stage, you may begin to notice slight stability in your appetite, although sensitivity can still be present. Establishing a gentle and predictable eating rhythm can help support your energy and comfort.",
+
+  "what_to_expect": [
+    "Slight improvement in appetite consistency",
+    "Reduced but still present food sensitivities",
+    "Better understanding of what foods suit you"
+  ],
+
+  "nutrition_focus": [
+    "Build a gentle and consistent eating routine",
+    "Continue with small, balanced meals",
+    "Gradually include more variety if comfortable"
+  ],
+
+  "recommended_foods": [
+    "Balanced meals like dal, roti, rice, and sabzi",
+    "Fruits like banana, apple, papaya, or orange",
+    "Cooked vegetables like लौकी, spinach, and carrots",
+    "Protein sources like curd, paneer, lentils, or eggs (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Very spicy or oily foods",
+    "Strong-smelling or heavy meals",
+    "Skipping meals due to mild discomfort"
+  ],
+
+  "hydration": [
+    "Drink water regularly throughout the day",
+    "Include coconut water, buttermilk, or fresh lemon water"
+  ],
+
+  "reassurance": "A gentle and steady routine can help you feel more comfortable and supported.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Establishing consistent meal patterns supports stable energy and blood sugar levels.",
+
+      "nutrition_focus": [
+        "Eat small, regular meals",
+        "Prefer low glycemic index foods",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils and paneer"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large meals at once"
+      ],
+
+      "reassurance": "Regular routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "With improving appetite, continuing iron-rich foods can further support your energy.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods regularly",
+        "Pair meals with vitamin C sources",
+        "Maintain consistent meal patterns"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Steady nutrition helps build your strength over time."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced and consistent meals support stable blood pressure and comfort.",
+
+      "nutrition_focus": [
+        "Keep meals light and balanced",
+        "Limit excess salt intake",
+        "Maintain regular meal timings"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Consistency in meals supports a calm and balanced routine."
+    },
+
+    "thyroid": {
+      "personalized_description": "A steady and consistent diet supports overall metabolic balance.",
+
+      "nutrition_focus": [
+        "Eat at regular intervals",
+        "Gradually include balanced food variety",
+        "Avoid irregular eating habits"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency helps your body stay balanced and steady."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, building a steady and balanced eating routine can help maintain overall stability.",
+
+    "priority_nutrition": [
+      "Maintain regular meal timings",
+      "Include balanced and simple meals",
+      "Gradually introduce variety as tolerated"
+    ],
+
+    "reassurance": "Small, steady improvements in your diet can support your overall well-being."
+  }
+}

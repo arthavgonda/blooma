@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="24506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="ProfileHeaderCollectionViewCell" customModule="prenatalPregnancy" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="452" height="107"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="452" height="107"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZLV-Dd-peS">
+                        <rect key="frame" x="16" y="8" width="420" height="91"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="person.crop.circle.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="LHM-NY-WZX">
+                                <rect key="frame" x="16" y="10.333333333333336" width="72" height="70.666666666666657"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="72" id="GHt-px-44X"/>
+                                    <constraint firstAttribute="width" constant="72" id="xAd-UU-ZR5"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LfE-p9-nav">
+                                <rect key="frame" x="104" y="21.666666666666671" width="256" height="24"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3EK-yF-uvb">
+                                <rect key="frame" x="104" y="49.666666666666664" width="256" height="16.999999999999993"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3LX-QS-u9B">
+                                <rect key="frame" x="368" y="27.666666666666664" width="36" height="36"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="36" id="QFX-uW-MVi"/>
+                                    <constraint firstAttribute="height" constant="36" id="fLO-1P-IaL"/>
+                                </constraints>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" image="camera.fill" catalog="system"/>
+                                <connections>
+                                    <action selector="cameraTapped" destination="gTV-IL-0wX" eventType="touchUpInside" id="Sdb-ME-M7O"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="3EK-yF-uvb" firstAttribute="top" secondItem="LfE-p9-nav" secondAttribute="bottom" constant="4" id="89a-WK-JZw"/>
+                            <constraint firstItem="3EK-yF-uvb" firstAttribute="leading" secondItem="LHM-NY-WZX" secondAttribute="trailing" constant="16" id="NG5-pH-yJa"/>
+                            <constraint firstItem="LfE-p9-nav" firstAttribute="leading" secondItem="LHM-NY-WZX" secondAttribute="trailing" constant="16" id="U4B-Qt-Hgt"/>
+                            <constraint firstItem="3LX-QS-u9B" firstAttribute="leading" secondItem="3EK-yF-uvb" secondAttribute="trailing" constant="8" id="cSL-zL-OdV"/>
+                            <constraint firstAttribute="trailing" secondItem="3LX-QS-u9B" secondAttribute="trailing" constant="16" id="cvm-Ce-Gkd"/>
+                            <constraint firstItem="LfE-p9-nav" firstAttribute="centerY" secondItem="LHM-NY-WZX" secondAttribute="centerY" constant="-12" id="gbd-9X-jgx"/>
+                            <constraint firstItem="3LX-QS-u9B" firstAttribute="leading" secondItem="LfE-p9-nav" secondAttribute="trailing" constant="8" id="joQ-kU-H7Z"/>
+                            <constraint firstItem="LHM-NY-WZX" firstAttribute="centerY" secondItem="ZLV-Dd-peS" secondAttribute="centerY" id="msq-6e-ISv"/>
+                            <constraint firstItem="3LX-QS-u9B" firstAttribute="centerY" secondItem="LHM-NY-WZX" secondAttribute="centerY" id="qUP-2K-wIh"/>
+                            <constraint firstItem="LHM-NY-WZX" firstAttribute="leading" secondItem="ZLV-Dd-peS" secondAttribute="leading" constant="16" id="znC-hu-WzZ"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="ZLV-Dd-peS" secondAttribute="trailing" constant="16" id="BEn-Ih-QO9"/>
+                <constraint firstAttribute="bottom" secondItem="ZLV-Dd-peS" secondAttribute="bottom" constant="8" id="XR1-tI-98o"/>
+                <constraint firstItem="ZLV-Dd-peS" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="16" id="abU-sS-jfd"/>
+                <constraint firstItem="ZLV-Dd-peS" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="8" id="p1p-Co-IIu"/>
+            </constraints>
+            <size key="customSize" width="452" height="107"/>
+            <connections>
+                <outlet property="cameraButton" destination="3LX-QS-u9B" id="tha-Yr-Xs4"/>
+                <outlet property="containerView" destination="ZLV-Dd-peS" id="0Uo-Sr-Dk4"/>
+                <outlet property="nameLabel" destination="LfE-p9-nav" id="Kds-TF-PdA"/>
+                <outlet property="nicknameLabel" destination="3EK-yF-uvb" id="FzR-Xq-m3Z"/>
+                <outlet property="profileImageView" destination="LHM-NY-WZX" id="5NI-42-LXY"/>
+            </connections>
+            <point key="canvasLocation" x="450.38167938931298" y="178.52112676056339"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="camera.fill" catalog="system" width="128" height="93"/>
+        <image name="person.crop.circle.fill" catalog="system" width="128" height="123"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

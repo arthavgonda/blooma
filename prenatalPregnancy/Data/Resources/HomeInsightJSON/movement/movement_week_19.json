@@ -1,0 +1,114 @@
+{
+  "week": 19,
+  "section": "safety_awareness",
+
+  "title": "Ergonomic Care",
+  "subtitle": "Supporting joints and posture",
+
+  "description": "As your body continues to grow, changes in weight distribution may place additional stress on joints and muscles. Practicing ergonomic movement, maintaining posture, and reducing strain can help support comfort and prevent discomfort.",
+
+  "what_to_expect": [
+    "Changes in body weight distribution and posture",
+    "Increased pressure on joints such as the back, hips, and knees",
+    "Greater need for ergonomic support during daily activities"
+  ],
+
+  "daily_safety_tips": [
+    "Maintain proper posture and avoid slouching or leaning",
+    "Use support while sitting, such as cushions or backrests",
+    "Avoid standing or sitting in one position for too long"
+  ],
+
+  "movement_guidelines": [
+    "Engage in light to moderate activity with proper body alignment",
+    "Avoid lifting heavy objects or putting strain on joints",
+    "Use proper techniques when bending, such as bending at the knees"
+  ],
+
+  "environmental_awareness": [
+    "Ensure your surroundings support easy and safe movement",
+    "Use stable furniture and avoid unstable surfaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Use proper back and hip support while sitting during travel",
+    "Avoid long periods without movement",
+    "Take breaks to stretch and adjust posture"
+  ],
+
+  "important_note": "Supporting your joints and maintaining ergonomic movement can help reduce strain.",
+  "reassurance": "With proper posture and support, daily activities can remain comfortable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent activity and posture supports both comfort and stable blood sugar levels.",
+
+      "movement_guidelines": [
+        "Engage in moderate activity such as walking",
+        "Maintain regular meal timing and hydration",
+        "Be mindful of posture during extended activity"
+      ],
+
+      "safety_focus": "Watch for signs of fatigue or low energy that may affect movement.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Joint stress and fatigue require careful pacing and supportive movement.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and move at a steady pace",
+        "Take frequent breaks during activity"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Gentle pacing and support help maintain comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm routines and avoiding physical strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding activities",
+        "Engage in controlled and relaxed movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady routine supports well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and ergonomic movement support metabolic balance.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining ergonomic posture, controlled movement, and steady routines becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid strain on joints or prolonged static positions",
+      "Maintain moderate and consistent daily movement",
+      "Take regular breaks and stay hydrated"
+    ],
+
+    "reassurance": "Proper support and balanced movement help maintain comfort and safety."
+  }
+}

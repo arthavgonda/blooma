@@ -1,0 +1,114 @@
+{
+  "week": 14,
+  "section": "safety_awareness",
+
+  "title": "Confident Movement",
+  "subtitle": "Building strength with awareness",
+
+  "description": "As your body settles into the second trimester, you may feel more comfortable and confident in your daily movements. While energy levels improve, maintaining mindful activity and avoiding overexertion remains important for safety.",
+
+  "what_to_expect": [
+    "Energy levels may feel more stable and sustained",
+    "Reduced nausea and improved overall comfort",
+    "Increased confidence in performing daily activities"
+  ],
+
+  "daily_safety_tips": [
+    "Gradually take on more daily tasks while avoiding strain",
+    "Continue wearing comfortable and supportive footwear",
+    "Maintain hydration and balanced nutrition throughout the day"
+  ],
+
+  "movement_guidelines": [
+    "Engage in light to moderate activities such as walking or gentle stretching",
+    "Avoid high-impact, jerky, or physically intense exercises",
+    "Maintain proper posture during movement and daily tasks"
+  ],
+
+  "environmental_awareness": [
+    "Continue avoiding exposure to harmful chemicals, smoke, or pollutants",
+    "Stay in clean, well-ventilated, and comfortable environments",
+    "Be mindful of crowded or uneven spaces while moving"
+  ],
+
+  "travel_safety": [
+    "Travel is generally comfortable with precautions",
+    "Use seatbelts correctly and maintain good posture",
+    "Take breaks to stretch and walk during longer journeys"
+  ],
+
+  "important_note": "Improved comfort should be balanced with continued awareness and safe practices.",
+  "reassurance": "You may feel more capable now, and a mindful approach helps maintain that comfort.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "With improved energy, maintaining regular meals and moderate activity supports stable blood sugar levels.",
+
+      "movement_guidelines": [
+        "Engage in regular light to moderate activity such as walking",
+        "Maintain consistent meal timing and balanced nutrition",
+        "Monitor your body's response to increased activity"
+      ],
+
+      "safety_focus": "Be mindful of fluctuations in energy or signs of low blood sugar.",
+
+      "reassurance": "Consistency in meals and movement supports stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Energy may improve, but careful pacing remains important to prevent fatigue.",
+
+      "movement_guidelines": [
+        "Gradually increase activity while avoiding overexertion",
+        "Take rest breaks as needed"
+      ],
+
+      "safety_focus": "Watch for dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Balanced pacing helps maintain energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and structured routine continues to support stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically intense activities",
+        "Engage in slow, controlled, and relaxed movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and environmental triggers.",
+
+      "reassurance": "A steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Maintaining consistent routines and moderate activity supports metabolic balance.",
+
+      "movement_guidelines": [
+        "Follow a steady and moderate activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency helps maintain stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining a steady and balanced routine while gradually increasing activity remains essential.",
+
+    "priority_guidelines": [
+      "Avoid sudden or excessive increases in activity",
+      "Maintain moderate and consistent daily movement",
+      "Continue hydration and regular rest breaks"
+    ],
+
+    "reassurance": "A balanced routine supports ongoing comfort and safety."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "week": 21,
+  "section": "bump_care",
+
+  "title": "Active and Growing",
+  "subtitle": "Movements become more noticeable",
+
+  "description": "By week 21, your baby is growing steadily and becoming more active. Movements are now more noticeable and may follow a pattern, giving you a better sense of your baby’s activity.",
+
+  "what_to_expect": [
+    "Fetal movements become more regular and noticeable",
+    "You may start recognizing movement patterns",
+    "Your baby continues steady growth and development"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow regular routines",
+    "Engage in light exercise and maintain good posture"
+  ],
+
+  "medical_checkups": {
+    "note": "Routine monitoring continues after the anomaly scan stage.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Monitors maternal health and fetal growth"
+      },
+      {
+        "name": "Follow-up Tests (if advised)",
+        "purpose": "Evaluates any findings from earlier scans"
+      }
+    ],
+    "guidance": "Your doctor will guide you on any follow-up tests based on previous reports and your health condition."
+  },
+
+  "important_note": "Recognizing movement patterns can help you stay aware of your baby’s well-being.",
+  "reassurance": "Your baby’s movements are a reassuring sign of healthy development.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you notice any sudden changes in movement patterns.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Stable blood sugar levels support ongoing growth and activity.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored during routine prenatal visits.",
+
+      "reassurance": "Consistent management supports healthy development."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support oxygen supply during increased activity.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during this active stage.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support continued development and metabolism.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As movements become more regular, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support healthy progress."
+  }
+}

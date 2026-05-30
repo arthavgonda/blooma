@@ -1,0 +1,262 @@
+{
+  "privacy_policy": {
+    "title": "Your Privacy Matters",
+    "subtitle": "How Blooma protects and handles your personal, pregnancy, and wellness information",
+    "sections": [
+      {
+        "id": "privacy_promise",
+        "title": "Our Privacy Promise",
+        "content": {
+          "hero_title": "Your Data Is Handled With Care",
+          "hero_subtitle": "Pregnancy information is deeply personal, and Blooma treats it with responsibility and confidentiality",
+          "intro_blocks": [
+            {
+              "label": "OUR PRIVACY PROMISE",
+              "heading": "Privacy as a Core Part of Blooma",
+              "paragraphs": [
+                "At Blooma, we understand that pregnancy-related information is deeply personal. The app is designed to support women through structured prenatal exercise, yoga, and walking guidance, and we treat the information connected to that journey with care, confidentiality, and responsibility.",
+                "Blooma is designed as a maternal wellness support app. This means privacy is not treated as an extra feature added later, but as a core part of how the product is built and how the experience is delivered to users."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "heart.text.square",
+              "title": "Designed for Maternal Wellness",
+              "description": "Blooma is built to support prenatal exercise, yoga, and walking guidance with privacy as part of the experience."
+            },
+            {
+              "icon": "lock.shield",
+              "title": "Collected with Purpose",
+              "description": "We collect only the information needed to provide safer and more relevant wellness support."
+            },
+            {
+              "icon": "eye.slash",
+              "title": "Handled with Confidentiality",
+              "description": "Your pregnancy-related information is treated as sensitive and handled with care."
+            }
+          ]
+        }
+      },
+      {
+        "id": "introduction",
+        "title": "Introduction",
+        "content": {
+          "hero_title": "Why Privacy Matters in Blooma",
+          "hero_subtitle": "Your data supports structured and personalized prenatal wellness guidance",
+          "intro_blocks": [
+            {
+              "label": "INTRODUCTION TO OUR PRIVACY POLICY",
+              "heading": "Supporting a Safer and More Personalized Experience",
+              "paragraphs": [
+                "This Privacy Policy explains how Blooma collects, uses, stores, and protects your information when you use the application.",
+                "Blooma organizes prenatal activities such as exercise routines, yoga practices, and walking guidance into a structured digital format so women can access safer and more personalized prenatal wellness support.",
+                "Because pregnancy wellness data can be sensitive, Blooma is designed to use information carefully and only in ways that support your experience inside the app."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "doc.text",
+              "title": "Clear Data Usage",
+              "description": "This policy explains how Blooma collects, uses, stores, and protects your information."
+            },
+            {
+              "icon": "square.grid.2x2",
+              "title": "Structured Experience",
+              "description": "Your data helps organize exercise, yoga, and walking guidance into a structured prenatal system."
+            },
+            {
+              "icon": "shield",
+              "title": "Sensitive by Nature",
+              "description": "Pregnancy wellness data is handled carefully and only used to support your in-app experience."
+            }
+          ]
+        }
+      },
+      {
+        "id": "data_collection",
+        "title": "What We Collect",
+        "content": {
+          "hero_title": "Information That Supports Your Journey",
+          "hero_subtitle": "We collect only what helps personalize and improve your experience",
+          "intro_blocks": [
+            {
+              "label": "WHAT INFORMATION WE MAY COLLECT",
+              "heading": "Information That Helps Personalize Prenatal Guidance",
+              "paragraphs": [
+                "We may collect profile information such as your name, email address, login details, and app settings.",
+                "We may collect pregnancy-related inputs such as trimester or pregnancy week, selected activity types, exercise preferences, yoga preferences, walking progress, and completed sessions.",
+                "Where you choose to provide it, we may also use health-related context or selected restriction indicators to better filter activities and avoid showing suggestions that may be less suitable for your stage or condition."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "person.crop.circle",
+              "title": "Profile Information",
+              "description": "Basic details like name, email, login credentials, and app settings."
+            },
+            {
+              "icon": "calendar",
+              "title": "Pregnancy Context",
+              "description": "Inputs like trimester, pregnancy week, and selected activity preferences."
+            },
+            {
+              "icon": "figure.walk",
+              "title": "Activity & Progress",
+              "description": "Your exercise, yoga, walking activity, and completed sessions."
+            },
+            {
+              "icon": "cross.case",
+              "title": "Health Context",
+              "description": "Optional health inputs may help show safer and more suitable content."
+            }
+          ]
+        }
+      },
+      {
+        "id": "data_usage",
+        "title": "Why We Use Your Data",
+        "content": {
+          "hero_title": "To Support Safer Recommendations",
+          "hero_subtitle": "Your data helps Blooma provide more relevant and personalized guidance",
+          "intro_blocks": [
+            {
+              "label": "WHY WE COLLECT THIS INFORMATION",
+              "heading": "Supporting Safer and More Relevant Recommendations",
+              "paragraphs": [
+                "Blooma uses this information to organize and personalize prenatal wellness support across exercise, yoga, and walking categories.",
+                "Your pregnancy stage may be used to support trimester-aware activity planning so recommendations are better aligned with your current phase of pregnancy.",
+                "Selected safety and health-related inputs may also help reduce the visibility of activities that may not be appropriate for certain users."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "sparkles",
+              "title": "Personalized Experience",
+              "description": "We use your inputs to tailor exercise, yoga, and walking recommendations."
+            },
+            {
+              "icon": "calendar.badge.clock",
+              "title": "Trimester-Aware Planning",
+              "description": "Your pregnancy stage helps align activities with your current phase."
+            },
+            {
+              "icon": "shield.checkerboard",
+              "title": "Safety Filtering",
+              "description": "Health inputs help reduce activities that may not be suitable for you."
+            }
+          ]
+        }
+      },
+      {
+        "id": "data_security",
+        "title": "How We Secure Your Data",
+        "content": {
+          "hero_title": "Protected at Every Step",
+          "hero_subtitle": "Your data is secured through controlled systems and safe practices",
+          "intro_blocks": [
+            {
+              "label": "HOW WE SECURE YOUR DATA",
+              "heading": "Protection Through Secure Systems",
+              "paragraphs": [
+                "Blooma uses protected systems and controlled access practices designed to reduce unauthorized access to personal information.",
+                "Information shared between your device and app services is transferred using protected communication methods, and access to account-related information is protected through authentication and session controls.",
+                "Only the systems and functions necessary to support your experience should process the relevant data required for app functionality."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "server.rack",
+              "title": "Protected Storage",
+              "description": "Your data is stored using secure systems with controlled access."
+            },
+            {
+              "icon": "lock.fill",
+              "title": "Secure Transmission",
+              "description": "All data is transferred using protected communication methods."
+            },
+            {
+              "icon": "key.fill",
+              "title": "Authentication Controls",
+              "description": "Access is protected through login authentication and session control."
+            },
+            {
+              "icon": "shield",
+              "title": "Restricted Access",
+              "description": "Only required systems process your data for app functionality."
+            }
+          ]
+        }
+      },
+      {
+        "id": "user_control",
+        "title": "Your Control",
+        "content": {
+          "hero_title": "You Stay in Charge",
+          "hero_subtitle": "Transparency and control are built into your experience",
+          "intro_blocks": [
+            {
+              "label": "YOUR CONTROL",
+              "heading": "Managing Your Information",
+              "paragraphs": [
+                "You may update your profile information, manage permissions through your device settings, and request removal of your personal data where applicable.",
+                "Blooma is intended to respect user control and transparency so that you understand what information is being used and why."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "slider.horizontal.3",
+              "title": "Manage Your Data",
+              "description": "You can update your profile and preferences anytime."
+            },
+            {
+              "icon": "gear",
+              "title": "Control Permissions",
+              "description": "Permissions can be managed through your device settings."
+            },
+            {
+              "icon": "trash",
+              "title": "Request Deletion",
+              "description": "You can request removal of your personal data where applicable."
+            }
+          ]
+        }
+      },
+      {
+        "id": "disclaimer",
+        "title": "Important Disclaimer",
+        "content": {
+          "hero_title": "Wellness Support, Not Medical Advice",
+          "hero_subtitle": "Blooma provides guidance, not diagnosis or treatment",
+          "intro_blocks": [
+            {
+              "label": "IMPORTANT DISCLAIMER",
+              "heading": "Educational Support Only",
+              "paragraphs": [
+                "Blooma provides educational and wellness-support information only. It does not diagnose, treat, or replace the advice of a doctor or other licensed healthcare professional.",
+                "Users should consult a qualified healthcare provider before starting or changing prenatal exercise, yoga, or walking routines, especially in cases of pain, complications, or high-risk pregnancy."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "exclamationmark.triangle",
+              "title": "Educational Purpose",
+              "description": "Blooma provides wellness support and informational guidance only."
+            },
+            {
+              "icon": "stethoscope",
+              "title": "Consult Professionals",
+              "description": "Always consult a healthcare provider before starting or changing activities."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

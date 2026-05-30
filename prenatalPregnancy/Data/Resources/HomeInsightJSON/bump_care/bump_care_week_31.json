@@ -1,0 +1,114 @@
+{
+  "week": 31,
+  "section": "bump_care",
+
+  "title": "Rapid Growth Phase",
+  "subtitle": "Gaining weight and strength",
+
+  "description": "By week 31, your baby is growing rapidly and gaining more weight. The brain continues to develop, and movements remain strong, though space inside the womb is becoming limited.",
+
+  "what_to_expect": [
+    "Fetal movements remain strong but may feel different due to less space",
+    "Rapid weight gain continues",
+    "You may experience increased physical discomfort or breathlessness"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Rest adequately and avoid prolonged standing"
+  ],
+
+  "medical_checkups": {
+    "note": "Monitoring becomes more frequent as you approach the final weeks.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal growth"
+      },
+      {
+        "name": "Blood Pressure Monitoring",
+        "purpose": "Ensures maternal stability"
+      }
+    ],
+    "guidance": "Your doctor may begin scheduling more frequent visits to closely monitor your progress."
+  },
+
+  "important_note": "Changes in movement patterns may occur due to limited space, but regular activity should continue.",
+  "reassurance": "Your baby is growing stronger and preparing for birth.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you notice reduced or unusual movements.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports healthy weight gain and development.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored more frequently during this stage.",
+
+      "reassurance": "Consistent management supports healthy progress."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports increased blood volume and oxygen supply.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is essential as your body adapts to increased demands.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring may become more frequent.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing development and metabolic function.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As growth accelerates, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support a healthy final stage."
+  }
+}

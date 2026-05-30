@@ -1,0 +1,114 @@
+{
+  "week": 28,
+  "section": "bump_care",
+
+  "title": "Stronger and More Aware",
+  "subtitle": "Activity and awareness increase",
+
+  "description": "By week 28, your baby continues to grow stronger, and brain development accelerates. Movements are more defined, and you may clearly notice patterns of activity and rest.",
+
+  "what_to_expect": [
+    "Fetal movements are strong and clearly noticeable",
+    "Brain development increases rapidly",
+    "You may observe regular patterns of activity and rest"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Engage in light exercise and ensure adequate rest"
+  ],
+
+  "medical_checkups": {
+    "note": "Monitoring becomes more frequent during the third trimester.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal growth"
+      },
+      {
+        "name": "Hemoglobin Test",
+        "purpose": "Checks for anemia"
+      }
+    ],
+    "guidance": "Your doctor may begin scheduling more frequent visits to closely monitor your health and your baby’s progress."
+  },
+
+  "important_note": "Regular movement patterns can help you stay aware of your baby’s well-being.",
+  "reassurance": "Your baby is becoming stronger and more active with each passing week.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you notice reduced or unusual movements.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels is important as your baby’s growth accelerates.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored more frequently during this stage.",
+
+      "reassurance": "Consistent management supports healthy development."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support increased blood volume and oxygen supply.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be checked during this stage.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy and strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is essential as your body adjusts to increased demands.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring may become more frequent.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing growth and metabolic stability.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As activity increases, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support a healthy progression."
+  }
+}

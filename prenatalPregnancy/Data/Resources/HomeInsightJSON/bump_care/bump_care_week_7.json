@@ -1,0 +1,114 @@
+{
+  "week": 7,
+  "section": "bump_care",
+
+  "title": "Growing Rapidly",
+  "subtitle": "Development becomes more defined",
+
+  "description": "By week 7, your baby is growing quickly, and key body parts continue to develop. The brain is growing rapidly, and small features like arms and legs begin to take shape.",
+
+  "what_to_expect": [
+    "Rapid brain development continues",
+    "Small limb buds (arms and legs) begin to form",
+    "Symptoms like nausea, fatigue, and sensitivity to smells may increase"
+  ],
+
+  "care_tips": [
+    "Eat small, frequent meals to manage nausea",
+    "Stay hydrated and include nutritious foods",
+    "Get plenty of rest and avoid stress"
+  ],
+
+  "medical_checkups": {
+    "note": "Monitoring early development and symptoms becomes important during this stage.",
+    "commonly_suggested": [
+      {
+        "name": "Ultrasound Scan",
+        "purpose": "Checks growth and confirms heartbeat"
+      },
+      {
+        "name": "Routine Blood Tests",
+        "purpose": "Assesses overall health and detects any concerns"
+      }
+    ],
+    "guidance": "Your doctor will decide the timing of scans and tests based on your progress and medical history."
+  },
+
+  "important_note": "This is a phase of rapid development where essential structures are becoming more defined.",
+  "reassurance": "Your baby is growing steadily, even if you cannot see it yet.",
+
+  "medical_disclaimer": "Consult your healthcare provider if symptoms become difficult to manage.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports ongoing rapid development.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Eat balanced, frequent meals",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be reviewed during ongoing prenatal care.",
+
+      "reassurance": "Consistent management helps support steady growth."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support increased blood supply and fetal growth.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for absorption",
+        "Follow supplement advice if given"
+      ],
+
+      "medical_focus": "Hemoglobin levels may continue to be monitored.",
+
+      "reassurance": "Proper nutrition supports both you and your baby."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure helps ensure proper circulation during rapid growth.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "Calm and steady habits support your health."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels are important for brain and organ development.",
+
+      "care_tips": [
+        "Take prescribed medication consistently",
+        "Maintain regular routines",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "With rapid development underway, managing multiple conditions requires steady and careful attention.",
+
+    "priority_tips": [
+      "Follow medical guidance consistently",
+      "Maintain a balanced routine",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts can support healthy progress."
+  }
+}

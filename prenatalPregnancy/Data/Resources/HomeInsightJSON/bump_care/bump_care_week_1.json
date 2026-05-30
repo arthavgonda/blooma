@@ -1,0 +1,114 @@
+{
+  "week": 1,
+  "section": "bump_care",
+
+  "title": "A Gentle Beginning",
+  "subtitle": "Laying the foundation for your journey",
+
+  "description": "This is the very beginning of your pregnancy journey. Even though changes may not be visible yet, your body has started preparing to support new life.",
+
+  "what_to_expect": [
+    "Early internal changes begin as your body prepares for pregnancy",
+    "You may not notice physical symptoms yet",
+    "Hormonal shifts quietly start in the background"
+  ],
+
+  "care_tips": [
+    "Begin maintaining a balanced daily routine",
+    "Stay hydrated and well-rested",
+    "Avoid unnecessary stress and overexertion"
+  ],
+
+  "medical_checkups": {
+    "note": "At this stage, awareness and early confirmation are key parts of care.",
+    "commonly_suggested": [
+      {
+        "name": "Pregnancy Test",
+        "purpose": "Confirms early pregnancy"
+      },
+      {
+        "name": "Initial Doctor Consultation",
+        "purpose": "Helps begin guided care and next steps"
+      }
+    ],
+    "guidance": "Further tests, if needed, are usually suggested by your doctor based on individual needs."
+  },
+
+  "important_note": "Early care and awareness help set a strong foundation for the weeks ahead.",
+  "reassurance": "Every journey starts small — you’re taking the first step toward something meaningful.",
+
+  "medical_disclaimer": "Your doctor may adjust or recommend tests based on your individual health needs.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "As you begin this journey, keeping your blood sugar levels stable can support a smoother start.",
+
+      "care_tips": [
+        "Maintain regular meal timings",
+        "Avoid long gaps between meals",
+        "Stay lightly active with simple movements"
+      ],
+
+      "medical_focus": "Blood sugar levels may be reviewed as part of your early health assessment.",
+
+      "reassurance": "Small, consistent steps can help you stay balanced from the very beginning."
+    },
+
+    "anemia": {
+      "personalized_description": "Supporting your body with healthy iron levels early on can help you feel more prepared for the journey ahead.",
+
+      "care_tips": [
+        "Include iron-rich foods in your meals",
+        "Avoid skipping meals",
+        "Follow any supplement advice if provided"
+      ],
+
+      "medical_focus": "Iron levels may be checked as part of general blood assessments.",
+
+      "reassurance": "Building strength early can make you feel more supported in the coming weeks."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining stable blood pressure early in pregnancy helps create a steady foundation for your health.",
+
+      "care_tips": [
+        "Focus on rest and relaxation",
+        "Avoid excessive salt intake",
+        "Maintain a calm daily routine"
+      ],
+
+      "medical_focus": "Blood pressure may be monitored during initial consultations.",
+
+      "reassurance": "Staying calm and consistent can help you begin this journey with confidence."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support your overall well-being as your body begins adapting to pregnancy.",
+
+      "care_tips": [
+        "Take prescribed medication regularly if applicable",
+        "Avoid skipping doses",
+        "Maintain a consistent routine"
+      ],
+
+      "medical_focus": "Thyroid levels may be reviewed as part of early evaluations.",
+
+      "reassurance": "Keeping things steady early on helps everything stay on track."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As you begin your journey while managing multiple health aspects, focusing on consistency in routine and regular checkups can help you stay balanced.",
+
+    "priority_tips": [
+      "Stick to a simple and structured daily routine",
+      "Keep all medical consultations on schedule",
+      "Avoid sudden lifestyle changes without guidance"
+    ],
+
+    "reassurance": "Even with multiple considerations, starting with small, steady steps is more than enough."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "week": 28,
+  "section": "strength_from_within",
+
+  "title": "Elevated Nourishment",
+  "subtitle": "Supporting increased energy demands",
+
+  "description": "As you enter the third trimester, your body’s energy needs increase further. You may notice more fatigue, making it important to focus on energy-dense foods, slightly larger portions, and consistent hydration.",
+
+  "what_to_expect": [
+    "Increased fatigue at times",
+    "Higher hunger levels or need for larger portions",
+    "Greater importance of sustained energy and hydration"
+  ],
+
+  "nutrition_focus": [
+    "Increase portion sizes gradually if comfortable",
+    "Include energy-dense and nutrient-rich foods",
+    "Maintain consistent hydration throughout the day"
+  ],
+
+  "recommended_foods": [
+    "Balanced meals like dal, roti, rice, sabzi, and salad",
+    "Fruits like banana, apple, orange, guava, and pomegranate",
+    "Vegetables including spinach, beetroot, carrots, beans, and broccoli",
+    "Healthy snacks like nuts, roasted chana, fruit bowls, or curd",
+    "Protein and calcium sources like milk, paneer, lentils, eggs, or chicken (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Excessively oily or fried foods",
+    "Highly processed snacks",
+    "Skipping meals or eating irregularly"
+  ],
+
+  "hydration": [
+    "Drink water frequently throughout the day",
+    "Include fluids like buttermilk, coconut water, lemon water, or light soups"
+  ],
+
+  "reassurance": "Nourishing your body well helps support your energy and comfort during this phase.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balanced meals with controlled portions support stable energy and blood sugar levels.",
+
+      "nutrition_focus": [
+        "Maintain regular meal timings",
+        "Balance carbohydrates with protein and fiber",
+        "Avoid sudden increases in portion sizes"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils, paneer, and nuts"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large or irregular meals"
+      ],
+
+      "reassurance": "Balanced and controlled meals help maintain stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Increased focus on iron-rich foods supports energy and helps manage fatigue.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods daily",
+        "Pair meals with vitamin C sources",
+        "Maintain consistent meal patterns"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Consistent iron intake supports your strength and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals and proper hydration support stable blood pressure.",
+
+      "nutrition_focus": [
+        "Maintain regular meal timings",
+        "Limit excess salt intake",
+        "Stay well hydrated"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Balanced routines support a calm and steady state."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent meals and hydration support metabolic balance and energy.",
+
+      "nutrition_focus": [
+        "Maintain regular eating intervals",
+        "Include balanced nutrients",
+        "Stay hydrated throughout the day"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency supports your body's natural rhythm."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on balanced meals, portion control, and hydration helps maintain strength and stability.",
+
+    "priority_nutrition": [
+      "Maintain regular meal and snack timings",
+      "Include energy-dense and nutrient-rich foods",
+      "Stay well hydrated throughout the day"
+    ],
+
+    "reassurance": "Steady nourishment and hydration support your overall well-being."
+  }
+}

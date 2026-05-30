@@ -1,0 +1,114 @@
+{
+  "week": 10,
+  "section": "bump_care",
+
+  "title": "Stronger Foundations",
+  "subtitle": "Growth becomes more stable",
+
+  "description": "By week 10, most major organs have formed and are beginning to function. Your baby continues to grow steadily, and the risk of early complications gradually starts to decrease.",
+
+  "what_to_expect": [
+    "Major organs are formed and starting to function",
+    "Fingers and toes are more defined",
+    "Symptoms like nausea and fatigue may still be present but can begin to stabilize"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced diet rich in essential nutrients",
+    "Stay hydrated and continue regular meal patterns",
+    "Get adequate rest and avoid unnecessary stress"
+  ],
+
+  "medical_checkups": {
+    "note": "This stage often involves routine monitoring and early screening discussions.",
+    "commonly_suggested": [
+      {
+        "name": "Ultrasound Scan",
+        "purpose": "Checks fetal growth and development"
+      },
+      {
+        "name": "Routine Blood Tests",
+        "purpose": "Monitors overall health and detects deficiencies"
+      }
+    ],
+    "guidance": "Your doctor may begin discussing upcoming screening tests based on your medical history."
+  },
+
+  "important_note": "With major organs formed, your baby is now entering a phase of growth and refinement.",
+  "reassurance": "Your pregnancy is progressing steadily, and each week brings more development.",
+
+  "medical_disclaimer": "Always follow your healthcare provider’s advice for tests and care during this stage.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports continued growth and organ function.",
+
+      "care_tips": [
+        "Monitor blood glucose levels regularly",
+        "Maintain consistent meal timing",
+        "Avoid high-sugar and processed foods"
+      ],
+
+      "medical_focus": "Blood sugar may be monitored closely during routine prenatal care.",
+
+      "reassurance": "Consistent management supports steady development."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support increased blood volume and fetal growth.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair iron with vitamin C",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be checked during routine tests.",
+
+      "reassurance": "Proper nutrition helps maintain your energy and supports growth."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation as growth continues.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and consistent routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing development and metabolism.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As your pregnancy stabilizes, managing multiple conditions requires consistent and careful attention.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain a balanced and regular lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care and awareness can support a healthy journey forward."
+  }
+}

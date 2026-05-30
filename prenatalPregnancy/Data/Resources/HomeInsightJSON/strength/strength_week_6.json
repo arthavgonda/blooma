@@ -1,0 +1,151 @@
+{
+  "week": 6,
+  "section": "strength_from_within",
+
+  "title": "Gentle Balance",
+  "subtitle": "Finding comfort in small routines",
+
+  "description": "At this stage, nausea may still be present, but your body may begin to adjust slightly. Introducing small variety in meals while keeping them light and regular can help maintain nourishment and comfort.",
+
+  "what_to_expect": [
+    "Continued nausea with slight adaptation",
+    "Small improvements in appetite at times",
+    "Ability to tolerate a little more variety in food"
+  ],
+
+  "nutrition_focus": [
+    "Continue with small and frequent meals",
+    "Gradually include a bit more variety if comfortable",
+    "Maintain hydration consistently"
+  ],
+
+  "recommended_foods": [
+    "Light meals like khichdi, dal-rice, and vegetable porridge",
+    "Fruits like banana, apple, papaya, or orange",
+    "Cooked vegetables like bottle gourd, pumpkin, and carrots",
+    "Protein sources like curd, lentils, paneer, or eggs (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Spicy, oily, or heavy meals",
+    "Strong-smelling or overly rich foods",
+    "Skipping meals during low appetite phases"
+  ],
+
+  "hydration": [
+    "Sip water regularly throughout the day",
+    "Include coconut water, buttermilk, or light soups"
+  ],
+
+  "reassurance": "Slowly adding variety while keeping meals simple can support your comfort and energy.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining steady and small meals helps support stable energy levels.",
+
+      "nutrition_focus": [
+        "Eat small, frequent meals",
+        "Prefer low glycemic index foods",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils and paneer"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large meals at once"
+      ],
+
+      "reassurance": "Regular and balanced meals help maintain stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Continuing iron-rich foods in small portions supports your energy levels.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods regularly",
+        "Pair meals with vitamin C sources",
+        "Maintain consistent meal patterns"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Consistent small steps in nutrition help build strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced and light meals support comfort and stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals light and balanced",
+        "Limit excess salt",
+        "Maintain regular meal timings"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and processed items"
+      ],
+
+      "reassurance": "Simple and steady meals help maintain balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Maintaining consistent eating patterns supports overall balance.",
+
+      "nutrition_focus": [
+        "Eat at regular intervals",
+        "Gradually include balanced variety",
+        "Avoid irregular eating habits"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency and gradual changes support your body."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining small, balanced, and regular meals with gradual variety can help support your needs.",
+
+    "priority_nutrition": [
+      "Eat small and frequent meals",
+      "Gradually include balanced food variety",
+      "Stay hydrated consistently"
+    ],
+
+    "reassurance": "Gentle progress in your diet can support both comfort and well-being."
+  }
+}

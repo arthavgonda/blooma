@@ -1,0 +1,152 @@
+{
+  "week": 37,
+  "section": "strength_from_within",
+
+  "title": "Final Nourishment",
+  "subtitle": "Supporting comfort and readiness",
+
+  "description": "As you enter the final stretch, your body may feel heavier and more fatigued. Gentle, comforting meals and proper hydration can help maintain your energy and support overall readiness.",
+
+  "what_to_expect": [
+    "Increased fatigue and need for rest",
+    "Fluctuating appetite",
+    "Greater focus on comfort and ease"
+  ],
+
+  "nutrition_focus": [
+    "Eat small, frequent meals based on comfort",
+    "Choose soft and easy-to-digest foods",
+    "Maintain hydration consistently"
+  ],
+
+  "recommended_foods": [
+    "Light meals like dal, soft roti, rice, khichdi, and simple sabzi",
+    "Fruits like banana, apple, orange, and pomegranate",
+    "Soft vegetables like spinach, pumpkin, carrots, and beans",
+    "Comfort foods like curd, soups, smoothies, and fruit bowls",
+    "Protein and calcium sources like milk, paneer, lentils, eggs, or chicken (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Heavy or difficult-to-digest meals",
+    "Highly processed snacks",
+    "Large portion meals"
+  ],
+
+  "hydration": [
+    "Drink water in small, frequent sips",
+    "Include fluids like buttermilk, coconut water, lemon water, or light soups"
+  ],
+
+  "reassurance": "Comfortable nourishment and hydration help support your energy and ease during this phase.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Small, frequent, and balanced meals help maintain stable energy and blood sugar levels.",
+
+      "nutrition_focus": [
+        "Eat small, frequent meals",
+        "Balance carbohydrates with protein and fiber",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils, paneer, and nuts"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large meals"
+      ],
+
+      "reassurance": "Frequent, balanced intake supports steady energy."
+    },
+
+    "anemia": {
+      "personalized_description": "Iron-rich foods in small portions support energy and help maintain strength.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods in small portions",
+        "Pair meals with vitamin C sources",
+        "Eat regularly without long gaps"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Consistent intake supports your strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals and hydration support stable blood pressure and comfort.",
+
+      "nutrition_focus": [
+        "Maintain regular meal timing",
+        "Limit excess salt intake",
+        "Stay well hydrated"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and processed items"
+      ],
+
+      "reassurance": "Balanced routines support a calm and steady state."
+    },
+
+    "thyroid": {
+      "personalized_description": "Small, consistent meals support metabolic balance and energy.",
+
+      "nutrition_focus": [
+        "Maintain regular eating intervals",
+        "Include balanced nutrients",
+        "Stay hydrated throughout the day"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency supports your body's rhythm."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on gentle, frequent meals and hydration helps maintain comfort and stability.",
+
+    "priority_nutrition": [
+      "Eat small and frequent meals",
+      "Choose soft and easy-to-digest foods",
+      "Stay well hydrated throughout the day"
+    ],
+
+    "reassurance": "Gentle nourishment supports your comfort and readiness."
+  }
+}

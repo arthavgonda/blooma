@@ -1,0 +1,114 @@
+{
+  "week": 18,
+  "section": "bump_care",
+
+  "title": "Sensing More",
+  "subtitle": "Awareness and movement grow",
+
+  "description": "By week 18, your baby’s senses are developing further, and movements become more noticeable. You may start feeling more consistent kicks and movements as your baby becomes more active.",
+
+  "what_to_expect": [
+    "Fetal movements become more noticeable and regular",
+    "Development of hearing begins",
+    "You may start feeling stronger kicks and movements"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and continue regular routines",
+    "Practice gentle exercises and maintain good posture"
+  ],
+
+  "medical_checkups": {
+    "note": "This stage often includes important detailed scans.",
+    "commonly_suggested": [
+      {
+        "name": "Anomaly Scan (Level 2 Ultrasound)",
+        "purpose": "Checks detailed fetal anatomy and development"
+      },
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Monitors maternal health and fetal progress"
+      }
+    ],
+    "guidance": "Your doctor will schedule the anomaly scan around this period to assess development in detail."
+  },
+
+  "important_note": "The anomaly scan is an important milestone to evaluate your baby’s development.",
+  "reassurance": "Feeling your baby’s movements can be a reassuring and exciting experience.",
+
+  "medical_disclaimer": "Always follow your healthcare provider’s recommendations for scans and evaluations.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports healthy growth and development.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored closely during detailed scans.",
+
+      "reassurance": "Consistent management supports healthy development."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support oxygen supply during increased growth and activity.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy levels."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during this stage of development.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing development and metabolic function.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As development becomes more detailed, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced routine",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support healthy progress."
+  }
+}

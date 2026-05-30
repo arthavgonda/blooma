@@ -1,0 +1,114 @@
+{
+  "week": 30,
+  "section": "bump_care",
+
+  "title": "Preparing for Birth",
+  "subtitle": "Growth and readiness continue",
+
+  "description": "By week 30, your baby continues to grow and prepare for life outside the womb. The brain and lungs are developing further, and movements remain strong and regular.",
+
+  "what_to_expect": [
+    "Fetal movements remain strong and frequent",
+    "Brain and lung development continues",
+    "You may experience increased physical discomfort as your baby grows"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Ensure adequate rest and practice good posture"
+  ],
+
+  "medical_checkups": {
+    "note": "Regular monitoring is important as you move closer to delivery.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal growth"
+      },
+      {
+        "name": "Ultrasound Scan (if advised)",
+        "purpose": "Assesses growth and position"
+      }
+    ],
+    "guidance": "Your doctor may begin monitoring your baby’s position and growth more closely."
+  },
+
+  "important_note": "Your baby is preparing for birth, with key organs continuing to mature.",
+  "reassurance": "Each week brings your baby closer to being ready for life outside.",
+
+  "medical_disclaimer": "Follow your healthcare provider’s advice for all checkups and monitoring.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports continued growth and preparation for birth.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be closely monitored during this stage.",
+
+      "reassurance": "Consistent management supports a healthy final phase."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports increased blood volume and oxygen supply.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is essential as you approach delivery.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring may be more frequent.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing development and metabolic stability.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As you move closer to delivery, managing multiple conditions requires consistent and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain a balanced and regular lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a strong and healthy final phase."
+  }
+}

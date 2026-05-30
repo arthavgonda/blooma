@@ -1,0 +1,114 @@
+{
+  "week": 39,
+  "section": "bump_care",
+
+  "title": "Awaiting Arrival",
+  "subtitle": "Final moments before birth",
+
+  "description": "By week 39, your baby is fully developed and ready for birth. Your body is preparing for labor, and you may notice stronger or more frequent signs indicating that delivery is near.",
+
+  "what_to_expect": [
+    "Fetal movements continue but feel more restricted due to limited space",
+    "You may experience stronger or more regular contractions",
+    "Signs of labor such as mucus plug discharge or water breaking may occur"
+  ],
+
+  "care_tips": [
+    "Maintain a light and balanced diet",
+    "Stay hydrated and prioritize rest",
+    "Stay attentive to signs of labor and keep essentials ready"
+  ],
+
+  "medical_checkups": {
+    "note": "Close monitoring continues as delivery is expected anytime.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Monitors maternal health and readiness for delivery"
+      },
+      {
+        "name": "Cervical Examination (if advised)",
+        "purpose": "Checks progress toward labor"
+      }
+    ],
+    "guidance": "Your doctor will assess signs of labor and guide you on when to go to the hospital."
+  },
+
+  "important_note": "You are at the final stage, and labor can begin at any time.",
+  "reassurance": "Your baby is fully ready, and you are moments away from meeting them.",
+
+  "medical_disclaimer": "Contact your healthcare provider immediately if you notice regular contractions, water breaking, or any unusual symptoms.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels is critical during the final stage before delivery.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Follow your doctor’s dietary advice"
+      ],
+
+      "medical_focus": "Blood sugar levels may be closely monitored during labor preparation.",
+
+      "reassurance": "Careful management supports a safe delivery."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports your body during labor and immediate recovery.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Follow supplement advice if prescribed",
+        "Maintain regular meals"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be reviewed before delivery.",
+
+      "reassurance": "Supporting your nutrition helps prepare your body for childbirth."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is essential for a safe labor and delivery.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring is crucial at this stage.",
+
+      "reassurance": "A calm and steady routine supports a safer delivery."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support stability during labor and delivery.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored as needed.",
+
+      "reassurance": "Consistency helps maintain balance during this important time."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As delivery is imminent, managing multiple conditions requires careful and consistent attention.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Keep hospital and emergency plans ready",
+      "Avoid sudden lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a safe and smooth delivery experience."
+  }
+}

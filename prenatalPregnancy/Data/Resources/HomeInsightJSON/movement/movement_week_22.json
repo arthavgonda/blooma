@@ -1,0 +1,114 @@
+{
+  "week": 22,
+  "section": "safety_awareness",
+
+  "title": "Gentle Support",
+  "subtitle": "Protecting joints and maintaining alignment",
+
+  "description": "As your body continues to adapt, increased joint flexibility and added weight may place more strain on the pelvis and surrounding muscles. Focusing on support, controlled movement, and proper alignment can help reduce discomfort and maintain stability.",
+
+  "what_to_expect": [
+    "Increased joint flexibility and mild strain in hips or pelvis",
+    "Greater need for support during movement and rest",
+    "More awareness of body alignment and posture"
+  ],
+
+  "daily_safety_tips": [
+    "Use proper support while sitting, especially for the lower back and hips",
+    "Avoid standing on one leg or uneven weight distribution",
+    "Move slowly when getting up, sitting down, or turning"
+  ],
+
+  "movement_guidelines": [
+    "Engage in controlled, light to moderate activity",
+    "Avoid movements that strain the pelvis or involve sudden shifts",
+    "Keep movements steady and aligned to support joints"
+  ],
+
+  "environmental_awareness": [
+    "Ensure surroundings are safe, clutter-free, and easy to navigate",
+    "Be cautious on uneven or slippery surfaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Use cushioning and support for the lower back and hips while sitting",
+    "Avoid long durations in one position without movement",
+    "Take breaks to stretch gently and adjust posture"
+  ],
+
+  "important_note": "Supporting your joints and maintaining alignment can help reduce strain and improve comfort.",
+  "reassurance": "With gentle support and mindful movement, you can maintain stability and ease.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent activity and posture supports stable blood sugar levels and overall comfort.",
+
+      "movement_guidelines": [
+        "Engage in moderate activity such as walking",
+        "Maintain regular meal timing and hydration",
+        "Be mindful of posture and joint support during movement"
+      ],
+
+      "safety_focus": "Watch for dizziness or fatigue that may affect stability.",
+
+      "reassurance": "Balanced routines support comfort and stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Joint strain and fatigue require careful pacing and support during activity.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and move steadily",
+        "Take frequent rest breaks during tasks"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Gentle pacing helps maintain comfort and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm and controlled routine supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during this stage.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden or excessive exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining joint support, alignment, and steady routines becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid movements that strain joints or pelvis",
+      "Maintain controlled and moderate daily movement",
+      "Take regular breaks and stay hydrated"
+    ],
+
+    "reassurance": "Proper support and careful movement help maintain comfort and safety."
+  }
+}

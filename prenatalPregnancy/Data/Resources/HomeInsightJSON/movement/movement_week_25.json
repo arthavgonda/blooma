@@ -1,0 +1,114 @@
+{
+  "week": 25,
+  "section": "safety_awareness",
+
+  "title": "Heightened Support",
+  "subtitle": "Adapting to increased physical load",
+
+  "description": "As you enter the third trimester, your body may feel heavier and more physically demanding. Maintaining strong support systems, careful movement, and regular rest becomes essential to manage comfort and reduce strain.",
+
+  "what_to_expect": [
+    "Increased body weight affecting balance and movement",
+    "Greater strain on the back, hips, and legs",
+    "More noticeable fatigue during daily activities"
+  ],
+
+  "daily_safety_tips": [
+    "Use proper support while sitting, standing, and resting",
+    "Avoid prolonged standing or physically tiring tasks",
+    "Plan your day with regular rest intervals"
+  ],
+
+  "movement_guidelines": [
+    "Engage in gentle to moderate activities with controlled movement",
+    "Avoid activities that risk imbalance or overexertion",
+    "Move slowly and maintain proper alignment"
+  ],
+
+  "environmental_awareness": [
+    "Keep surroundings clutter-free to prevent trips or falls",
+    "Be cautious on uneven, wet, or slippery surfaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Use back and lower body support during travel",
+    "Avoid long periods in one position without movement",
+    "Take frequent breaks to stretch and adjust posture"
+  ],
+
+  "important_note": "Increased physical load requires greater focus on support, balance, and rest.",
+  "reassurance": "With careful movement and proper support, you can stay comfortable and steady.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent meals, hydration, and gentle activity supports stable blood sugar levels during increased physical demand.",
+
+      "movement_guidelines": [
+        "Engage in moderate activity such as walking",
+        "Maintain regular meal timing and hydration",
+        "Monitor your body's response to fatigue and activity"
+      ],
+
+      "safety_focus": "Watch for signs of fatigue or low energy affecting balance.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may increase, requiring extra care, rest, and slower pacing.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and take frequent rest breaks",
+        "Move slowly and steadily throughout the day"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and gentle pacing support comfort and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm routine and avoiding strain supports stable blood pressure levels.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during increased physical changes.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining support, balance, and structured rest becomes critical during this phase.",
+
+    "priority_guidelines": [
+      "Avoid overexertion or activities that risk imbalance",
+      "Maintain gentle and consistent daily movement",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Proper support and careful pacing help maintain comfort and safety."
+  }
+}

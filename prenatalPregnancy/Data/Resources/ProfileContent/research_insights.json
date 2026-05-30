@@ -1,0 +1,325 @@
+{
+  "research_insights": {
+    "title": "Research & Insights",
+    "subtitle": "Research-backed guidance for a safer pregnancy journey",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "Overview",
+        "content": {
+          "hero_title": "Research-backed Pregnancy Guidance",
+          "hero_subtitle": "Understand the purpose, benefits, and safety of prenatal activity",
+          "intro_blocks": [
+            {
+              "label": "WHY THIS MATTERS",
+              "heading": "Making Pregnancy Fitness More Informed",
+              "paragraphs": [
+                "This section helps users understand the purpose, benefits, safety principles, and evidence behind physical activity during pregnancy.",
+                "Blooma simplifies research-based guidance into a format that is easy to understand, supportive, and relevant to everyday routines.",
+                "The goal is to help users feel more confident, aware, and guided throughout their prenatal wellness journey."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "heart.text.square",
+              "title": "Research-Based Guidance",
+              "description": "Built on trusted medical and prenatal fitness recommendations."
+            },
+            {
+              "icon": "checkmark.shield",
+              "title": "Blooma Integration",
+              "description": "Insights connect with activity planning and safety guidance."
+            }
+          ]
+        }
+      },
+      {
+        "id": "principles",
+        "title": "Content Principles",
+        "content": {
+          "hero_title": "How Content is Designed",
+          "hero_subtitle": "Guided by safety, clarity, and research",
+          "intro_blocks": [
+            {
+              "label": "CONTENT PRINCIPLES",
+              "heading": "Designed for Safety and Clarity",
+              "paragraphs": [
+                "Blooma’s research content follows a structured approach to ensure that guidance remains safe, relevant, and easy to understand.",
+                "Each insight is designed to balance medical awareness with user-friendly explanation so that information feels supportive rather than overwhelming."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "checkmark.seal",
+              "title": "Evidence-backed",
+              "description": "Based on trusted medical and public health sources."
+            },
+            {
+              "icon": "shield",
+              "title": "Safety-first",
+              "description": "Clear warnings and precautions are always included."
+            },
+            {
+              "icon": "calendar",
+              "title": "Trimester-aware",
+              "description": "Guidance evolves across pregnancy stages."
+            },
+            {
+              "icon": "cross.case",
+              "title": "Condition-aware",
+              "description": "Adapts for specific health conditions."
+            },
+            {
+              "icon": "text.bubble",
+              "title": "Simple Language",
+              "description": "Clear and calm explanations for everyday use."
+            }
+          ]
+        }
+      },
+      {
+        "id": "what_you_find",
+        "title": "What You Will Find",
+        "content": {
+          "hero_title": "Explore Key Insights",
+          "hero_subtitle": "Different types of educational content available",
+          "intro_blocks": [
+            {
+              "label": "CONTENT OVERVIEW",
+              "heading": "What This Section Includes",
+              "paragraphs": [
+                "Blooma organizes research and educational content into multiple categories so users can easily explore what matters most to them.",
+                "This includes weekly insights, trimester-based guidance, safety reminders, and condition-specific notes to support different needs during pregnancy."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "calendar",
+              "title": "Weekly Insights",
+              "description": "Content aligned with your pregnancy week."
+            },
+            {
+              "icon": "figure.walk",
+              "title": "Trimester Guidance",
+              "description": "How movement and needs evolve over time."
+            },
+            {
+              "icon": "exclamationmark.triangle",
+              "title": "Safety & Warning Signs",
+              "description": "When to stop and seek medical advice."
+            },
+            {
+              "icon": "cross.case",
+              "title": "Condition Notes",
+              "description": "Extra care for specific conditions."
+            },
+            {
+              "icon": "sparkles",
+              "title": "Benefits of Movement",
+              "description": "Why staying active supports well-being."
+            }
+          ]
+        }
+      },
+      {
+        "id": "benefits",
+        "title": "Benefits of Movement",
+        "content": {
+          "hero_title": "Why Movement Helps",
+          "hero_subtitle": "Understanding the benefits of prenatal activity",
+          "intro_blocks": [
+            {
+              "label": "BENEFITS",
+              "heading": "Supporting Physical and Emotional Well-being",
+              "paragraphs": [
+                "Safe and guided movement during pregnancy may support overall comfort, mobility, energy levels, and emotional balance.",
+                "Blooma presents these benefits in a structured way so users can understand how simple activities contribute to daily well-being."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "arrow.triangle.2.circlepath",
+              "title": "Improved Circulation",
+              "description": "Supports healthy blood flow."
+            },
+            {
+              "icon": "bolt",
+              "title": "Better Energy",
+              "description": "Helps reduce fatigue and improve stamina."
+            },
+            {
+              "icon": "figure.stand",
+              "title": "Mobility Support",
+              "description": "Improves flexibility and posture."
+            },
+            {
+              "icon": "smiley",
+              "title": "Mood Support",
+              "description": "Supports emotional well-being."
+            },
+            {
+              "icon": "moon",
+              "title": "Sleep Support",
+              "description": "May improve sleep quality."
+            }
+          ]
+        }
+      },
+      {
+        "id": "safety",
+        "title": "Move Safely",
+        "content": {
+          "hero_title": "Safety First",
+          "hero_subtitle": "Simple reminders for safe movement",
+          "intro_blocks": [
+            {
+              "label": "SAFETY GUIDANCE",
+              "heading": "Moving with Awareness",
+              "paragraphs": [
+                "Safety is a key part of prenatal fitness. Blooma highlights simple but important reminders to help users stay within comfortable and safe limits.",
+                "Users are encouraged to listen to their body, move at a manageable pace, and avoid pushing beyond comfort."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "flame",
+              "title": "Warm Up & Cool Down",
+              "description": "Start and end gently."
+            },
+            {
+              "icon": "drop",
+              "title": "Stay Hydrated",
+              "description": "Maintain hydration during activity."
+            },
+            {
+              "icon": "speedometer",
+              "title": "Avoid Overexertion",
+              "description": "Keep effort controlled."
+            },
+            {
+              "icon": "exclamationmark.circle",
+              "title": "Listen to Your Body",
+              "description": "Stop if discomfort occurs."
+            },
+            {
+              "icon": "arrow.triangle.branch",
+              "title": "Modify as Needed",
+              "description": "Adjust movements over time."
+            }
+          ]
+        }
+      },
+      {
+        "id": "trimester",
+        "title": "Trimester Guidance",
+        "content": {
+          "hero_title": "Guidance by Pregnancy Stage",
+          "hero_subtitle": "Movement needs evolve across pregnancy",
+          "intro_blocks": [
+            {
+              "label": "TRIMESTER SUPPORT",
+              "heading": "Adapting Over Time",
+              "paragraphs": [
+                "As pregnancy progresses, the body changes and movement needs evolve.",
+                "Blooma organizes guidance by trimester so users can better understand how to adapt activity safely."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "1.circle",
+              "title": "First Trimester",
+              "description": "Gentle movement and energy awareness."
+            },
+            {
+              "icon": "2.circle",
+              "title": "Second Trimester",
+              "description": "Build routine and maintain balance."
+            },
+            {
+              "icon": "3.circle",
+              "title": "Third Trimester",
+              "description": "Focus on comfort and stability."
+            }
+          ]
+        }
+      },
+      {
+        "id": "personalization",
+        "title": "Personalized Insights",
+        "content": {
+          "hero_title": "Guidance Tailored to You",
+          "hero_subtitle": "Content adapts to your journey",
+          "intro_blocks": [
+            {
+              "label": "PERSONALIZATION",
+              "heading": "Making Insights More Relevant",
+              "paragraphs": [
+                "Blooma uses selected user inputs to make insights more relevant and meaningful.",
+                "This helps ensure that guidance reflects your stage, preferences, and overall activity context."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "calendar",
+              "title": "Gestational Week",
+              "description": "Shows week-specific insights."
+            },
+            {
+              "icon": "circle.grid.cross",
+              "title": "Trimester",
+              "description": "Adapts to pregnancy stage."
+            },
+            {
+              "icon": "cross.case",
+              "title": "Medical Conditions",
+              "description": "Adds safety-focused guidance."
+            },
+            {
+              "icon": "figure.walk",
+              "title": "Activity Level",
+              "description": "Keeps recommendations realistic."
+            }
+          ]
+        }
+      },
+      {
+        "id": "disclaimer",
+        "title": "Important Disclaimer",
+        "content": {
+          "hero_title": "Educational Support Only",
+          "hero_subtitle": "Not a substitute for medical advice",
+          "intro_blocks": [
+            {
+              "label": "IMPORTANT DISCLAIMER",
+              "heading": "Use Guidance Responsibly",
+              "paragraphs": [
+                "Blooma’s Research & Insights section is designed for educational and wellness support purposes only.",
+                "It does not diagnose, treat, or replace professional medical advice.",
+                "Users should consult a qualified healthcare provider before starting or changing any activity during pregnancy."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "exclamationmark.triangle",
+              "title": "Not Medical Advice",
+              "description": "Content is for education only."
+            },
+            {
+              "icon": "stethoscope",
+              "title": "Consult a Professional",
+              "description": "Always seek medical guidance when needed."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "week": 2,
+  "section": "rest_mindfulness",
+
+  "title": "Gentle Rest",
+  "subtitle": "Building a soothing daily rhythm",
+
+  "description": "As your body continues adjusting, you may begin to notice slight changes in energy levels and mood. Establishing a gentle routine with adequate rest and calming practices can support both physical comfort and emotional balance.",
+
+  "what_to_expect": [
+    "Slight increase in fatigue or need for more rest",
+    "Early emotional sensitivity or mood fluctuations",
+    "Gradual changes in sleep patterns or ease of falling asleep"
+  ],
+
+  "rest_practices": [
+    "Aim for 7–9 hours of sleep with a consistent schedule",
+    "Take short rest breaks during the day if needed",
+    "Create a relaxing bedtime routine to signal your body to rest"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or light meditation for 5–10 minutes daily",
+    "Engage in calming activities like journaling, reading, or soft music",
+    "Reduce screen time and stimulation before sleep"
+  ],
+
+  "emotional_wellbeing": [
+    "Allow yourself to slow down without guilt",
+    "Stay connected with supportive people around you",
+    "Limit exposure to stressful or overwhelming situations"
+  ],
+
+  "important_note": "Creating a gentle and consistent routine can help your body adapt more comfortably.",
+  "reassurance": "Resting and slowing down is a healthy and supportive choice during this phase.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining steady routines and reducing stress can support stable blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal timing",
+        "Avoid late-night snacking that may disrupt glucose levels",
+        "Monitor fatigue and adjust daily activities accordingly"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation techniques to reduce stress-related fluctuations",
+        "Incorporate gentle breathing exercises before sleep"
+      ],
+
+      "reassurance": "Consistency in rest and routine supports better balance."
+    },
+
+    "anemia": {
+      "personalized_description": "Increasing fatigue may require more frequent rest and gentle pacing.",
+
+      "rest_practices": [
+        "Take short naps or rest breaks during the day",
+        "Avoid prolonged physical activity without rest"
+      ],
+
+      "mindfulness_practices": [
+        "Practice calming activities to conserve energy",
+        "Avoid mentally or physically tiring routines before sleep"
+      ],
+
+      "reassurance": "Giving your body time to rest helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and structured routine supports stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a regular sleep schedule",
+        "Avoid stimulants like caffeine, especially in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow, steady breathing exercises"
+      ],
+
+      "reassurance": "Calm routines can support overall balance and comfort."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent sleep and reduced stress support overall hormonal balance.",
+
+      "rest_practices": [
+        "Maintain fixed sleep and wake times",
+        "Avoid irregular sleep patterns"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in simple mindfulness or relaxation practices",
+        "Reduce overstimulation before bedtime"
+      ],
+
+      "reassurance": "Consistency in rest helps support your body's natural rhythm."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining a gentle and consistent rest routine becomes especially important.",
+
+    "priority_practices": [
+      "Follow a consistent sleep and wake schedule",
+      "Incorporate short daily relaxation or breathing exercises",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Steady and simple routines can support both comfort and balance."
+  }
+}

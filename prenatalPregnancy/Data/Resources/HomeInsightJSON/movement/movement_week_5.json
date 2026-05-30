@@ -1,0 +1,114 @@
+{
+  "week": 5,
+  "section": "safety_awareness",
+
+  "title": "Steady Care",
+  "subtitle": "Managing energy and early symptoms",
+
+  "description": "By this stage, symptoms like nausea and fatigue may become more consistent. Adjusting your daily routine with gentle pacing, adequate hydration, and mindful movement can help maintain comfort and reduce strain.",
+
+  "what_to_expect": [
+    "Nausea or morning discomfort may become more frequent",
+    "Fatigue may persist throughout the day",
+    "Increased sensitivity to smells, heat, or exertion"
+  ],
+
+  "daily_safety_tips": [
+    "Avoid sudden movements and get up slowly from sitting or lying positions",
+    "Stay hydrated throughout the day with small, regular sips of fluids",
+    "Plan your day with lighter tasks and allow time for rest"
+  ],
+
+  "movement_guidelines": [
+    "Continue light activities such as slow walking or basic daily tasks",
+    "Avoid overexertion, long periods of standing, or physically demanding work",
+    "Stop and rest if you feel dizzy, weak, or nauseous"
+  ],
+
+  "environmental_awareness": [
+    "Avoid strong smells, chemicals, smoke, or poorly ventilated spaces",
+    "Stay in cool, well-ventilated environments to reduce discomfort",
+    "Be cautious in crowded or hot surroundings that may trigger nausea"
+  ],
+
+  "travel_safety": [
+    "Limit long or uncomfortable travel, especially during nausea episodes",
+    "Use seatbelts correctly and ensure a comfortable sitting posture",
+    "Take short breaks during travel to stretch and move gently"
+  ],
+
+  "important_note": "Maintaining hydration and pacing your activities can help manage early symptoms effectively.",
+  "reassurance": "Small adjustments and steady routines can help you feel more comfortable each day.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balancing food intake, hydration, and gentle activity supports stable blood sugar levels during this stage.",
+
+      "movement_guidelines": [
+        "Engage in light movement such as short walks after meals",
+        "Avoid skipping meals even if experiencing nausea",
+        "Monitor your body's response to activity and adjust accordingly"
+      ],
+
+      "safety_focus": "Watch for symptoms like dizziness, sweating, or sudden weakness, especially with reduced food intake.",
+
+      "reassurance": "Regular meals and gentle movement help maintain stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue and low energy may require more frequent rest and careful pacing.",
+
+      "movement_guidelines": [
+        "Avoid prolonged standing or physically tiring activities",
+        "Take frequent rest breaks and move slowly"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness during activity.",
+
+      "reassurance": "Gentle pacing and adequate rest support your energy levels."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm and controlled routines help support stable blood pressure during early symptoms.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in slow, relaxed, and steady movements"
+      ],
+
+      "safety_focus": "Stay away from environments that may increase stress or discomfort.",
+
+      "reassurance": "A calm and balanced routine supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Maintaining a consistent routine helps support metabolic balance during this stage.",
+
+      "movement_guidelines": [
+        "Follow a steady and moderate activity pattern",
+        "Avoid sudden changes in activity or energy expenditure"
+      ],
+
+      "safety_focus": "Be mindful of unusual fatigue, restlessness, or energy fluctuations.",
+
+      "reassurance": "Consistency and moderation help maintain stability."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining hydration, gentle movement, and consistent routines becomes especially important.",
+
+    "priority_guidelines": [
+      "Avoid strenuous or physically demanding activities",
+      "Maintain slow and steady daily movement",
+      "Stay hydrated and take frequent breaks as needed"
+    ],
+
+    "reassurance": "Careful pacing and hydration support overall comfort and safety."
+  }
+}

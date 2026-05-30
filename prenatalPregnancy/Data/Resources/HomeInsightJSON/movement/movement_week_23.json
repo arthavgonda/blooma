@@ -1,0 +1,114 @@
+{
+  "week": 23,
+  "section": "safety_awareness",
+
+  "title": "Support and Ease",
+  "subtitle": "Managing strain with steady care",
+
+  "description": "As abdominal weight increases, additional strain may be felt in the back and surrounding muscles. Prioritizing support, maintaining posture, and incorporating regular rest can help reduce discomfort and improve daily ease.",
+
+  "what_to_expect": [
+    "Increased abdominal weight affecting posture",
+    "More noticeable back strain or muscle fatigue",
+    "Greater need for rest and supportive positioning"
+  ],
+
+  "daily_safety_tips": [
+    "Use proper back support while sitting and resting",
+    "Avoid prolonged standing or sitting without breaks",
+    "Keep frequently used items within easy reach to reduce strain"
+  ],
+
+  "movement_guidelines": [
+    "Engage in light to moderate activity with proper alignment",
+    "Avoid lifting heavy objects or bending incorrectly",
+    "Use supportive techniques when sitting, standing, or lying down"
+  ],
+
+  "environmental_awareness": [
+    "Ensure your environment supports easy and safe movement",
+    "Be cautious on uneven, wet, or cluttered surfaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Use back and lumbar support during travel",
+    "Avoid long periods in one position without movement",
+    "Take breaks to stretch and adjust posture"
+  ],
+
+  "important_note": "Supporting your back and incorporating rest can help reduce strain and discomfort.",
+  "reassurance": "With proper care and pacing, you can maintain comfort throughout daily activities.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent routines and posture supports stable blood sugar levels and physical comfort.",
+
+      "movement_guidelines": [
+        "Engage in moderate activity such as walking",
+        "Maintain regular meal timing and hydration",
+        "Be mindful of posture during extended activity"
+      ],
+
+      "safety_focus": "Watch for fatigue or energy changes that may affect movement.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Increased fatigue and strain require careful pacing and additional rest.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and move steadily",
+        "Take frequent rest breaks during activities"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Gentle pacing and rest support comfort and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm routine and avoiding physical strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in controlled and relaxed movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady routine supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during increased physical changes.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining support, posture, and regular rest becomes increasingly important.",
+
+    "priority_guidelines": [
+      "Avoid strain on the back and joints",
+      "Maintain moderate and consistent daily movement",
+      "Take regular breaks and stay hydrated"
+    ],
+
+    "reassurance": "Proper support and balanced activity help maintain comfort and safety."
+  }
+}

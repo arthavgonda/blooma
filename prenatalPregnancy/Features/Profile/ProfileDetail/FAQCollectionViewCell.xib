@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="24506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24504"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="faqCell" id="gTV-IL-0wX" customClass="FAQCollectionViewCell" customModule="Blooma" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="430" height="160"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="430" height="160"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jqb-fu-Ofa">
+                        <rect key="frame" x="16" y="4" width="398" height="152"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Cxw-z7-YSu">
+                                <rect key="frame" x="18" y="15.666666666666671" width="24" height="24"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="24" id="DNZ-OB-45s"/>
+                                    <constraint firstAttribute="height" constant="24" id="Zma-I3-VjM"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dSo-rW-sur">
+                                <rect key="frame" x="54" y="18" width="326" height="19.333333333333329"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Answer" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RDH-Ku-L5s">
+                                <rect key="frame" x="54" y="49.333333333333336" width="326" height="84.666666666666657"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="RDH-Ku-L5s" secondAttribute="bottom" constant="18" id="3qp-U5-Wvk"/>
+                            <constraint firstAttribute="trailing" secondItem="dSo-rW-sur" secondAttribute="trailing" constant="18" id="7aF-tU-gEc"/>
+                            <constraint firstAttribute="trailing" secondItem="RDH-Ku-L5s" secondAttribute="trailing" constant="18" id="C7e-Qx-eHT"/>
+                            <constraint firstItem="dSo-rW-sur" firstAttribute="leading" secondItem="Cxw-z7-YSu" secondAttribute="trailing" constant="12" id="Jn5-YA-Mco"/>
+                            <constraint firstItem="RDH-Ku-L5s" firstAttribute="leading" secondItem="dSo-rW-sur" secondAttribute="leading" id="Jxd-Aj-o9N"/>
+                            <constraint firstItem="RDH-Ku-L5s" firstAttribute="top" secondItem="dSo-rW-sur" secondAttribute="bottom" constant="12" id="K6B-fJ-sfl"/>
+                            <constraint firstItem="Cxw-z7-YSu" firstAttribute="leading" secondItem="jqb-fu-Ofa" secondAttribute="leading" constant="18" id="Koa-pX-BK1"/>
+                            <constraint firstItem="dSo-rW-sur" firstAttribute="top" secondItem="jqb-fu-Ofa" secondAttribute="top" constant="18" id="YDY-pf-r7A"/>
+                            <constraint firstItem="Cxw-z7-YSu" firstAttribute="centerY" secondItem="dSo-rW-sur" secondAttribute="centerY" id="wD8-RB-22R"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="jqb-fu-Ofa" secondAttribute="bottom" constant="4" id="4rd-Eo-D0v"/>
+                <constraint firstAttribute="trailing" secondItem="jqb-fu-Ofa" secondAttribute="trailing" constant="16" id="HiX-Gq-HG2"/>
+                <constraint firstItem="jqb-fu-Ofa" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="16" id="YCX-aA-uce"/>
+                <constraint firstItem="jqb-fu-Ofa" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="4" id="me7-Nv-hOx"/>
+            </constraints>
+            <size key="customSize" width="430" height="160"/>
+            <connections>
+                <outlet property="answerLabel" destination="RDH-Ku-L5s" id="BSg-Fx-xjj"/>
+                <outlet property="answerTopConstraint" destination="K6B-fJ-sfl" id="aFw-hx-z7e"/>
+                <outlet property="cardView" destination="jqb-fu-Ofa" id="63A-DM-f7B"/>
+                <outlet property="faqLabel" destination="dSo-rW-sur" id="Cj9-Ci-PTx"/>
+                <outlet property="iconImageView" destination="Cxw-z7-YSu" id="aiv-AI-sXH"/>
+            </connections>
+            <point key="canvasLocation" x="320.61068702290078" y="166.90140845070422"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

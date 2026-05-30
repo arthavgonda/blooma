@@ -1,0 +1,151 @@
+{
+  "week": 5,
+  "section": "strength_from_within",
+
+  "title": "Nourishment with Ease",
+  "subtitle": "Focusing on comfort over quantity",
+
+  "description": "At this stage, nausea may feel more intense and appetite may be low. Prioritizing hydration and eating small amounts of tolerable foods can help you stay nourished without adding discomfort.",
+
+  "what_to_expect": [
+    "Peak nausea or morning discomfort",
+    "Low appetite or difficulty eating full meals",
+    "Need to focus on what feels tolerable rather than quantity"
+  ],
+
+  "nutrition_focus": [
+    "Eat very small portions based on comfort",
+    "Choose bland and easy-to-digest foods",
+    "Prioritize hydration throughout the day"
+  ],
+
+  "recommended_foods": [
+    "Light foods like plain khichdi, dal water, or soft rice",
+    "Simple snacks like toast, crackers, or biscuits",
+    "Fruits like banana, apple, or sweet lime",
+    "Curd or buttermilk if tolerated"
+  ],
+
+  "foods_to_limit": [
+    "Spicy, oily, or heavy meals",
+    "Strong-smelling or rich foods",
+    "Forcing large meals despite discomfort"
+  ],
+
+  "hydration": [
+    "Take small, frequent sips of water",
+    "Include coconut water, lemon water, or clear soups"
+  ],
+
+  "reassurance": "Even small amounts of food and fluids are enough to support your body during this phase.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Managing small, frequent intake becomes important to maintain steady energy levels.",
+
+      "nutrition_focus": [
+        "Eat small, frequent meals",
+        "Choose low glycemic index foods",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils and paneer"
+      ],
+
+      "foods_to_limit": [
+        "Sugary drinks and sweets",
+        "Refined carbohydrates",
+        "Large meals at once"
+      ],
+
+      "reassurance": "Small and regular meals can help you stay balanced even with low appetite."
+    },
+
+    "anemia": {
+      "personalized_description": "Even during low appetite, small portions of iron-rich foods remain helpful.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods in small quantities",
+        "Pair meals with vitamin C sources",
+        "Avoid skipping meals completely"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Small, consistent intake supports your strength gradually."
+    },
+
+    "hypertension": {
+      "personalized_description": "Light and simple meals can help maintain comfort and stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals light and balanced",
+        "Limit excess salt",
+        "Maintain regular intake even in small amounts"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Simple and regular intake can support balance and comfort."
+    },
+
+    "thyroid": {
+      "personalized_description": "Maintaining even small, consistent meals supports overall balance.",
+
+      "nutrition_focus": [
+        "Eat at regular intervals",
+        "Choose light and balanced foods",
+        "Avoid irregular eating patterns"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency, even in small amounts, supports your body's balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on small, frequent, and simple intake can help maintain balance during this phase.",
+
+    "priority_nutrition": [
+      "Eat small and frequent portions",
+      "Choose light and easy-to-digest foods",
+      "Prioritize hydration throughout the day"
+    ],
+
+    "reassurance": "Gentle and consistent nourishment is enough to support your body right now."
+  }
+}

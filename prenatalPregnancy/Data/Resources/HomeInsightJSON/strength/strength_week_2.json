@@ -1,0 +1,151 @@
+{
+  "week": 2,
+  "section": "strength_from_within",
+
+  "title": "Gentle Nourishment",
+  "subtitle": "Supporting your body step by step",
+
+  "description": "As your body continues to adjust, maintaining simple and regular nourishment becomes important. Even small, consistent meals can help support your energy and overall well-being.",
+
+  "what_to_expect": [
+    "Nutritional needs continue to adjust gradually",
+    "You may begin to notice mild changes in appetite",
+    "Consistency in meals becomes more important than quantity"
+  ],
+
+  "nutrition_focus": [
+    "Maintain regular and balanced meals",
+    "Include a mix of grains, proteins, and vegetables",
+    "Avoid long gaps between meals"
+  ],
+
+  "recommended_foods": [
+    "Whole grains like roti, rice, and oats",
+    "Fresh fruits like banana, apple, and papaya",
+    "Vegetables including लौकी (bottle gourd), carrots, and spinach",
+    "Protein sources like lentils, curd, and eggs (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Highly processed and packaged foods",
+    "Excessively spicy or oily meals",
+    "Skipping meals or eating irregularly"
+  ],
+
+  "hydration": [
+    "Drink water regularly throughout the day",
+    "Include fluids like coconut water, buttermilk, or lemon water"
+  ],
+
+  "reassurance": "Simple, regular meals can gently support your body as it adjusts.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining balanced meals can help support stable energy levels.",
+
+      "nutrition_focus": [
+        "Prefer low glycemic index foods",
+        "Eat smaller, frequent meals",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils and paneer"
+      ],
+
+      "foods_to_limit": [
+        "Sugary drinks and sweets",
+        "Refined carbohydrates like white bread",
+        "Large meals at once"
+      ],
+
+      "reassurance": "Steady and balanced eating patterns can help maintain stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Continuing to include iron-rich foods supports your strength and energy.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods daily",
+        "Pair meals with vitamin C sources",
+        "Maintain regular eating patterns"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Consistent nourishment helps build your energy gradually."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals and reduced salt intake can support stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals light and balanced",
+        "Limit excess salt",
+        "Maintain regular meal timings"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Simple and consistent meals support a balanced routine."
+    },
+
+    "thyroid": {
+      "personalized_description": "Maintaining a steady and balanced diet supports overall metabolic stability.",
+
+      "nutrition_focus": [
+        "Eat at regular intervals",
+        "Maintain a balanced intake of nutrients",
+        "Avoid sudden dietary changes"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Irregular eating patterns"
+      ],
+
+      "reassurance": "Consistency helps your body stay balanced and steady."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "Managing multiple dietary needs becomes easier with simple, regular, and balanced meals.",
+
+    "priority_nutrition": [
+      "Maintain regular meal timings",
+      "Focus on whole and minimally processed foods",
+      "Avoid skipping meals or sudden changes"
+    ],
+
+    "reassurance": "Small, consistent choices can support your overall well-being."
+  }
+}

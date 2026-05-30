@@ -1,0 +1,372 @@
+{
+  "data_sources": {
+    "title": "Data Sources",
+    "subtitle": "Explore where Blooma’s activity guidance comes from",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "Overview",
+        "content": {
+          "hero_title": "Trusted Sources Behind Blooma",
+          "hero_subtitle": "Understanding where prenatal activity guidance comes from",
+          "intro_blocks": [
+            {
+              "label": "WHY SOURCES MATTER",
+              "heading": "Building Guidance on Trusted References",
+              "paragraphs": [
+                "This section explains where Blooma’s exercise, yoga, and walking recommendations come from, how those sources are organized, and how they support safer pregnancy wellness content.",
+                "Blooma uses source-linked datasets and trusted reference materials so prenatal activity guidance feels more transparent, structured, and reliable.",
+                "The goal is to help users understand that the app’s wellness recommendations are supported by meaningful documentation rather than presented as isolated content."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "checkmark.seal",
+              "title": "Why Sources Matter",
+              "description": "Prenatal guidance should be based on trusted medical and research-backed references."
+            },
+            {
+              "icon": "link.circle",
+              "title": "How Blooma Uses Them",
+              "description": "Sources support activity planning, safety guidance, and condition-aware recommendations."
+            }
+          ]
+        }
+      },
+      {
+        "id": "principles",
+        "title": "Source Principles",
+        "content": {
+          "hero_title": "How Sources Are Organized",
+          "hero_subtitle": "Built for clarity, traceability, and prenatal relevance",
+          "intro_blocks": [
+            {
+              "label": "SOURCE PRINCIPLES",
+              "heading": "Designed for Reliable Wellness Content",
+              "paragraphs": [
+                "Blooma’s source system is structured to support transparency and consistency across exercise, yoga, and walking guidance.",
+                "Each source is selected to support prenatal safety, activity relevance, and a clearer documentation process inside the app."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "doc.text.magnifyingglass",
+              "title": "Source Transparency",
+              "description": "Each activity should connect back to a trusted source."
+            },
+            {
+              "icon": "cross.case",
+              "title": "Medical Relevance",
+              "description": "Sources are chosen for prenatal safety and wellness planning."
+            },
+            {
+              "icon": "square.stack.3d.up",
+              "title": "Activity-Specific Mapping",
+              "description": "Exercise, yoga, and walking follow separate but connected source models."
+            },
+            {
+              "icon": "shield",
+              "title": "Condition-Aware Support",
+              "description": "Sources may support both general and condition-specific guidance."
+            },
+            {
+              "icon": "books.vertical",
+              "title": "Documentation-Ready",
+              "description": "The structure supports app use, review, and future updates."
+            }
+          ]
+        }
+      },
+      {
+        "id": "collections",
+        "title": "Dataset Collections",
+        "content": {
+          "hero_title": "Core Activity Datasets",
+          "hero_subtitle": "Three main collections support Blooma’s wellness guidance",
+          "intro_blocks": [
+            {
+              "label": "DATASET COLLECTIONS",
+              "heading": "Exercise, Yoga, and Walking",
+              "paragraphs": [
+                "Blooma’s data source layer is organized around three main prenatal activity collections: exercise, yoga, and walking.",
+                "Each dataset has its own structure based on the type of activity it supports, while still fitting into a consistent source and documentation system.",
+                "These collections help the app organize recommendations, trimester alignment, and activity-specific educational content."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "figure.strengthtraining.traditional",
+              "title": "Exercise Dataset",
+              "description": "Supports prenatal exercise planning with duration, intensity, trimester, and source-linked guidance."
+            },
+            {
+              "icon": "figure.mind.and.body",
+              "title": "Yoga Dataset",
+              "description": "Provides structured prenatal yoga content with source-backed movement and wellness context."
+            },
+            {
+              "icon": "figure.walk",
+              "title": "Walking Dataset",
+              "description": "Supports walking guidance with duration, frequency, distance, and progression-based recommendations."
+            }
+          ]
+        }
+      },
+      {
+        "id": "source_types",
+        "title": "Source Types",
+        "content": {
+          "hero_title": "Different Types of References",
+          "hero_subtitle": "A balanced mix of medical, research, and educational sources",
+          "intro_blocks": [
+            {
+              "label": "REFERENCE TYPES",
+              "heading": "More Than One Kind of Source",
+              "paragraphs": [
+                "Blooma uses a mix of professional guidelines, public health recommendations, clinical education, research literature, and selected books.",
+                "This helps the app support both broad prenatal safety understanding and activity-specific guidance in a more complete way."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "stethoscope",
+              "title": "Professional Guidelines",
+              "description": "Recognized recommendations from health and medical bodies."
+            },
+            {
+              "icon": "heart.text.square",
+              "title": "Clinical Health Education",
+              "description": "Patient-friendly guidance from trusted medical institutions."
+            },
+            {
+              "icon": "doc.richtext",
+              "title": "Research Literature",
+              "description": "Studies and indexed articles that support movement and safety understanding."
+            },
+            {
+              "icon": "book.closed",
+              "title": "Books & Foundational Texts",
+              "description": "Selected wellness and yoga references used where relevant."
+            }
+          ]
+        }
+      },
+      {
+        "id": "organizations",
+        "title": "Source Organizations",
+        "content": {
+          "hero_title": "Trusted Organizations",
+          "hero_subtitle": "Recognized institutions behind the guidance",
+          "intro_blocks": [
+            {
+              "label": "SOURCE ORGANIZATIONS",
+              "heading": "Trusted Names in the Source Layer",
+              "paragraphs": [
+                "Blooma includes references from recognized medical organizations, public health institutions, and clinical education providers.",
+                "These organizations strengthen the credibility and structure of prenatal wellness guidance across the app."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "building.columns",
+              "title": "ACOG",
+              "description": "Supports pregnancy-safe exercise guidance and prenatal activity recommendations."
+            },
+            {
+              "icon": "globe",
+              "title": "WHO",
+              "description": "Provides broad physical activity guidance relevant to pregnancy-safe movement planning."
+            },
+            {
+              "icon": "cross.vial",
+              "title": "NHS",
+              "description": "Offers pregnancy exercise guidance in clear and user-friendly language."
+            },
+            {
+              "icon": "cross.case.fill",
+              "title": "Mayo Clinic",
+              "description": "Supports patient-facing pregnancy and exercise education."
+            }
+          ]
+        }
+      },
+      {
+        "id": "condition_coverage",
+        "title": "Condition Coverage",
+        "content": {
+          "hero_title": "Condition-Aware Source Support",
+          "hero_subtitle": "Sources are organized to support different prenatal needs",
+          "intro_blocks": [
+            {
+              "label": "CONDITION COVERAGE",
+              "heading": "Supporting General and Condition-Specific Guidance",
+              "paragraphs": [
+                "Blooma’s source collections support both general prenatal wellness guidance and selected condition-aware activity planning.",
+                "This helps the app organize content more thoughtfully for users who may need gentler pacing, more careful activity choices, or additional safety context.",
+                "Condition coverage may vary slightly across the datasets, depending on how each activity collection was prepared."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "heart",
+              "title": "General Prenatal",
+              "description": "Core wellness support across exercise, yoga, and walking."
+            },
+            {
+              "icon": "waveform.path.ecg",
+              "title": "Hypertension",
+              "description": "Supports more cautious activity planning where needed."
+            },
+            {
+              "icon": "sun.max",
+              "title": "Thyroid",
+              "description": "Helps support adaptable guidance for variable energy and tolerance."
+            },
+            {
+              "icon": "figure.walk.motion",
+              "title": "Obesity",
+              "description": "Supports lower-impact and comfort-aware movement planning."
+            },
+            {
+              "icon": "drop.circle",
+              "title": "Anemia",
+              "description": "Supports gentler and fatigue-aware activity structure."
+            },
+            {
+              "icon": "cross.case",
+              "title": "Diabetes",
+              "description": "Included in the exercise dataset for more targeted support."
+            }
+          ]
+        }
+      },
+      {
+        "id": "usage",
+        "title": "How Blooma Uses Sources",
+        "content": {
+          "hero_title": "From Source to App Experience",
+          "hero_subtitle": "Turning references into structured prenatal guidance",
+          "intro_blocks": [
+            {
+              "label": "CONTENT FLOW",
+              "heading": "How Source Data Becomes App Content",
+              "paragraphs": [
+                "Blooma does not simply display source material as raw references. Instead, source-linked activity records are organized into app-friendly recommendations, educational sections, and safety-aware guidance.",
+                "This helps connect documentation, activity planning, and user-facing clarity in one consistent experience."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "link",
+              "title": "Collect Source-Linked Entries",
+              "description": "Each activity record is stored with its source and key supporting details."
+            },
+            {
+              "icon": "square.grid.3x1.folder.badge.plus",
+              "title": "Organize by Activity Type",
+              "description": "Exercise, yoga, and walking are maintained as separate collections."
+            },
+            {
+              "icon": "calendar.badge.clock",
+              "title": "Map to Trimester & Safety",
+              "description": "Activities are aligned with pregnancy stage and safer movement structure."
+            },
+            {
+              "icon": "slider.horizontal.3",
+              "title": "Support Adaptation",
+              "description": "Condition-based entries help guide safer alternatives where available."
+            },
+            {
+              "icon": "text.book.closed",
+              "title": "Create User-Friendly Content",
+              "description": "Source records are transformed into clear and supportive app content."
+            }
+          ]
+        }
+      },
+      {
+        "id": "quality",
+        "title": "Source Quality",
+        "content": {
+          "hero_title": "Choosing Sources with Care",
+          "hero_subtitle": "Trust, relevance, and usability matter",
+          "intro_blocks": [
+            {
+              "label": "QUALITY FRAMEWORK",
+              "heading": "What Makes a Source Useful",
+              "paragraphs": [
+                "Blooma’s source layer is designed to reflect quality, pregnancy relevance, and practical usability inside the app.",
+                "Strong sources help support safer movement planning, clearer documentation, and more reassuring educational content."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "checkmark.shield",
+              "title": "Recognized Authority",
+              "description": "Preference is given to respected medical and public health sources."
+            },
+            {
+              "icon": "figure.and.child.holdinghands",
+              "title": "Pregnancy Relevance",
+              "description": "Sources should clearly support prenatal wellness context."
+            },
+            {
+              "icon": "shield.lefthalf.filled",
+              "title": "Safety Usefulness",
+              "description": "Sources should help inform safer movement decisions."
+            },
+            {
+              "icon": "list.bullet.rectangle",
+              "title": "Structured Metadata",
+              "description": "Whenever possible, source details include author or publication context."
+            },
+            {
+              "icon": "arrow.clockwise",
+              "title": "Documentation Continuity",
+              "description": "Sources should support future updates and long-term maintenance."
+            }
+          ]
+        }
+      },
+      {
+        "id": "disclaimer",
+        "title": "Important Disclaimer",
+        "content": {
+          "hero_title": "Transparency, Not Medical Advice",
+          "hero_subtitle": "Source visibility supports trust, not diagnosis or treatment",
+          "intro_blocks": [
+            {
+              "label": "IMPORTANT DISCLAIMER",
+              "heading": "Understanding the Role of Sources",
+              "paragraphs": [
+                "Blooma’s Data Sources section is intended to improve transparency around the educational and activity content used in the app.",
+                "Source inclusion does not by itself guarantee suitability for every user and does not replace professional medical advice.",
+                "Users should consult a qualified healthcare provider for personalized pregnancy care and activity decisions."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "exclamationmark.triangle",
+              "title": "Transparency Purpose",
+              "description": "This section explains where guidance comes from."
+            },
+            {
+              "icon": "stethoscope",
+              "title": "Consult Professionals",
+              "description": "Always seek medical advice for personal care decisions."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

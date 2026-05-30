@@ -1,0 +1,114 @@
+{
+  "week": 32,
+  "section": "safety_awareness",
+
+  "title": "Assisted Ease",
+  "subtitle": "Moving with support and care",
+
+  "description": "At this stage, movement may feel more limited and fatigue more pronounced. Relying on support, reducing unnecessary effort, and focusing on safe, assisted movement can help maintain comfort and prevent strain.",
+
+  "what_to_expect": [
+    "Increased fatigue and reduced mobility",
+    "Greater effort required for routine movements",
+    "Higher dependence on support for daily activities"
+  ],
+
+  "daily_safety_tips": [
+    "Use support while walking, sitting, or changing positions",
+    "Avoid unnecessary movement and conserve energy",
+    "Keep essential items within easy reach"
+  ],
+
+  "movement_guidelines": [
+    "Engage in minimal, gentle movement as comfortable",
+    "Avoid activities that require effort or cause discomfort",
+    "Move slowly and use support whenever needed"
+  ],
+
+  "environmental_awareness": [
+    "Ensure surroundings are safe, stable, and easy to navigate",
+    "Remove obstacles to prevent tripping or imbalance",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Limit travel to essential needs only",
+    "Use proper support for back, legs, and sides while seated",
+    "Take frequent breaks to adjust posture and move gently"
+  ],
+
+  "important_note": "Using support and reducing strain can help maintain comfort and prevent unnecessary fatigue.",
+  "reassurance": "With proper support and gentle movement, you can stay safe and comfortable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining balanced meals and minimal activity supports stable blood sugar levels during reduced mobility.",
+
+      "movement_guidelines": [
+        "Engage in gentle movement such as short walks when possible",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to reduced activity"
+      ],
+
+      "safety_focus": "Watch for fatigue, dizziness, or changes in energy levels.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Significant fatigue requires careful pacing and increased rest.",
+
+      "movement_guidelines": [
+        "Limit activity to essential tasks only",
+        "Take frequent and adequate rest breaks"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and minimal exertion help maintain comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm environment and minimizing strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in minimal, controlled movements"
+      ],
+
+      "safety_focus": "Be mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and minimal activity support metabolic balance during this phase.",
+
+      "movement_guidelines": [
+        "Maintain a steady and manageable activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, relying on support, conserving energy, and maintaining minimal movement becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid unnecessary physical effort or strain",
+      "Maintain minimal and gentle daily movement",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Support and careful pacing help maintain comfort and safety."
+  }
+}

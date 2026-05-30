@@ -1,0 +1,120 @@
+{
+  "week": 12,
+  "section": "rest_mindfulness",
+
+  "title": "Renewed Balance",
+  "subtitle": "Stepping into steadier energy",
+
+  "description": "As you approach the end of the first trimester, you may begin to feel more stable in both energy and emotions. Fatigue and discomfort may start to ease, making it easier to maintain consistent rest and mindfulness routines.",
+
+  "what_to_expect": [
+    "Improved energy levels compared to earlier weeks",
+    "Reduced intensity of fatigue and discomfort",
+    "More stable sleep patterns and emotional balance"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Continue taking rest breaks when needed",
+    "Strengthen a calming and predictable bedtime routine"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or relaxation exercises daily",
+    "Engage in calming activities like reading, journaling, or music",
+    "Limit screen exposure before bedtime"
+  ],
+
+  "emotional_wellbeing": [
+    "Recognize improvements in mood and energy",
+    "Maintain a calm and positive environment",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Maintaining steady routines can help support continued comfort and balance as your body adapts.",
+  "reassurance": "You’re moving into a more stable phase — your consistent care is making a difference.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent routines support stable blood sugar levels and improved energy balance.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Avoid skipping meals or irregular eating patterns",
+        "Adjust activity levels based on energy"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Energy may improve slightly, but continued rest and pacing remain important.",
+
+      "rest_practices": [
+        "Take regular rest breaks during the day",
+        "Avoid prolonged or tiring activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Steady rest helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm and consistent routines supports stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a regular sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent rest and reduced stress support hormonal balance and energy stability.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep patterns"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency helps maintain stability."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining consistent rest and mindfulness routines remains essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Steady routines support both comfort and balance."
+  }
+}

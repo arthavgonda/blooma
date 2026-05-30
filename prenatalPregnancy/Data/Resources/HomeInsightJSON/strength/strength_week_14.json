@@ -1,0 +1,151 @@
+{
+  "week": 14,
+  "section": "strength_from_within",
+
+  "title": "Nutrient Strength",
+  "subtitle": "Building with balanced nutrition",
+
+  "description": "At this stage, your energy levels are likely more stable and your appetite stronger. This is a good time to focus on nutrient-dense meals, especially including protein and calcium, to support your body’s growing needs.",
+
+  "what_to_expect": [
+    "More stable energy levels",
+    "Stronger and more consistent appetite",
+    "Better tolerance for a variety of foods"
+  ],
+
+  "nutrition_focus": [
+    "Increase intake of protein-rich foods",
+    "Include calcium-rich foods in daily meals",
+    "Focus on nutrient-dense and balanced meals"
+  ],
+
+  "recommended_foods": [
+    "Balanced meals like dal, roti, rice, sabzi, and salad",
+    "Fruits like banana, apple, papaya, orange, and guava",
+    "Vegetables including spinach, broccoli, beans, and carrots",
+    "Protein sources like curd, paneer, lentils, eggs, or chicken (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Excessively oily or fried foods",
+    "Highly processed and packaged items",
+    "Irregular eating patterns"
+  ],
+
+  "hydration": [
+    "Drink water regularly throughout the day",
+    "Include fluids like buttermilk, coconut water, or lemon water"
+  ],
+
+  "reassurance": "Balanced and nutrient-rich meals help you feel stronger and support your body's needs.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balanced and nutrient-dense meals support stable energy and blood sugar levels.",
+
+      "nutrition_focus": [
+        "Maintain regular meal timings",
+        "Balance carbohydrates with protein and fiber",
+        "Avoid sudden increases in portion sizes"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils and paneer"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large or irregular meals"
+      ],
+
+      "reassurance": "Balanced meals support steady energy and stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Improved appetite helps include more iron-rich foods for better energy levels.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods daily",
+        "Pair meals with vitamin C sources",
+        "Maintain consistent meal patterns"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Consistent nutrition supports your strength and vitality."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals with controlled salt intake support stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals balanced and moderate in salt",
+        "Maintain regular meal timings",
+        "Avoid heavy or processed foods"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Consistent and balanced meals support a calm routine."
+    },
+
+    "thyroid": {
+      "personalized_description": "A nutrient-rich and balanced diet supports metabolic stability.",
+
+      "nutrition_focus": [
+        "Maintain regular eating intervals",
+        "Include balanced nutrients in meals",
+        "Avoid irregular eating habits"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Balanced nutrition supports your body's natural rhythm."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on nutrient-dense and balanced meals becomes especially important.",
+
+    "priority_nutrition": [
+      "Maintain regular meal timings",
+      "Include protein and calcium-rich foods",
+      "Focus on balanced and nutrient-rich meals"
+    ],
+
+    "reassurance": "Nutrient-rich meals support your strength and overall well-being."
+  }
+}

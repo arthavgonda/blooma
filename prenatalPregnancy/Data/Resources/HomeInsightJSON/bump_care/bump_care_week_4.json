@@ -1,0 +1,114 @@
+{
+  "week": 4,
+  "section": "bump_care",
+
+  "title": "Implantation Begins",
+  "subtitle": "A new life finds its place",
+
+  "description": "In week 4, the fertilized egg implants into the lining of the uterus. This marks the official beginning of pregnancy, and your body starts producing hormones to support early development.",
+
+  "what_to_expect": [
+    "Implantation of the fertilized egg into the uterine lining",
+    "Hormone hCG begins to be produced",
+    "Early signs like mild cramping or light spotting may occur"
+  ],
+
+  "care_tips": [
+    "Continue eating balanced and nutritious meals",
+    "Avoid alcohol, smoking, and harmful substances",
+    "Get adequate rest and avoid excessive physical strain"
+  ],
+
+  "medical_checkups": {
+    "note": "This is the stage when pregnancy can begin to be detected.",
+    "commonly_suggested": [
+      {
+        "name": "Pregnancy Test",
+        "purpose": "Detects hCG hormone to confirm pregnancy"
+      },
+      {
+        "name": "Doctor Consultation",
+        "purpose": "Confirms pregnancy and begins early guidance"
+      }
+    ],
+    "guidance": "Your doctor may recommend further tests based on your health condition and confirmation results."
+  },
+
+  "important_note": "Implantation is a critical step that allows the pregnancy to establish and begin developing.",
+  "reassurance": "A small but significant step has been taken — your journey has officially begun.",
+
+  "medical_disclaimer": "Always consult your healthcare provider for confirmation and personalized medical advice.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports proper implantation and early development.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timing",
+        "Avoid sugary and highly processed foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be closely reviewed after pregnancy confirmation.",
+
+      "reassurance": "Stable habits can help support a healthy start."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels help support early pregnancy changes and energy levels.",
+
+      "care_tips": [
+        "Include iron-rich foods in your meals",
+        "Pair iron with vitamin C for better absorption",
+        "Avoid skipping meals"
+      ],
+
+      "medical_focus": "Iron levels may be checked during early pregnancy tests.",
+
+      "reassurance": "Supporting your nutrition helps your body adapt better."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper implantation and early pregnancy development.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Maintain a calm and stress-free routine",
+        "Avoid overexertion"
+      ],
+
+      "medical_focus": "Blood pressure may be monitored after confirmation.",
+
+      "reassurance": "Calm and consistent care supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels are important for supporting early hormonal changes.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent daily routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid levels may be reviewed early in pregnancy.",
+
+      "reassurance": "Keeping things steady helps support healthy development."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As pregnancy begins, managing multiple conditions with consistency becomes especially important.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain regular meals and routines",
+      "Avoid sudden lifestyle changes"
+    ],
+
+    "reassurance": "With steady care, you can support a strong and healthy beginning."
+  }
+}

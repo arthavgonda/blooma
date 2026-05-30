@@ -1,0 +1,120 @@
+{
+  "week": 21,
+  "section": "rest_mindfulness",
+
+  "title": "Comfort Alignment",
+  "subtitle": "Adapting rest to body changes",
+
+  "description": "As your body continues to change, finding comfortable positions for rest and sleep becomes more important. Focusing on alignment, support, and relaxation can help maintain restful sleep and overall balance.",
+
+  "what_to_expect": [
+    "Increased need for comfortable sleep positioning",
+    "Occasional discomfort during rest or sleep",
+    "Stable energy with a need for deeper relaxation"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Use supportive pillows for side and back alignment",
+    "Adjust positions to reduce pressure and improve comfort"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or relaxation exercises daily",
+    "Engage in calming activities like reading or soft music",
+    "Take short breaks during the day for quiet relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Adapt gently to ongoing physical changes",
+    "Maintain a calm and supportive environment",
+    "Stay connected with reassuring and supportive individuals"
+  ],
+
+  "important_note": "Proper positioning and alignment can significantly improve rest quality.",
+  "reassurance": "With the right support and adjustments, you can continue to rest comfortably.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balanced routines and comfortable rest support stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Balance activity with adequate rest",
+        "Monitor your body's response to fatigue"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Mild fatigue may continue, requiring supportive rest and proper positioning.",
+
+      "rest_practices": [
+        "Take rest breaks during extended activity",
+        "Use comfortable positions to reduce strain"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Steady rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and proper rest support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines support hormonal balance and stable energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on proper positioning and consistent rest routines becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Use supportive positioning for better rest"
+    ],
+
+    "reassurance": "Comfort-focused routines support both relaxation and long-term balance."
+  }
+}

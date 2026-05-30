@@ -1,0 +1,114 @@
+{
+  "week": 21,
+  "section": "safety_awareness",
+
+  "title": "Supported Balance",
+  "subtitle": "Adjusting to continued growth",
+
+  "description": "As abdominal growth becomes more noticeable, your center of gravity may shift further. Focusing on balance, proper support, and controlled movement can help maintain stability and reduce the risk of strain or falls.",
+
+  "what_to_expect": [
+    "More noticeable abdominal growth affecting posture",
+    "Further shifts in balance and center of gravity",
+    "Increased need for support during movement and rest"
+  ],
+
+  "daily_safety_tips": [
+    "Use supportive seating and back support during rest",
+    "Avoid sudden movements or quick directional changes",
+    "Wear stable, non-slip footwear to maintain balance"
+  ],
+
+  "movement_guidelines": [
+    "Engage in light to moderate activity with controlled movements",
+    "Avoid activities that risk imbalance or sudden strain",
+    "Focus on maintaining stability and proper alignment"
+  ],
+
+  "environmental_awareness": [
+    "Keep surroundings clear and safe to prevent tripping hazards",
+    "Be cautious on uneven or slippery surfaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Ensure proper back and lower body support while sitting",
+    "Avoid long durations without movement",
+    "Take breaks to stretch and adjust posture during travel"
+  ],
+
+  "important_note": "As balance shifts, maintaining support and controlled movement becomes essential.",
+  "reassurance": "With proper support and awareness, you can stay steady and comfortable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent routines and posture supports stable blood sugar levels and comfort.",
+
+      "movement_guidelines": [
+        "Engage in moderate activity such as walking",
+        "Maintain regular meal timing and hydration",
+        "Be mindful of posture and balance during movement"
+      ],
+
+      "safety_focus": "Watch for dizziness or energy fluctuations that may affect stability.",
+
+      "reassurance": "Balanced habits support safety and stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Balance changes and fatigue require careful pacing and support.",
+
+      "movement_guidelines": [
+        "Move slowly and avoid overexertion",
+        "Take frequent rest breaks during activity"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Gentle pacing supports comfort and safety."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and controlled routine supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Remain mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during ongoing changes.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden or excessive exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining balance, support, and steady routines is essential.",
+
+    "priority_guidelines": [
+      "Avoid activities that risk imbalance or strain",
+      "Maintain moderate and consistent daily movement",
+      "Take regular breaks and stay hydrated"
+    ],
+
+    "reassurance": "Careful movement and proper support help maintain comfort and safety."
+  }
+}

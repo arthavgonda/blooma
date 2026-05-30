@@ -1,0 +1,118 @@
+{
+  "week": 7,
+  "section": "rest_mindfulness",
+
+  "title": "Emotional Calm",
+  "subtitle": "Supporting your mind and body gently",
+
+  "description": "At this stage, both fatigue and emotional sensitivity may feel more intense. Prioritizing emotional calmness along with physical rest can help create a sense of balance and comfort during daily routines.",
+
+  "what_to_expect": [
+    "Deep fatigue and need for frequent rest",
+    "Heightened emotional sensitivity or mood fluctuations",
+    "Greater need for reassurance and calm environments"
+  ],
+
+  "rest_practices": [
+    "Aim for sufficient sleep with flexibility based on comfort",
+    "Take frequent rest breaks or short naps during the day",
+    "Maintain a calm and comfortable sleep environment"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities like journaling or soft music",
+    "Limit exposure to overstimulating or stressful content"
+  ],
+
+  "emotional_wellbeing": [
+    "Acknowledge your emotions without judgment",
+    "Seek comfort in familiar and supportive environments",
+    "Stay connected with trusted people for reassurance"
+  ],
+
+  "important_note": "Emotional well-being is as important as physical rest during this phase.",
+  "reassurance": "It’s okay to feel more sensitive — giving yourself care and rest truly matters.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Managing stress and maintaining routine can help support stable blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain consistent sleep and meal timing",
+        "Avoid irregular eating patterns during fatigue",
+        "Adjust activity based on energy levels"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to reduce stress-related fluctuations",
+        "Use breathing exercises before sleep"
+      ],
+
+      "reassurance": "Consistency and calmness support better stability."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may feel deeper, requiring more rest and slower pacing.",
+
+      "rest_practices": [
+        "Take frequent rest breaks and naps during the day",
+        "Avoid prolonged or physically demanding activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest helps maintain your strength and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining emotional calm and structured rest supports stable blood pressure.",
+
+      "rest_practices": [
+        "Maintain a consistent and restful sleep schedule",
+        "Avoid stimulants, especially in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and controlled breathing"
+      ],
+
+      "reassurance": "Calmness and routine support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent rest and emotional balance support hormonal stability.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep patterns"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, emotional calmness and structured rest become even more important.",
+
+    "priority_practices": [
+      "Maintain a consistent and calming sleep routine",
+      "Incorporate daily relaxation or breathing exercises",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Gentle routines and emotional care support overall balance and comfort."
+  }
+}

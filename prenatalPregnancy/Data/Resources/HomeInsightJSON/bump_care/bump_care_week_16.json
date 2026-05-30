@@ -1,0 +1,114 @@
+{
+  "week": 16,
+  "section": "bump_care",
+
+  "title": "Movement Begins",
+  "subtitle": "Tiny motions come to life",
+
+  "description": "By week 16, your baby is becoming more active, and movements are increasing. Some individuals may begin to feel light fluttering sensations, often described as the first signs of movement.",
+
+  "what_to_expect": [
+    "Fetal movements increase and may be felt as light flutters",
+    "Muscles and bones continue to strengthen",
+    "Facial muscles allow simple expressions"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and continue regular routines",
+    "Engage in light exercise like walking or prenatal yoga if comfortable"
+  ],
+
+  "medical_checkups": {
+    "note": "Monitoring continues with focus on growth and early movements.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks fetal growth and maternal health"
+      },
+      {
+        "name": "Ultrasound Scan (if advised)",
+        "purpose": "Assesses development and movement"
+      }
+    ],
+    "guidance": "Your doctor will guide you on the timing of scans and routine visits based on your progress."
+  },
+
+  "important_note": "The beginning of noticeable movement is an exciting milestone in your pregnancy.",
+  "reassurance": "Feeling your baby move, even slightly, can be a reassuring sign of growth and development.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you have concerns about symptoms or movement.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports muscle and bone development.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timing",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored during routine prenatal visits.",
+
+      "reassurance": "Consistent care supports steady growth."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support oxygen supply and increased activity levels.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during increased fetal activity.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing development and metabolic function.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As movement begins, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced routine",
+      "Avoid sudden lifestyle or dietary changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support a healthy progression."
+  }
+}

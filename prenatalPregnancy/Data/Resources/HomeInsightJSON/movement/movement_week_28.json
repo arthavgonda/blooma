@@ -1,0 +1,114 @@
+{
+  "week": 28,
+  "section": "safety_awareness",
+
+  "title": "Structured Comfort",
+  "subtitle": "Balancing breath, rest, and movement",
+
+  "description": "As you enter the later part of pregnancy, physical load and body changes may become more pronounced. You may notice changes in breathing patterns and increased need for rest. Maintaining structured routines with proper pacing, posture, and breathing awareness can help support comfort and stability.",
+
+  "what_to_expect": [
+    "Increased physical load affecting movement and posture",
+    "Mild breathlessness during activity or exertion",
+    "Greater need for structured rest and pacing"
+  ],
+
+  "daily_safety_tips": [
+    "Avoid rushing movements and allow time for rest between tasks",
+    "Maintain upright posture to support comfortable breathing",
+    "Plan daily routines with structured rest intervals"
+  ],
+
+  "movement_guidelines": [
+    "Engage in gentle movement such as slow walking",
+    "Avoid overexertion or activities that cause breathlessness",
+    "Move at a steady pace and stop when feeling tired"
+  ],
+
+  "environmental_awareness": [
+    "Stay in well-ventilated and comfortable environments",
+    "Avoid crowded or poorly ventilated spaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Limit long travel and avoid prolonged sitting",
+    "Take frequent breaks to move and stretch",
+    "Use proper support for back and legs while seated"
+  ],
+
+  "important_note": "Managing breathing and pacing activities can help reduce discomfort and fatigue.",
+  "reassurance": "With steady routines and proper rest, you can maintain comfort and ease.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining balanced meals, hydration, and gentle activity supports stable blood sugar and energy levels.",
+
+      "movement_guidelines": [
+        "Engage in gentle activity such as walking after meals",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to fatigue and breathing changes"
+      ],
+
+      "safety_focus": "Watch for fatigue, dizziness, or changes in energy levels.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Breathlessness and fatigue may increase, requiring careful pacing and rest.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and take frequent rest breaks",
+        "Move slowly and avoid prolonged activity"
+      ],
+
+      "safety_focus": "Be aware of dizziness, breathlessness, or weakness.",
+
+      "reassurance": "Gentle pacing and rest support comfort and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm routines and avoiding strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Be mindful of stress levels, fatigue, and physical strain.",
+
+      "reassurance": "A calm and steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during increased physical demand.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining structured rest, gentle movement, and breathing awareness becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid overexertion or activities causing breathlessness",
+      "Maintain gentle and consistent daily movement",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Balanced pacing and rest support overall comfort and safety."
+  }
+}

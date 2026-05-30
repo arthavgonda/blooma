@@ -1,0 +1,114 @@
+{
+  "week": 5,
+  "section": "bump_care",
+
+  "title": "Early Development",
+  "subtitle": "Tiny beginnings take shape",
+
+  "description": "By week 5, your pregnancy is progressing steadily. The embryo begins forming essential structures, and early development of the brain, spinal cord, and heart starts taking place.",
+
+  "what_to_expect": [
+    "The embryo begins forming major organs",
+    "Early development of the brain and spinal cord starts",
+    "Hormone levels continue to rise, possibly causing mild symptoms"
+  ],
+
+  "care_tips": [
+    "Continue a balanced diet with essential nutrients",
+    "Get enough rest as fatigue may increase",
+    "Avoid exposure to harmful substances and environments"
+  ],
+
+  "medical_checkups": {
+    "note": "This is an important time to begin formal prenatal care.",
+    "commonly_suggested": [
+      {
+        "name": "Doctor Consultation",
+        "purpose": "Confirms pregnancy progression and provides guidance"
+      },
+      {
+        "name": "Blood Tests",
+        "purpose": "Checks overall health, including hemoglobin and hormone levels"
+      }
+    ],
+    "guidance": "Your doctor may suggest additional early tests based on your medical history and needs."
+  },
+
+  "important_note": "This is a critical phase where essential systems of the baby begin forming.",
+  "reassurance": "Even though everything is still very small, important development is already underway.",
+
+  "medical_disclaimer": "Follow your doctor’s advice for tests and supplements during this stage.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels is crucial as early organ development begins.",
+
+      "care_tips": [
+        "Monitor blood sugar regularly",
+        "Maintain consistent meal timing",
+        "Avoid high-sugar and processed foods"
+      ],
+
+      "medical_focus": "Blood glucose levels may be closely monitored during early prenatal visits.",
+
+      "reassurance": "Good control now supports healthy development."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels are important to support increased blood demand and early development.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair iron with vitamin C sources",
+        "Follow supplement advice if given"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be checked during early blood tests.",
+
+      "reassurance": "Supporting your body helps you feel stronger and more prepared."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports healthy blood flow during early development.",
+
+      "care_tips": [
+        "Reduce salt intake",
+        "Practice stress management",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure may be monitored during initial prenatal visits.",
+
+      "reassurance": "Consistent care helps maintain balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support early brain and organ development.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid levels may be checked during early pregnancy screening.",
+
+      "reassurance": "Staying consistent helps support healthy growth."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As early development progresses, managing multiple conditions requires careful and consistent attention.",
+
+    "priority_tips": [
+      "Follow all medical advice and schedules",
+      "Maintain a balanced and regular routine",
+      "Avoid sudden lifestyle or dietary changes"
+    ],
+
+    "reassurance": "Steady and mindful care can support a healthy progression."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "week": 27,
+  "section": "bump_care",
+
+  "title": "Entering the Third Trimester",
+  "subtitle": "A new phase begins",
+
+  "description": "By week 27, you are entering the third trimester. Your baby continues to grow rapidly, and organs like the lungs and brain are developing further. Movements are strong and regular.",
+
+  "what_to_expect": [
+    "Fetal movements are strong and frequent",
+    "Rapid brain and lung development continues",
+    "You may feel increased physical changes as your body adapts"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Engage in light exercise and prioritize rest"
+  ],
+
+  "medical_checkups": {
+    "note": "Monitoring becomes more regular as you enter the third trimester.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks maternal health and fetal growth"
+      },
+      {
+        "name": "Blood Pressure Monitoring",
+        "purpose": "Ensures stable maternal health"
+      }
+    ],
+    "guidance": "Your doctor may increase the frequency of visits during this trimester."
+  },
+
+  "important_note": "Entering the third trimester marks the final phase of your pregnancy journey.",
+  "reassurance": "You are moving closer to meeting your baby, with steady progress each week.",
+
+  "medical_disclaimer": "Follow your healthcare provider’s advice for regular monitoring and care.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Blood sugar control becomes increasingly important as your baby grows rapidly.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored more frequently during this stage.",
+
+      "reassurance": "Consistent management supports a healthy final phase."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports increased blood volume and oxygen needs.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is essential during the third trimester.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring may become more frequent.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support continued growth and metabolic balance.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As you enter the third trimester, managing multiple conditions requires consistent and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain a balanced and regular lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a strong and healthy final phase."
+  }
+}

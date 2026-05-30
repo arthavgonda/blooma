@@ -1,0 +1,120 @@
+{
+  "week": 38,
+  "section": "rest_mindfulness",
+
+  "title": "Calm Vigilance",
+  "subtitle": "Resting while staying aware",
+
+  "description": "At this stage, sleep may be highly disrupted and your body may require frequent rest. Staying calm while remaining aware of body signals can help you feel prepared and supported during this phase.",
+
+  "what_to_expect": [
+    "Highly interrupted sleep or difficulty resting",
+    "Frequent need for rest and recovery",
+    "Increased awareness of body signals and changes"
+  ],
+
+  "rest_practices": [
+    "Maintain a flexible but consistent sleep routine",
+    "Take frequent rest breaks whenever needed",
+    "Use full support for comfort in resting positions"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities like soft music or quiet reading",
+    "Create a peaceful and distraction-free environment"
+  ],
+
+  "emotional_wellbeing": [
+    "Stay calm and patient with frequent changes",
+    "Focus on reassurance and emotional support",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Balancing rest with awareness can help you stay comfortable and prepared.",
+  "reassurance": "Calmness and support can help you navigate this phase with confidence.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent routines and flexible rest support stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Take rest breaks to manage fatigue",
+        "Monitor your body's response to changing energy levels"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may be high, requiring frequent rest and minimal exertion.",
+
+      "rest_practices": [
+        "Take frequent and extended rest breaks",
+        "Avoid prolonged or physically demanding activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and supported rest help maintain stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a flexible but consistent sleep routine",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and flexible rest support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times where possible",
+        "Avoid irregular sleep patterns"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, balancing rest with awareness and maintaining calm routines becomes critical.",
+
+    "priority_practices": [
+      "Maintain a flexible but consistent sleep routine",
+      "Incorporate daily relaxation or breathing exercises",
+      "Take frequent rest breaks as needed"
+    ],
+
+    "reassurance": "Supportive routines help maintain comfort and readiness."
+  }
+}

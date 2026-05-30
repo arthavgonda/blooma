@@ -1,0 +1,114 @@
+{
+  "week": 30,
+  "section": "safety_awareness",
+
+  "title": "Supported Movement",
+  "subtitle": "Adapting to slower, steadier routines",
+
+  "description": "As your body becomes heavier, movements may naturally slow down and require more effort. Focusing on supported movement, maintaining balance, and allowing extra time for daily tasks can help reduce strain and improve comfort.",
+
+  "what_to_expect": [
+    "Increased body heaviness affecting mobility",
+    "Slower and more deliberate movement patterns",
+    "Greater need for support during daily activities"
+  ],
+
+  "daily_safety_tips": [
+    "Allow extra time for daily activities and avoid rushing",
+    "Use support while sitting, standing, or changing positions",
+    "Avoid carrying heavy objects or placing strain on your body"
+  ],
+
+  "movement_guidelines": [
+    "Engage in gentle movement such as slow walking",
+    "Avoid sudden movements or activities that risk imbalance",
+    "Focus on steady, controlled, and supported movement"
+  ],
+
+  "environmental_awareness": [
+    "Keep surroundings clear and safe to prevent tripping hazards",
+    "Ensure easy access to frequently used items",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Limit long travel and avoid prolonged sitting",
+    "Use proper back, leg, and side support while seated",
+    "Take frequent breaks to move and adjust posture"
+  ],
+
+  "important_note": "Slower, supported movement can help reduce strain and improve safety.",
+  "reassurance": "Moving at your own pace and using support can help you stay comfortable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining balanced routines and gentle activity supports stable blood sugar levels as movement slows.",
+
+      "movement_guidelines": [
+        "Engage in gentle activity such as short walks",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to reduced activity levels"
+      ],
+
+      "safety_focus": "Watch for fatigue or energy changes affecting movement.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Increased fatigue requires slower pacing and frequent rest.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and move at a slow pace",
+        "Take frequent rest breaks during activities"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Gentle pacing and rest help maintain comfort and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm routines and avoiding strain supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Be mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during reduced mobility.",
+
+      "movement_guidelines": [
+        "Maintain a steady and manageable activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining supported movement, steady pacing, and regular rest becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid sudden movements or overexertion",
+      "Maintain gentle and consistent daily movement",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Careful pacing and support help maintain comfort and safety."
+  }
+}

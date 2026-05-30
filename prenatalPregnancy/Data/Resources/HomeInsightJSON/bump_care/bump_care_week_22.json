@@ -1,0 +1,114 @@
+{
+  "week": 22,
+  "section": "bump_care",
+
+  "title": "Stronger Connections",
+  "subtitle": "Senses and movements develop further",
+
+  "description": "By week 22, your baby’s senses continue to develop, and movements become stronger and more coordinated. You may clearly feel kicks and changes in activity levels throughout the day.",
+
+  "what_to_expect": [
+    "Fetal movements become stronger and more coordinated",
+    "Development of senses like touch and hearing continues",
+    "You may notice patterns in activity and rest"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow regular routines",
+    "Practice light exercise and maintain good posture"
+  ],
+
+  "medical_checkups": {
+    "note": "Routine monitoring continues to ensure healthy development.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Monitors maternal health and fetal growth"
+      },
+      {
+        "name": "Follow-up Tests (if advised)",
+        "purpose": "Evaluates any previous findings"
+      }
+    ],
+    "guidance": "Your doctor will guide you on any additional tests based on your health and earlier reports."
+  },
+
+  "important_note": "Stronger movements are a positive sign of your baby’s growth and activity.",
+  "reassurance": "Feeling regular movements can help you stay connected with your baby’s development.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you notice any unusual changes in movement.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels supports ongoing development and activity.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored during routine prenatal visits.",
+
+      "reassurance": "Consistent management supports healthy growth."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support oxygen supply during increased activity and development.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy levels."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during this active stage.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support continued growth and metabolic balance.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As movements and senses develop further, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support healthy progress."
+  }
+}

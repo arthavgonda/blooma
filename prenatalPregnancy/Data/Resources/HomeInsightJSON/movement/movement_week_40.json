@@ -1,0 +1,114 @@
+{
+  "week": 40,
+  "section": "safety_awareness",
+
+  "title": "Final Stage",
+  "subtitle": "Ready for delivery",
+
+  "description": "You have reached the final stage of pregnancy. Labor may begin at any time, and staying calm, prepared, and supported is essential. Focus on rest, awareness of body signals, and immediate response readiness.",
+
+  "what_to_expect": [
+    "Active signs of labor such as regular contractions or pressure",
+    "Heightened awareness of body signals and changes",
+    "Immediate need for readiness and response"
+  ],
+
+  "daily_safety_tips": [
+    "Keep all essentials, documents, and contacts ready at all times",
+    "Stay close to your healthcare provider or facility",
+    "Avoid any unnecessary physical effort or movement"
+  ],
+
+  "movement_guidelines": [
+    "Limit movement to essential and assisted activity only",
+    "Avoid any activity that causes discomfort or strain",
+    "Use full support or assistance for all movement"
+  ],
+
+  "environmental_awareness": [
+    "Ensure surroundings are calm, safe, and easily accessible",
+    "Keep pathways clear for quick and safe movement",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Avoid travel unless required for reaching a healthcare facility",
+    "Ensure immediate access to transport if needed",
+    "Maintain maximum comfort and support during movement"
+  ],
+
+  "important_note": "Staying prepared and responding promptly to body signals is critical at this stage.",
+  "reassurance": "You are ready, and with proper support and awareness, you can move forward with confidence.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent meals and minimal activity supports stable blood sugar levels during this stage.",
+
+      "movement_guidelines": [
+        "Engage in minimal gentle movement only when necessary",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to reduced activity"
+      ],
+
+      "safety_focus": "Watch for fatigue, dizziness, or changes in energy levels.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may be at its peak, requiring maximum rest and minimal exertion.",
+
+      "movement_guidelines": [
+        "Limit activity strictly to essential needs",
+        "Take continuous rest and avoid strain"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and minimal effort help maintain comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm and controlled environment supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in minimal and controlled movement"
+      ],
+
+      "safety_focus": "Be mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and minimal activity support metabolic balance during this final phase.",
+
+      "movement_guidelines": [
+        "Maintain a steady and minimal activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining full readiness, minimizing movement, and prioritizing rest is critical.",
+
+    "priority_guidelines": [
+      "Avoid unnecessary physical effort or strain",
+      "Maintain minimal and essential movement only",
+      "Take continuous rest and stay hydrated"
+    ],
+
+    "reassurance": "Careful rest and awareness support comfort and safety."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "week": 30,
+  "section": "rest_mindfulness",
+
+  "title": "Planned Rest",
+  "subtitle": "Structuring recovery and comfort",
+
+  "description": "At this stage, fatigue may feel heavier and sleep interruptions more frequent. Planning rest periods, using supportive positioning, and focusing on recovery can help maintain comfort and emotional balance.",
+
+  "what_to_expect": [
+    "Heavier fatigue cycles during the day",
+    "More frequent sleep disruptions or discomfort",
+    "Greater need for planned rest and recovery"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Plan rest breaks throughout the day",
+    "Use supportive pillows to improve comfort and alignment"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities like reading or soft music",
+    "Set aside time for uninterrupted relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Be patient with increasing fatigue and sleep changes",
+    "Maintain a calm and supportive environment",
+    "Stay connected with reassuring individuals"
+  ],
+
+  "important_note": "Planning rest and focusing on recovery can help manage fatigue and improve comfort.",
+  "reassurance": "With structured rest and support, you can continue to feel balanced and cared for.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent routines and planned rest support stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Plan rest breaks to manage fatigue",
+        "Monitor your body's response to reduced energy"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may increase further, requiring structured rest and reduced exertion.",
+
+      "rest_practices": [
+        "Take frequent and planned rest breaks",
+        "Avoid prolonged or physically demanding activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest and planning support your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and structured rest support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and proper rest support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, structuring rest and focusing on recovery becomes increasingly important.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Plan regular rest breaks to support recovery"
+    ],
+
+    "reassurance": "Structured routines support comfort and long-term balance."
+  }
+}

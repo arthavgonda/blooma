@@ -1,0 +1,120 @@
+{
+  "week": 18,
+  "section": "rest_mindfulness",
+
+  "title": "Adaptive Calm",
+  "subtitle": "Adjusting rest as your body changes",
+
+  "description": "As your body continues to change, you may need small adjustments in how you rest and relax. Maintaining calm routines while adapting your rest positions and habits can help sustain comfort and balance.",
+
+  "what_to_expect": [
+    "Stable energy levels with minor physical adjustments",
+    "Slight changes in comfort during rest or sleep",
+    "Continued emotional stability with occasional fluctuations"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Adjust sleep positions for better comfort as needed",
+    "Take short rest breaks to prevent fatigue buildup"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or relaxation exercises daily",
+    "Engage in calming activities like reading or soft music",
+    "Pause during the day for brief moments of relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Maintain emotional balance through calm routines",
+    "Adapt gently to physical and emotional changes",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Small adjustments in rest and relaxation can help maintain ongoing comfort.",
+  "reassurance": "Listening to your body and adapting gently can help you stay at ease.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining steady routines supports stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Balance activity with adequate rest",
+        "Monitor your body's response to changes"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Energy may remain stable, but pacing and rest continue to be important.",
+
+      "rest_practices": [
+        "Take rest breaks during extended activity",
+        "Avoid overexertion"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Steady rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining calm routines supports stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines support hormonal balance and stable energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, adapting rest routines while maintaining consistency becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Balance activity with adequate rest"
+    ],
+
+    "reassurance": "Gentle adjustments and steady routines support long-term comfort and balance."
+  }
+}

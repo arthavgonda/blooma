@@ -1,0 +1,114 @@
+{
+  "week": 19,
+  "section": "bump_care",
+
+  "title": "Developing Protection",
+  "subtitle": "A protective layer forms",
+
+  "description": "By week 19, your baby’s skin begins developing a protective coating called vernix. Movements become stronger, and you may feel more frequent kicks as your baby grows more active.",
+
+  "what_to_expect": [
+    "A protective layer (vernix) begins forming on the skin",
+    "Fetal movements become stronger and more frequent",
+    "You may feel regular kicks and changes in movement patterns"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced diet rich in essential nutrients",
+    "Stay hydrated and continue regular routines",
+    "Practice gentle exercise and maintain proper posture"
+  ],
+
+  "medical_checkups": {
+    "note": "Monitoring continues with focus on development and movement.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks fetal growth and maternal health"
+      },
+      {
+        "name": "Follow-up Ultrasound (if needed)",
+        "purpose": "Evaluates development after anomaly scan"
+      }
+    ],
+    "guidance": "Your doctor may schedule follow-up scans based on earlier findings and your condition."
+  },
+
+  "important_note": "The development of vernix helps protect your baby’s skin inside the womb.",
+  "reassurance": "Your baby is becoming more active, and their movements are a positive sign of growth.",
+
+  "medical_disclaimer": "Consult your healthcare provider if you notice any unusual changes in movement.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Stable blood sugar levels support continued growth and development.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may be monitored during routine prenatal visits.",
+
+      "reassurance": "Consistent management supports healthy progress."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support oxygen supply during increased activity.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during this stage.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing development and metabolism.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As movements become stronger, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support healthy development."
+  }
+}

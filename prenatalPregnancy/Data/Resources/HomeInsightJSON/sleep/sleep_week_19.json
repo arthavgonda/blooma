@@ -1,0 +1,120 @@
+{
+  "week": 19,
+  "section": "rest_mindfulness",
+
+  "title": "Comforted Rest",
+  "subtitle": "Enhancing comfort and relaxation",
+
+  "description": "As physical changes become more noticeable, you may experience slight discomfort during rest or sleep. Focusing on comfortable positioning and deeper relaxation can help maintain restful sleep and emotional balance.",
+
+  "what_to_expect": [
+    "Slight discomfort during rest or certain sleep positions",
+    "Continued stable energy with occasional fatigue",
+    "Need for more conscious relaxation and comfort"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Use supportive pillows to improve sleep comfort",
+    "Adjust resting positions to reduce discomfort"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or relaxation exercises daily",
+    "Engage in calming activities like soft music or reading",
+    "Take time for quiet relaxation during the day"
+  ],
+
+  "emotional_wellbeing": [
+    "Stay patient with physical changes",
+    "Maintain a calm and supportive environment",
+    "Continue connecting with supportive individuals"
+  ],
+
+  "important_note": "Comfort-focused rest can help reduce strain and improve relaxation quality.",
+  "reassurance": "Small adjustments in how you rest can make a meaningful difference in comfort.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining balanced routines supports stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Balance activity with adequate rest",
+        "Monitor your body's response to fatigue"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Mild fatigue may persist, requiring continued rest and pacing.",
+
+      "rest_practices": [
+        "Take rest breaks during extended activity",
+        "Avoid overexertion"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Steady rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and proper rest support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines support hormonal balance and energy stability.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on comfort and consistent rest routines becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Adjust rest positions for better comfort"
+    ],
+
+    "reassurance": "Comfort-focused routines support both relaxation and balance."
+  }
+}

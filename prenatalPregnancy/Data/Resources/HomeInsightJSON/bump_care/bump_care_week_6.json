@@ -1,0 +1,114 @@
+{
+  "week": 6,
+  "section": "bump_care",
+
+  "title": "Heartbeat Begins",
+  "subtitle": "A tiny rhythm starts",
+
+  "description": "By week 6, one of the most significant milestones occurs — the embryo’s heart begins to beat. Rapid development continues, and essential organs start forming more clearly.",
+
+  "what_to_expect": [
+    "The embryo’s heart may begin beating",
+    "Development of basic facial features starts",
+    "Early symptoms like fatigue, nausea, or breast tenderness may appear"
+  ],
+
+  "care_tips": [
+    "Eat small, frequent meals to manage nausea",
+    "Stay hydrated throughout the day",
+    "Get adequate rest and avoid overexertion"
+  ],
+
+  "medical_checkups": {
+    "note": "This stage often includes early confirmation of development through medical evaluation.",
+    "commonly_suggested": [
+      {
+        "name": "Ultrasound Scan",
+        "purpose": "Helps confirm pregnancy location and detect heartbeat"
+      },
+      {
+        "name": "Blood Tests",
+        "purpose": "Monitors hormone levels and overall health"
+      }
+    ],
+    "guidance": "Your doctor will guide you on the timing and necessity of scans based on your condition."
+  },
+
+  "important_note": "The beginning of the heartbeat marks an important step in early development.",
+  "reassurance": "A tiny heartbeat is a powerful sign that your journey is progressing.",
+
+  "medical_disclaimer": "Always follow your healthcare provider’s advice regarding tests and symptoms.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Stable blood sugar levels are especially important as organ development accelerates.",
+
+      "care_tips": [
+        "Monitor blood glucose levels regularly",
+        "Eat smaller, frequent meals",
+        "Avoid high-sugar and processed foods"
+      ],
+
+      "medical_focus": "Blood sugar may be closely monitored during early scans and tests.",
+
+      "reassurance": "Careful management supports healthy development."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support increased blood production and early growth.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement guidance if provided"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be reviewed during blood tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining stable blood pressure supports proper circulation during this stage.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure proper rest"
+      ],
+
+      "medical_focus": "Blood pressure may be monitored during checkups.",
+
+      "reassurance": "A calm routine supports your overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing organ and brain development.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Avoid skipping doses",
+        "Maintain a consistent routine"
+      ],
+
+      "medical_focus": "Thyroid function may be checked during early pregnancy evaluations.",
+
+      "reassurance": "Consistency helps support steady development."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As development progresses rapidly, managing multiple conditions requires close attention and consistency.",
+
+    "priority_tips": [
+      "Adhere strictly to medical advice",
+      "Maintain regular meals and rest",
+      "Avoid sudden lifestyle changes"
+    ],
+
+    "reassurance": "Steady care and awareness can support a healthy journey forward."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "week": 2,
+  "section": "bump_care",
+
+  "title": "Early Foundations",
+  "subtitle": "Your body begins its quiet transformation",
+
+  "description": "In week 2, your body is preparing for ovulation and potential fertilization. While pregnancy has not yet begun, this phase plays an important role in setting the stage for conception.",
+
+  "what_to_expect": [
+    "Ovulation may occur during this time depending on your cycle",
+    "Hormonal activity increases to support egg release",
+    "Your body prepares the uterine lining for possible implantation"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutritious diet",
+    "Stay hydrated and follow a regular sleep schedule",
+    "Avoid smoking, alcohol, and unnecessary medications"
+  ],
+
+  "medical_checkups": {
+    "note": "This phase focuses on preparation and awareness rather than confirmation.",
+    "commonly_suggested": [
+      {
+        "name": "Ovulation Tracking",
+        "purpose": "Helps identify the most fertile period"
+      },
+      {
+        "name": "Preconception Consultation",
+        "purpose": "Guides planning and ensures readiness for pregnancy"
+      }
+    ],
+    "guidance": "Your doctor may suggest additional guidance based on your health history and cycle regularity."
+  },
+
+  "important_note": "Healthy habits during this phase can positively influence early pregnancy development.",
+  "reassurance": "Even before pregnancy begins, your body is working in preparation for the journey ahead.",
+
+  "medical_disclaimer": "Always consult a healthcare professional before making significant lifestyle or medical decisions.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels during this phase can support better reproductive health.",
+
+      "care_tips": [
+        "Monitor blood sugar regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar and refined foods"
+      ],
+
+      "medical_focus": "Blood glucose control may be reviewed when planning for pregnancy.",
+
+      "reassurance": "Stable habits now can support a healthier start ahead."
+    },
+
+    "anemia": {
+      "personalized_description": "Improving iron levels before pregnancy can support better energy and overall health.",
+
+      "care_tips": [
+        "Include iron-rich foods in your diet",
+        "Pair iron sources with vitamin C for better absorption",
+        "Avoid skipping meals"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be assessed as part of preconception care.",
+
+      "reassurance": "Building strength early supports your body for the upcoming changes."
+    },
+
+    "hypertension": {
+      "personalized_description": "Managing blood pressure early helps create a stable environment for future pregnancy.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice stress management techniques",
+        "Maintain regular physical activity"
+      ],
+
+      "medical_focus": "Blood pressure may be evaluated during routine health checks.",
+
+      "reassurance": "Consistent care can help you stay balanced and prepared."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid function supports hormonal stability and reproductive health.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain consistent meal and sleep routines",
+        "Avoid sudden dietary changes"
+      ],
+
+      "medical_focus": "Thyroid levels may be reviewed when planning for pregnancy.",
+
+      "reassurance": "Keeping your routine steady helps your body stay in balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "Managing multiple health factors during this preparatory phase can feel complex, but focusing on consistency can make it manageable.",
+
+    "priority_tips": [
+      "Maintain regular meal and sleep schedules",
+      "Follow medical advice consistently",
+      "Avoid sudden lifestyle or dietary changes"
+    ],
+
+    "reassurance": "Small, steady efforts now can help create a strong foundation for the journey ahead."
+  }
+}

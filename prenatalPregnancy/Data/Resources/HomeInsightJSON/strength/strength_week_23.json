@@ -1,0 +1,152 @@
+{
+  "week": 23,
+  "section": "strength_from_within",
+
+  "title": "Balanced Energy",
+  "subtitle": "Supporting steady nourishment",
+
+  "description": "As your body continues to support growth, your energy and nutritional needs increase. Focusing on balanced portions and nutrient-dense meals can help maintain steady energy and overall well-being.",
+
+  "what_to_expect": [
+    "Increased need for energy and nourishment",
+    "Consistent appetite with possible hunger between meals",
+    "Greater importance of balanced meal portions"
+  ],
+
+  "nutrition_focus": [
+    "Maintain balanced portion sizes",
+    "Focus on nutrient-dense meals",
+    "Support sustained energy with regular meals and snacks"
+  ],
+
+  "recommended_foods": [
+    "Balanced meals like dal, roti, rice, sabzi, and salad",
+    "Fruits like banana, apple, orange, guava, and pomegranate",
+    "Vegetables including spinach, beetroot, carrots, beans, and broccoli",
+    "Healthy snacks like nuts, roasted chana, fruit bowls, or curd",
+    "Protein sources like milk, paneer, lentils, eggs, or chicken (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Excessively oily or fried foods",
+    "Highly processed snacks",
+    "Skipping meals or overeating in one sitting"
+  ],
+
+  "hydration": [
+    "Drink water consistently throughout the day",
+    "Include fluids like buttermilk, coconut water, or lemon water"
+  ],
+
+  "reassurance": "Balanced portions and regular meals help keep your energy steady and support your body.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balanced portion control and regular meals help maintain stable blood sugar levels.",
+
+      "nutrition_focus": [
+        "Eat controlled portions at regular intervals",
+        "Balance carbohydrates with protein and fiber",
+        "Avoid overeating or long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils, paneer, and nuts"
+      ],
+
+      "foods_to_limit": [
+        "Sugary foods and drinks",
+        "Refined carbohydrates",
+        "Large or irregular meals"
+      ],
+
+      "reassurance": "Balanced portions support steady energy levels."
+    },
+
+    "anemia": {
+      "personalized_description": "Nutrient-dense meals with iron-rich foods help support energy and strength.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods daily",
+        "Pair meals with vitamin C sources",
+        "Maintain consistent meal timing"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Consistent and nutrient-rich meals support your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals with controlled salt intake support stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals balanced and moderate in salt",
+        "Maintain regular meal timings",
+        "Avoid heavy or processed foods"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Balanced meals help maintain a calm and steady routine."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent and nutrient-dense meals support overall metabolic balance.",
+
+      "nutrition_focus": [
+        "Maintain regular eating intervals",
+        "Include a variety of nutrients",
+        "Avoid irregular eating patterns"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency and balance support your body's needs."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining balanced portions and nutrient-dense meals helps support stability and energy.",
+
+    "priority_nutrition": [
+      "Maintain regular meal and snack timings",
+      "Focus on balanced portion sizes",
+      "Include nutrient-dense foods"
+    ],
+
+    "reassurance": "Balanced nourishment supports your energy and overall well-being."
+  }
+}

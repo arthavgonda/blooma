@@ -1,0 +1,114 @@
+{
+  "week": 40,
+  "section": "bump_care",
+
+  "title": "Due Time",
+  "subtitle": "Ready for birth",
+
+  "description": "By week 40, you have reached your due date. Your baby is fully developed and ready to be born. Labor may begin naturally at any time, or your doctor may guide next steps if needed.",
+
+  "what_to_expect": [
+    "Fetal movements continue but may feel restricted due to limited space",
+    "Labor can begin at any time if not already started",
+    "You may experience strong and regular contractions or other labor signs"
+  ],
+
+  "care_tips": [
+    "Stay calm and follow your doctor’s guidance",
+    "Maintain light meals and stay hydrated",
+    "Keep your hospital bag and essentials ready"
+  ],
+
+  "medical_checkups": {
+    "note": "Close monitoring is essential if delivery has not yet occurred.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Monitors maternal and fetal well-being"
+      },
+      {
+        "name": "Fetal Monitoring (Non-Stress Test if advised)",
+        "purpose": "Checks baby’s heart rate and activity"
+      }
+    ],
+    "guidance": "Your doctor may discuss induction or further monitoring if labor does not begin naturally."
+  },
+
+  "important_note": "Every pregnancy is unique, and delivery timing can vary slightly beyond the due date.",
+  "reassurance": "Your baby is ready, and you are at the final step of your journey.",
+
+  "medical_disclaimer": "Contact your healthcare provider immediately if you notice contractions, water breaking, or any unusual symptoms.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels is critical during labor and delivery.",
+
+      "care_tips": [
+        "Monitor blood glucose as advised",
+        "Follow your doctor’s dietary and medical guidance",
+        "Stay prepared for hospital instructions"
+      ],
+
+      "medical_focus": "Blood sugar levels will be closely monitored during labor.",
+
+      "reassurance": "Careful management supports a safe delivery."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support your body during delivery and recovery.",
+
+      "care_tips": [
+        "Follow supplement advice if prescribed",
+        "Maintain light and regular meals",
+        "Stay hydrated"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be reviewed before or during delivery.",
+
+      "reassurance": "Supporting your nutrition helps prepare your body for childbirth."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure is essential for a safe labor and delivery process.",
+
+      "care_tips": [
+        "Take prescribed medication as advised",
+        "Stay calm and avoid stress",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure will be closely monitored during labor.",
+
+      "reassurance": "A calm and steady approach supports a safer delivery."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support stability during labor and immediate recovery.",
+
+      "care_tips": [
+        "Continue prescribed medication",
+        "Maintain a consistent routine",
+        "Follow medical advice closely"
+      ],
+
+      "medical_focus": "Thyroid function may be reviewed as needed during delivery.",
+
+      "reassurance": "Consistency helps maintain balance during this important time."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "At this final stage, managing multiple conditions requires close coordination with your healthcare provider.",
+
+    "priority_tips": [
+      "Follow medical advice carefully",
+      "Stay prepared for hospital admission",
+      "Avoid any sudden lifestyle or dietary changes"
+    ],
+
+    "reassurance": "You are ready, and steady care will support a safe and successful delivery."
+  }
+}

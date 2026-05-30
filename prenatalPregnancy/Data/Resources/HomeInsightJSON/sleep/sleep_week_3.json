@@ -1,0 +1,118 @@
+{
+  "week": 3,
+  "section": "rest_mindfulness",
+
+  "title": "Restful Awareness",
+  "subtitle": "Listening to your body’s early signals",
+
+  "description": "As your body continues to adjust, fatigue may become more noticeable and emotional sensitivity may increase. Prioritizing rest, creating calming routines, and tuning into your body’s signals can support overall balance and comfort.",
+
+  "what_to_expect": [
+    "Increased fatigue or need for frequent rest",
+    "Greater emotional sensitivity or mood changes",
+    "More noticeable changes in sleep quality or patterns"
+  ],
+
+  "rest_practices": [
+    "Aim for 7–9 hours of sleep and maintain a consistent schedule",
+    "Include short rest breaks between daily activities",
+    "Create a quiet and comfortable sleep environment"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities such as journaling or light reading",
+    "Limit stimulating activities before bedtime"
+  ],
+
+  "emotional_wellbeing": [
+    "Acknowledge emotional changes with patience",
+    "Take time for yourself to relax and unwind",
+    "Stay connected with supportive people"
+  ],
+
+  "important_note": "Responding to your body’s signals with rest and calmness can help reduce fatigue and stress.",
+  "reassurance": "Giving yourself time to rest and recharge is an important part of this journey.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent rest and reduced stress can help support stable blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Avoid late-night eating patterns",
+        "Adjust activity levels based on energy"
+      ],
+
+      "mindfulness_practices": [
+        "Use relaxation techniques to manage stress",
+        "Practice breathing exercises before sleep"
+      ],
+
+      "reassurance": "Steady routines support better balance and control."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may increase, requiring more frequent rest and slower pacing.",
+
+      "rest_practices": [
+        "Take short naps or rest breaks during the day",
+        "Avoid prolonged or tiring activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in gentle relaxation practices",
+        "Avoid mentally or physically draining tasks before bedtime"
+      ],
+
+      "reassurance": "Rest helps conserve your energy and supports comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and consistent routine supports stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep patterns",
+        "Avoid stimulants, especially in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow, controlled breathing"
+      ],
+
+      "reassurance": "Calmness and consistency support overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent rest and reduced stress support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain fixed sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in simple mindfulness activities",
+        "Reduce overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency in rest helps maintain stability."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, prioritizing rest and emotional balance becomes increasingly important.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep routine",
+      "Incorporate daily relaxation or breathing exercises",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Simple, steady routines support both comfort and balance."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "week": 9,
+  "section": "safety_awareness",
+
+  "title": "Gradual Ease",
+  "subtitle": "Adapting to a more stable routine",
+
+  "description": "At this stage, some symptoms like nausea may begin to ease slightly, while fatigue can still persist. Maintaining a balanced routine with mindful movement, hydration, and adequate rest continues to support comfort and safety.",
+
+  "what_to_expect": [
+    "Nausea may begin to reduce in intensity for some individuals",
+    "Fatigue may still be present but slightly more manageable",
+    "Improved ability to identify and manage personal triggers"
+  ],
+
+  "daily_safety_tips": [
+    "Continue pacing your daily activities and avoid overexertion",
+    "Maintain hydration and regular light meals",
+    "Resume tasks gradually while observing your comfort levels"
+  ],
+
+  "movement_guidelines": [
+    "Engage in gentle movement such as walking at a comfortable pace",
+    "Avoid sudden increases in physical activity or intensity",
+    "Balance activity with regular rest breaks"
+  ],
+
+  "environmental_awareness": [
+    "Continue avoiding strong odors, smoke, and chemical exposure",
+    "Stay in clean, ventilated, and calm environments",
+    "Be mindful of surroundings that may still trigger discomfort"
+  ],
+
+  "travel_safety": [
+    "Gradually resume necessary travel with caution",
+    "Use seatbelts properly and maintain a comfortable sitting posture",
+    "Take breaks to move during longer travel periods"
+  ],
+
+  "important_note": "Even as symptoms ease, maintaining consistency and caution remains important.",
+  "reassurance": "A steady and balanced approach can help you feel more in control and comfortable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent meals, hydration, and gentle activity continue to support stable blood sugar levels as symptoms begin to stabilize.",
+
+      "movement_guidelines": [
+        "Continue light movement such as walking after meals",
+        "Maintain regular meal timing and avoid skipping meals",
+        "Monitor your body's response to changes in routine"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or fluctuations in energy levels.",
+
+      "reassurance": "Consistency in habits supports ongoing stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Energy levels may slightly improve, but careful pacing is still necessary.",
+
+      "movement_guidelines": [
+        "Gradually increase activity only if comfortable",
+        "Continue taking rest breaks and avoid overexertion"
+      ],
+
+      "safety_focus": "Watch for signs of fatigue, dizziness, or breathlessness.",
+
+      "reassurance": "Steady pacing supports better energy management."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm and structured routine remains important for stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically intense situations",
+        "Engage in slow, controlled, and consistent movement"
+      ],
+
+      "safety_focus": "Stay mindful of stress levels and environmental triggers.",
+
+      "reassurance": "A calm and balanced routine continues to support well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity help maintain metabolic balance as symptoms stabilize.",
+
+      "movement_guidelines": [
+        "Maintain a steady activity pattern",
+        "Avoid sudden changes in energy expenditure"
+      ],
+
+      "safety_focus": "Be mindful of fatigue or unusual energy fluctuations.",
+
+      "reassurance": "Consistency helps support ongoing balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining a steady, consistent routine with gradual adjustments remains essential.",
+
+    "priority_guidelines": [
+      "Avoid sudden increases in physical activity",
+      "Maintain gentle and consistent daily movement",
+      "Continue hydration and regular rest breaks"
+    ],
+
+    "reassurance": "Balanced routines and gradual adjustments support overall safety and comfort."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "week": 5,
+  "section": "rest_mindfulness",
+
+  "title": "Deep Rest",
+  "subtitle": "Allowing your body to slow down",
+
+  "description": "At this stage, fatigue and nausea may become more consistent, making rest a central part of your daily routine. Allowing flexibility in sleep and incorporating calming practices can help support both physical recovery and emotional stability.",
+
+  "what_to_expect": [
+    "More noticeable fatigue throughout the day",
+    "Nausea or discomfort affecting rest and sleep",
+    "Greater emotional sensitivity or need for reassurance"
+  ],
+
+  "rest_practices": [
+    "Aim for adequate sleep while allowing flexibility based on comfort",
+    "Take short naps or rest breaks during the day as needed",
+    "Create a calm and comfortable resting space"
+  ],
+
+  "mindfulness_practices": [
+    "Practice gentle breathing or relaxation exercises daily",
+    "Engage in soothing activities like listening to music or quiet reading",
+    "Reduce stimulation and screen exposure before bedtime"
+  ],
+
+  "emotional_wellbeing": [
+    "Be patient with yourself and allow extra time for rest",
+    "Seek reassurance and support when needed",
+    "Avoid overwhelming or stressful environments"
+  ],
+
+  "important_note": "Flexible rest and gentle routines can help manage fatigue and early symptoms effectively.",
+  "reassurance": "Your body is adjusting, and giving it rest is a meaningful form of care.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Balancing rest with consistent meals can help support stable blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal timing as much as possible",
+        "Avoid long gaps between meals, even during fatigue",
+        "Adjust activity levels based on energy"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to reduce stress-related fluctuations",
+        "Use breathing exercises before sleep"
+      ],
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Increased fatigue may require more frequent and longer rest periods.",
+
+      "rest_practices": [
+        "Take frequent rest breaks or naps during the day",
+        "Avoid prolonged or physically tiring activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming activities to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest supports your energy and overall comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "A calm and flexible routine supports stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule where possible",
+        "Avoid stimulants like caffeine, especially in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calmness and routine help maintain balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent rest and reduced stress support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep timing as much as possible",
+        "Avoid irregular or disrupted sleep patterns"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency in rest supports overall stability."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, prioritizing flexible rest and emotional calmness becomes essential.",
+
+    "priority_practices": [
+      "Follow a flexible but consistent sleep routine",
+      "Incorporate daily relaxation practices",
+      "Avoid physical or emotional overexertion"
+    ],
+
+    "reassurance": "Gentle routines and adequate rest support both comfort and balance."
+  }
+}

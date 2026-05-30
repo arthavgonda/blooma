@@ -1,0 +1,114 @@
+{
+  "week": 27,
+  "section": "safety_awareness",
+
+  "title": "Rest and Alignment",
+  "subtitle": "Supporting comfort through positioning",
+
+  "description": "As your body continues to adapt, you may notice swelling in the feet or legs and increased fatigue. Paying attention to rest positions, maintaining alignment, and managing activity levels can help improve comfort and reduce strain.",
+
+  "what_to_expect": [
+    "Mild swelling in feet, ankles, or legs",
+    "Increased fatigue, especially later in the day",
+    "Greater importance of comfortable rest and sleep positions"
+  ],
+
+  "daily_safety_tips": [
+    "Elevate your legs during rest to reduce swelling",
+    "Avoid prolonged standing or sitting without movement",
+    "Use supportive pillows or cushions for better rest positioning"
+  ],
+
+  "movement_guidelines": [
+    "Engage in gentle movement such as short walks",
+    "Avoid prolonged inactivity or overexertion",
+    "Take breaks and adjust positions regularly"
+  ],
+
+  "environmental_awareness": [
+    "Ensure your surroundings support safe and easy movement",
+    "Be cautious on slippery or uneven surfaces",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Avoid long travel without breaks for movement",
+    "Elevate legs slightly when possible during travel",
+    "Use proper support for back and legs while sitting"
+  ],
+
+  "important_note": "Proper rest positioning and circulation support can help reduce swelling and fatigue.",
+  "reassurance": "With mindful positioning and gentle movement, you can stay more comfortable.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining regular movement and balanced routines supports stable blood sugar and circulation.",
+
+      "movement_guidelines": [
+        "Engage in gentle activity such as walking after meals",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to fatigue and swelling"
+      ],
+
+      "safety_focus": "Watch for fatigue, dizziness, or changes in energy levels affecting movement.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue and swelling may require additional rest and slower pacing.",
+
+      "movement_guidelines": [
+        "Avoid overexertion and take frequent rest breaks",
+        "Move slowly and avoid prolonged standing"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and gentle pacing help maintain comfort and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Managing swelling and maintaining calm routines supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding activities",
+        "Engage in slow and controlled movements"
+      ],
+
+      "safety_focus": "Be mindful of swelling, stress levels, and physical strain.",
+
+      "reassurance": "A calm and steady approach supports overall well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity support metabolic balance during this stage.",
+
+      "movement_guidelines": [
+        "Maintain a steady and moderate activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, supporting circulation, maintaining proper positioning, and prioritizing rest becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid prolonged standing or inactivity",
+      "Maintain gentle and consistent daily movement",
+      "Elevate legs and take frequent rest breaks"
+    ],
+
+    "reassurance": "Balanced rest and movement support overall comfort and safety."
+  }
+}

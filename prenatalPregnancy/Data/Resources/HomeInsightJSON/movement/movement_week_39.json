@@ -1,0 +1,114 @@
+{
+  "week": 39,
+  "section": "safety_awareness",
+
+  "title": "Imminent Readiness",
+  "subtitle": "Staying alert and prepared at all times",
+
+  "description": "At this stage, labor may begin at any time. Staying alert to body signals, minimizing movement, and being fully prepared for immediate action can help ensure safety and comfort.",
+
+  "what_to_expect": [
+    "Strong signs of labor such as regular tightening or pressure",
+    "Heightened awareness of body signals and changes",
+    "Need for immediate readiness and quick response"
+  ],
+
+  "daily_safety_tips": [
+    "Keep emergency contacts, essentials, and documents ready",
+    "Stay close to accessible healthcare facilities",
+    "Avoid unnecessary physical effort or movement"
+  ],
+
+  "movement_guidelines": [
+    "Limit movement to essential and gentle activity only",
+    "Avoid any activity that causes discomfort or fatigue",
+    "Use assistance or support for all movement"
+  ],
+
+  "environmental_awareness": [
+    "Ensure surroundings are calm, safe, and easily accessible",
+    "Keep pathways clear for quick and safe movement",
+    "Continue avoiding exposure to harmful chemicals or smoke"
+  ],
+
+  "travel_safety": [
+    "Avoid travel unless absolutely necessary",
+    "Stay within immediate reach of healthcare support",
+    "Ensure maximum comfort and support if travel is unavoidable"
+  ],
+
+  "important_note": "Being fully prepared and attentive to your body is critical at this stage.",
+  "reassurance": "With readiness and support, you can approach this phase with confidence and care.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining consistent meals and minimal movement supports stable blood sugar levels during this phase.",
+
+      "movement_guidelines": [
+        "Engage in minimal gentle movement when comfortable",
+        "Maintain consistent meal timing and hydration",
+        "Monitor your body's response to reduced activity"
+      ],
+
+      "safety_focus": "Watch for fatigue, dizziness, or changes in energy levels.",
+
+      "reassurance": "Balanced routines support stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may be high, requiring maximum rest and minimal exertion.",
+
+      "movement_guidelines": [
+        "Limit activity strictly to essential tasks",
+        "Take frequent and extended rest periods"
+      ],
+
+      "safety_focus": "Be aware of dizziness, weakness, or breathlessness.",
+
+      "reassurance": "Rest and minimal effort help maintain comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm, low-stress environment supports stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful or physically demanding situations",
+        "Engage in minimal and controlled movement"
+      ],
+
+      "safety_focus": "Be mindful of stress levels and physical strain.",
+
+      "reassurance": "A calm and steady approach supports well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and minimal activity support metabolic balance during final stages.",
+
+      "movement_guidelines": [
+        "Maintain a steady and minimal activity pattern",
+        "Avoid sudden increases in exertion"
+      ],
+
+      "safety_focus": "Be aware of unusual fatigue or energy fluctuations.",
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining full readiness, minimizing movement, and prioritizing rest is critical.",
+
+    "priority_guidelines": [
+      "Avoid unnecessary physical effort or strain",
+      "Maintain minimal and essential movement only",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Careful rest and awareness support comfort and safety."
+  }
+}

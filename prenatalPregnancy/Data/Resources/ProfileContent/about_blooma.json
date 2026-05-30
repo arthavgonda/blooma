@@ -1,0 +1,186 @@
+{
+  "about_blooma": {
+    "title": "About Blooma",
+    "subtitle": "Supporting safer prenatal wellness with care, structure, and trust",
+    "sections": [
+      {
+        "id": "about_us",
+        "title": "About Us",
+        "content": {
+          "hero_title": "A Prenatal Wellness Support Platform",
+          "hero_subtitle": "Designed to make pregnancy fitness feel safer, calmer, and easier to understand",
+          "intro_blocks": [
+            {
+              "label": "WHO WE ARE",
+              "heading": "A Structured Approach to Prenatal Wellness",
+              "paragraphs": [
+                "Blooma is a prenatal wellness application created to support pregnant women through structured exercise, yoga, and walking guidance.",
+                "Our goal is to make pregnancy fitness feel safer, calmer, and easier to understand by presenting activities in a clear and supportive way.",
+                "Blooma is designed for women who want a more organized approach to prenatal movement, daily wellness, and activity awareness during pregnancy."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "figure.walk",
+              "title": "Movement Support",
+              "description": "Structured exercise, yoga, and walking guidance designed for pregnancy."
+            },
+            {
+              "icon": "square.grid.2x2",
+              "title": "Organized Experience",
+              "description": "Activities are presented in a clear, structured, and easy-to-follow format."
+            },
+            {
+              "icon": "heart",
+              "title": "Supportive Design",
+              "description": "A calm and reassuring experience built around maternal wellness."
+            }
+          ]
+        }
+      },
+      {
+        "id": "mission",
+        "title": "Our Mission",
+        "content": {
+          "hero_title": "Making Prenatal Fitness More Supportive",
+          "hero_subtitle": "Helping women feel confident and guided throughout their journey",
+          "intro_blocks": [
+            {
+              "label": "OUR MISSION",
+              "heading": "Supporting Confidence and Awareness",
+              "paragraphs": [
+                "Our mission is to help pregnant women feel more confident and supported in their wellness journey.",
+                "We aim to present prenatal fitness content in a structured way that considers pregnancy stage, comfort, and safer activity selection.",
+                "Blooma is built to encourage consistency, awareness, and gentle progress through meaningful wellness support."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "sparkles",
+              "title": "Guided Confidence",
+              "description": "Helping users feel more confident in their prenatal wellness journey."
+            },
+            {
+              "icon": "calendar",
+              "title": "Stage-Aware Support",
+              "description": "Content adapts based on pregnancy stage and comfort."
+            },
+            {
+              "icon": "leaf",
+              "title": "Gentle Progress",
+              "description": "Encouraging safe, gradual, and consistent movement."
+            }
+          ]
+        }
+      },
+      {
+        "id": "what_we_offer",
+        "title": "What Blooma Offers",
+        "content": {
+          "hero_title": "Guidance Designed Around Pregnancy",
+          "hero_subtitle": "A connected and structured wellness experience",
+          "intro_blocks": [
+            {
+              "label": "WHAT BLOOMA OFFERS",
+              "heading": "All-in-One Prenatal Wellness Support",
+              "paragraphs": [
+                "Blooma brings together prenatal exercise, yoga, and walking support inside one experience.",
+                "The app is designed to help users explore guided activities, stay connected to their routine, and build a healthier relationship with movement during pregnancy.",
+                "We focus on clarity, simplicity, and a calm user experience so that wellness support feels approachable and reassuring."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "figure.cooldown",
+              "title": "Guided Activities",
+              "description": "Explore structured exercise, yoga, and walking routines."
+            },
+            {
+              "icon": "clock",
+              "title": "Routine Support",
+              "description": "Stay consistent with daily wellness routines."
+            },
+            {
+              "icon": "brain.head.profile",
+              "title": "Mindful Experience",
+              "description": "Build a healthier and more aware connection with movement."
+            }
+          ]
+        }
+      },
+      {
+        "id": "vision",
+        "title": "Our Vision",
+        "content": {
+          "hero_title": "A Trusted Companion for Maternal Wellness",
+          "hero_subtitle": "Designed to support women through every stage of pregnancy",
+          "intro_blocks": [
+            {
+              "label": "OUR VISION",
+              "heading": "A Thoughtful and Supportive Experience",
+              "paragraphs": [
+                "We believe prenatal wellness tools should feel safe, thoughtful, and emotionally supportive.",
+                "Blooma aims to become a trusted digital companion for women navigating fitness and self-care during pregnancy."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "shield",
+              "title": "Safe & Thoughtful",
+              "description": "Designed with safety and emotional support in mind."
+            },
+            {
+              "icon": "person.2",
+              "title": "Trusted Companion",
+              "description": "Supporting women throughout their pregnancy journey."
+            }
+          ]
+        }
+      },
+      {
+        "id": "technology",
+        "title": "Technology",
+        "content": {
+          "hero_title": "Built on Reliable Technology",
+          "hero_subtitle": "Supporting a smooth and connected experience",
+          "intro_blocks": [
+            {
+              "label": "TECHNOLOGY FOUNDATION",
+              "heading": "A Strong and Modern Stack",
+              "paragraphs": [
+                "Blooma is developed using modern iOS frameworks that support performance, reliability, secure health integration, and real-time responsiveness.",
+                "These technologies help deliver guided sessions, local data continuity, and a seamless wellness experience across the app."
+              ]
+            }
+          ],
+          "items": [
+            {
+              "icon": "bolt.horizontal",
+              "title": "Real-Time Updates",
+              "description": "Dynamic UI updates and smooth data flow across the app."
+            },
+            {
+              "icon": "internaldrive",
+              "title": "Local Storage",
+              "description": "Data persistence for continuity and offline support."
+            },
+            {
+              "icon": "play.rectangle",
+              "title": "Guided Media",
+              "description": "In-app video support for exercise and yoga sessions."
+            },
+            {
+              "icon": "heart.circle",
+              "title": "Health Integration",
+              "description": "Secure connection with Apple Health and Apple Watch."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

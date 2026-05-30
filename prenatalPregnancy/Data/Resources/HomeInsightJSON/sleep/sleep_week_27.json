@@ -1,0 +1,120 @@
+{
+  "week": 27,
+  "section": "rest_mindfulness",
+
+  "title": "Recovery Focus",
+  "subtitle": "Preparing for deeper rest needs",
+
+  "description": "As you approach the end of the second trimester, your body may begin to require deeper rest and more intentional recovery. Prioritizing rest quality, supportive positioning, and structured relaxation can help maintain comfort and prepare you for the next phase.",
+
+  "what_to_expect": [
+    "More noticeable fatigue after daily activities",
+    "Increased need for recovery and rest planning",
+    "Greater importance of comfortable sleep positioning"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Plan rest periods throughout the day",
+    "Use supportive pillows to enhance comfort and alignment"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities like reading or soft music",
+    "Set aside dedicated time for uninterrupted relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Acknowledge increasing physical demands with patience",
+    "Maintain a calm and reassuring environment",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Planning rest and focusing on recovery can help ease the transition into the next phase.",
+  "reassurance": "With thoughtful rest and care, you can continue to feel supported and balanced.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent routines and planned rest support stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Plan rest breaks to prevent fatigue",
+        "Monitor your body's response to activity"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may increase, requiring structured rest and careful pacing.",
+
+      "rest_practices": [
+        "Take frequent and planned rest breaks",
+        "Avoid prolonged or physically demanding activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest and planning help support your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and planned rest support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and proper rest support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, planning rest and prioritizing recovery becomes increasingly important.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Plan regular rest periods to support recovery"
+    ],
+
+    "reassurance": "Structured rest and recovery support comfort and balance."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "week": 36,
+  "section": "rest_mindfulness",
+
+  "title": "Calm Readiness",
+  "subtitle": "Resting with awareness and ease",
+
+  "description": "As you approach the final stage, your body may require more rest and your awareness of physical changes may increase. Prioritizing calmness, supportive rest, and gentle routines can help you feel more prepared and comfortable.",
+
+  "what_to_expect": [
+    "High dependency on rest and recovery",
+    "Frequent sleep interruptions or discomfort",
+    "Heightened awareness of body changes"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Take frequent and extended rest breaks",
+    "Use maximum support for comfortable rest positioning"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities like soft music or quiet reading",
+    "Create a calm and quiet space for relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Stay calm and patient with changing needs",
+    "Focus on reassurance and emotional support",
+    "Stay connected with supportive individuals"
+  ],
+
+  "important_note": "Calmness and adequate rest can help you feel more prepared during this stage.",
+  "reassurance": "With rest and awareness, you can approach this phase with confidence and ease.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent routines and adequate rest support stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Take rest breaks to manage fatigue",
+        "Monitor your body's response to reduced energy"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may be high, requiring maximum rest and minimal exertion.",
+
+      "rest_practices": [
+        "Take frequent and extended rest breaks",
+        "Avoid prolonged or physically demanding activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and adequate rest support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and proper rest support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, prioritizing calmness, rest, and recovery becomes critical.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Take frequent and extended rest breaks"
+    ],
+
+    "reassurance": "Supportive routines help maintain comfort and emotional balance."
+  }
+}

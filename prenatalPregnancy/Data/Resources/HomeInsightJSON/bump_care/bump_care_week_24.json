@@ -1,0 +1,114 @@
+{
+  "week": 24,
+  "section": "bump_care",
+
+  "title": "Viability Milestone",
+  "subtitle": "A stage of significant development",
+
+  "description": "By week 24, your baby has reached an important milestone where survival outside the womb becomes possible with medical support. Growth continues steadily, and organs like the lungs are developing further.",
+
+  "what_to_expect": [
+    "Fetal movements are strong and clearly noticeable",
+    "Lung development continues, though still maturing",
+    "You may feel regular patterns of activity and rest"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow a consistent routine",
+    "Practice light exercise and maintain proper posture"
+  ],
+
+  "medical_checkups": {
+    "note": "This stage includes important screening and monitoring.",
+    "commonly_suggested": [
+      {
+        "name": "Glucose Tolerance Test (GTT)",
+        "purpose": "Screens for gestational diabetes"
+      },
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Monitors maternal health and fetal growth"
+      }
+    ],
+    "guidance": "Your doctor may schedule glucose testing around this time to assess blood sugar levels."
+  },
+
+  "important_note": "Reaching this stage is a significant milestone in your pregnancy journey.",
+  "reassurance": "Your baby is developing steadily, and each week brings more strength and growth.",
+
+  "medical_disclaimer": "Always follow your healthcare provider’s guidance for tests and care.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Blood sugar management is especially important during glucose screening and ongoing development.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Glucose levels may be evaluated through the glucose tolerance test.",
+
+      "reassurance": "Consistent management supports a healthy pregnancy."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support oxygen supply as your baby continues to grow.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during this stage of development.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support ongoing growth and metabolic function.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "At this important milestone, managing multiple conditions requires consistent and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice closely",
+      "Maintain a balanced and regular lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports continued healthy development."
+  }
+}

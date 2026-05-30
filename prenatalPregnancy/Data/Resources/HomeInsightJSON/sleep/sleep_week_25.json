@@ -1,0 +1,120 @@
+{
+  "week": 25,
+  "section": "rest_mindfulness",
+
+  "title": "Supported Rest",
+  "subtitle": "Relying on comfort and recovery",
+
+  "description": "As physical strain gradually increases, your body may require more frequent rest and stronger support during sleep. Focusing on recovery cycles, comfortable positioning, and calming routines can help maintain balance and ease.",
+
+  "what_to_expect": [
+    "Increased physical strain during daily activities",
+    "More frequent need for rest and recovery",
+    "Greater dependence on comfortable sleep positioning"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Take frequent rest breaks throughout the day",
+    "Use supportive pillows to improve comfort and alignment"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities like reading or soft music",
+    "Allow quiet time for uninterrupted relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Be patient with increasing physical demands",
+    "Maintain a calm and supportive environment",
+    "Stay connected with reassuring individuals"
+  ],
+
+  "important_note": "Supportive rest and regular recovery can help reduce strain and maintain comfort.",
+  "reassurance": "With proper support and rest, your body can continue to adapt smoothly.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent routines and adequate rest support stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Take rest breaks to prevent fatigue",
+        "Monitor your body's response to activity"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may increase, requiring more frequent rest and careful pacing.",
+
+      "rest_practices": [
+        "Take frequent rest breaks during the day",
+        "Avoid prolonged or physically demanding activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest supports your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and proper rest support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and proper rest support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, focusing on supportive rest and regular recovery becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Take frequent rest breaks to support recovery"
+    ],
+
+    "reassurance": "Supportive routines help maintain comfort and balance."
+  }
+}

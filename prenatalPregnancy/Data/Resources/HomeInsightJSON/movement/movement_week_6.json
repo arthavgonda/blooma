@@ -1,0 +1,114 @@
+{
+  "week": 6,
+  "section": "safety_awareness",
+
+  "title": "Careful Rhythm",
+  "subtitle": "Balancing rest and daily activity",
+
+  "description": "At this stage, symptoms like nausea, fatigue, and sensitivity to smells may become more pronounced. Establishing a balanced daily rhythm with planned rest, hydration, and gentle movement can help you manage discomfort more effectively.",
+
+  "what_to_expect": [
+    "Nausea may become more frequent or occur at different times of the day",
+    "Fatigue can increase, requiring more frequent rest",
+    "Heightened sensitivity to smells, heat, or crowded environments"
+  ],
+
+  "daily_safety_tips": [
+    "Get up slowly from lying or sitting positions to avoid dizziness",
+    "Keep yourself hydrated with small, frequent sips of fluids",
+    "Plan short rest periods throughout the day to manage fatigue"
+  ],
+
+  "movement_guidelines": [
+    "Continue gentle activities such as slow walking or light household tasks",
+    "Avoid long periods of standing or physically exhausting activities",
+    "Take immediate rest if you feel dizzy, nauseous, or unusually tired"
+  ],
+
+  "environmental_awareness": [
+    "Avoid strong odors, chemicals, smoke, or poorly ventilated areas",
+    "Stay in cool and well-ventilated environments",
+    "Be cautious in crowded, hot, or noisy surroundings that may trigger discomfort"
+  ],
+
+  "travel_safety": [
+    "Limit long or uncomfortable travel, especially during nausea episodes",
+    "Use seatbelts correctly and ensure a relaxed sitting posture",
+    "Take frequent breaks to stretch and move during longer journeys"
+  ],
+
+  "important_note": "Creating a steady balance between activity and rest can help manage increasing symptoms.",
+  "reassurance": "A gentle and structured routine can support comfort and stability during this phase.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before starting or modifying any physical activity.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining regular meals, hydration, and light activity can help support stable blood sugar levels during increased nausea.",
+
+      "movement_guidelines": [
+        "Engage in light movement such as short walks when comfortable",
+        "Avoid skipping meals, even during nausea",
+        "Monitor energy levels and adjust activity accordingly"
+      ],
+
+      "safety_focus": "Watch for dizziness, sweating, or weakness, especially if food intake is reduced.",
+
+      "reassurance": "Consistent meals and gentle activity can help maintain balance."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue and weakness may increase, requiring extra care and frequent rest.",
+
+      "movement_guidelines": [
+        "Avoid physically tiring tasks and take frequent breaks",
+        "Move slowly and avoid sudden position changes"
+      ],
+
+      "safety_focus": "Be alert to dizziness, breathlessness, or excessive fatigue.",
+
+      "reassurance": "Rest and gentle pacing help support your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Maintaining a calm and low-stress routine is important for stable blood pressure.",
+
+      "movement_guidelines": [
+        "Avoid stressful situations and physically demanding activities",
+        "Engage in slow, relaxed, and controlled movements"
+      ],
+
+      "safety_focus": "Stay away from environments that may increase stress or discomfort.",
+
+      "reassurance": "A calm and steady approach supports overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and moderate activity help maintain metabolic balance during this phase.",
+
+      "movement_guidelines": [
+        "Maintain a steady and predictable activity pattern",
+        "Avoid extremes of inactivity or overexertion"
+      ],
+
+      "safety_focus": "Be mindful of unusual fatigue, restlessness, or energy changes.",
+
+      "reassurance": "Balanced routines support overall well-being."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, maintaining a structured routine with hydration, rest, and gentle movement becomes essential.",
+
+    "priority_guidelines": [
+      "Avoid strenuous or physically exhausting activities",
+      "Maintain slow and consistent daily movement",
+      "Take frequent rest breaks and stay hydrated"
+    ],
+
+    "reassurance": "Careful pacing and routine help support comfort and safety."
+  }
+}

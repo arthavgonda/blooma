@@ -1,0 +1,114 @@
+{
+  "week": 23,
+  "section": "bump_care",
+
+  "title": "Building Strength",
+  "subtitle": "Growth and responsiveness increase",
+
+  "description": "By week 23, your baby continues to gain strength and responsiveness. Movements may feel stronger, and your baby may respond to sounds or touch from outside.",
+
+  "what_to_expect": [
+    "Fetal movements become stronger and more responsive",
+    "Baby may react to sounds or external touch",
+    "You may feel more consistent movement patterns"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutrient-rich diet",
+    "Stay hydrated and follow regular routines",
+    "Engage in light exercise and maintain proper posture"
+  ],
+
+  "medical_checkups": {
+    "note": "Monitoring continues as growth and responsiveness increase.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Prenatal Checkup",
+        "purpose": "Tracks fetal growth and maternal health"
+      },
+      {
+        "name": "Glucose Screening Test (if scheduled)",
+        "purpose": "Checks for gestational diabetes"
+      }
+    ],
+    "guidance": "Your doctor may schedule glucose screening around this period based on your risk factors."
+  },
+
+  "important_note": "Increased responsiveness is a positive sign of neurological development.",
+  "reassurance": "Your baby’s reactions and movements show steady and healthy progress.",
+
+  "medical_disclaimer": "Follow your healthcare provider’s advice for all scheduled tests and monitoring.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Blood sugar control becomes especially important as screening for gestational diabetes may occur.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar foods"
+      ],
+
+      "medical_focus": "Glucose levels may be evaluated through screening tests.",
+
+      "reassurance": "Careful monitoring helps ensure a healthy progression."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron supports oxygen supply during increased growth and responsiveness.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for better absorption",
+        "Follow supplement advice if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Supporting your nutrition helps maintain your energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports proper circulation during this stage of growth.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice relaxation techniques",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and steady routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support continued neurological and physical development.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As responsiveness increases, managing multiple conditions requires steady and mindful care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Small, consistent efforts support healthy development."
+  }
+}

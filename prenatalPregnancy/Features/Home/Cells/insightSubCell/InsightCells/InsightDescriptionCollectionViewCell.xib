@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="24765" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24743"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="InsightDescriptionCollectionViewCell" customModule="prenatalPregnancy" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="765" height="157"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="765" height="157"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8Cy-Ic-Vo8">
+                        <rect key="frame" x="0.0" y="0.0" width="765" height="157"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mzG-dV-VeU">
+                                <rect key="frame" x="8" y="68.333333333333329" width="749" height="20.333333333333329"/>
+                                <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="mzG-dV-VeU" firstAttribute="leading" secondItem="8Cy-Ic-Vo8" secondAttribute="leading" constant="8" id="IdJ-A1-l3P"/>
+                            <constraint firstItem="mzG-dV-VeU" firstAttribute="centerY" secondItem="8Cy-Ic-Vo8" secondAttribute="centerY" id="cAd-ZI-bpy"/>
+                            <constraint firstAttribute="trailing" secondItem="mzG-dV-VeU" secondAttribute="trailing" constant="8" id="sRl-HP-b5Y"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="8Cy-Ic-Vo8" secondAttribute="bottom" id="Ewq-Nx-DY0"/>
+                <constraint firstItem="8Cy-Ic-Vo8" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="nvM-nu-9uL"/>
+                <constraint firstItem="8Cy-Ic-Vo8" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="rzB-1S-5p6"/>
+                <constraint firstAttribute="trailing" secondItem="8Cy-Ic-Vo8" secondAttribute="trailing" id="yAL-0n-GwI"/>
+            </constraints>
+            <size key="customSize" width="765" height="157"/>
+            <connections>
+                <outlet property="container" destination="8Cy-Ic-Vo8" id="mD3-Mv-9mb"/>
+                <outlet property="content" destination="mzG-dV-VeU" id="ByG-ia-Xyl"/>
+            </connections>
+            <point key="canvasLocation" x="-406.87022900763355" y="191.19718309859155"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

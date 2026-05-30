@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="24506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionReusableView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="U6b-Vx-4bR" customClass="RoutineFooterCollectionReusableView" customModule="prenatalPregnancy" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="578" height="200"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GtU-Yk-CJs">
+                    <rect key="frame" x="16" y="11.999999999999998" width="546" height="19.333333333333329"/>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="16"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RtN-cj-3t4">
+                    <rect key="frame" x="16" y="43.333333333333336" width="546" height="15.666666666666664"/>
+                    <fontDescription key="fontDescription" style="UICTFontTextStyleFootnote"/>
+                    <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="VXr-Tz-HHm"/>
+            <constraints>
+                <constraint firstItem="GtU-Yk-CJs" firstAttribute="leading" secondItem="U6b-Vx-4bR" secondAttribute="leading" constant="16" id="J9v-AE-Bkj"/>
+                <constraint firstItem="GtU-Yk-CJs" firstAttribute="top" secondItem="U6b-Vx-4bR" secondAttribute="top" constant="12" id="O27-1T-goT"/>
+                <constraint firstAttribute="trailing" secondItem="GtU-Yk-CJs" secondAttribute="trailing" constant="16" id="Z8a-hM-L7W"/>
+                <constraint firstItem="RtN-cj-3t4" firstAttribute="top" secondItem="GtU-Yk-CJs" secondAttribute="bottom" constant="12" id="rg6-9C-AOn"/>
+                <constraint firstItem="RtN-cj-3t4" firstAttribute="leading" secondItem="VXr-Tz-HHm" secondAttribute="leading" constant="16" id="tKc-hy-aEJ"/>
+                <constraint firstItem="VXr-Tz-HHm" firstAttribute="trailing" secondItem="RtN-cj-3t4" secondAttribute="trailing" constant="16" id="z1h-ut-3tS"/>
+            </constraints>
+            <connections>
+                <outlet property="disclaimerBodyLabel" destination="RtN-cj-3t4" id="bDp-QZ-arG"/>
+                <outlet property="disclaimerTitleLabel" destination="GtU-Yk-CJs" id="MzD-Au-FAo"/>
+            </connections>
+            <point key="canvasLocation" x="335.87786259541986" y="206.33802816901411"/>
+        </collectionReusableView>
+    </objects>
+</document>

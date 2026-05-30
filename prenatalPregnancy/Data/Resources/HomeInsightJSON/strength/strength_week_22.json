@@ -1,0 +1,152 @@
+{
+  "week": 22,
+  "section": "strength_from_within",
+
+  "title": "Steady Fuel",
+  "subtitle": "Meeting growing energy needs",
+
+  "description": "As your body’s nutritional needs continue to rise, you may feel hungry more often. Including balanced meals along with healthy snacks and distributing protein throughout the day can help maintain steady energy and comfort.",
+
+  "what_to_expect": [
+    "More frequent hunger signals",
+    "Need for additional snacks between meals",
+    "Higher demand for sustained energy"
+  ],
+
+  "nutrition_focus": [
+    "Include healthy snacks between meals",
+    "Distribute protein intake across the day",
+    "Focus on sustained and balanced energy intake"
+  ],
+
+  "recommended_foods": [
+    "Balanced meals like dal, roti, rice, sabzi, and salad",
+    "Fruits like banana, apple, orange, guava, and pomegranate",
+    "Vegetables including spinach, beetroot, carrots, beans, and broccoli",
+    "Snacks like nuts, roasted chana, fruit bowls, or curd",
+    "Protein sources like milk, paneer, lentils, eggs, or chicken (if preferred)"
+  ],
+
+  "foods_to_limit": [
+    "Excessively oily or fried foods",
+    "Highly processed snacks",
+    "Skipping meals or ignoring hunger signals"
+  ],
+
+  "hydration": [
+    "Drink water regularly throughout the day",
+    "Include fluids like buttermilk, coconut water, or lemon water"
+  ],
+
+  "reassurance": "Eating at regular intervals helps maintain steady energy and supports your body's needs.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Frequent and balanced meals with snacks help maintain stable blood sugar levels.",
+
+      "nutrition_focus": [
+        "Eat small, frequent meals and snacks",
+        "Balance carbohydrates with protein and fiber",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Whole grains like oats and brown rice",
+        "High-fiber vegetables",
+        "Protein-rich foods like lentils, paneer, and nuts"
+      ],
+
+      "foods_to_limit": [
+        "Sugary snacks and drinks",
+        "Refined carbohydrates",
+        "Large or irregular meals"
+      ],
+
+      "reassurance": "Regular meals and snacks support steady energy."
+    },
+
+    "anemia": {
+      "personalized_description": "Including iron-rich foods along with regular snacks supports energy levels.",
+
+      "nutrition_focus": [
+        "Include iron-rich foods daily",
+        "Pair meals with vitamin C sources",
+        "Avoid long gaps between meals"
+      ],
+
+      "recommended_foods": [
+        "Spinach and leafy greens",
+        "Beetroot and pomegranate",
+        "Lentils and jaggery (in moderation)"
+      ],
+
+      "foods_to_limit": [
+        "Tea or coffee immediately after meals",
+        "Low-nutrition processed foods"
+      ],
+
+      "reassurance": "Regular nourishment helps support your energy and strength."
+    },
+
+    "hypertension": {
+      "personalized_description": "Balanced meals and snacks with controlled salt intake support stable blood pressure.",
+
+      "nutrition_focus": [
+        "Keep meals balanced and moderate in salt",
+        "Include healthy snacks",
+        "Maintain regular meal timing"
+      ],
+
+      "recommended_foods": [
+        "Fresh fruits and vegetables",
+        "Whole grains",
+        "Low-fat dairy options"
+      ],
+
+      "foods_to_limit": [
+        "Salty snacks and packaged foods",
+        "Pickles and heavily processed items"
+      ],
+
+      "reassurance": "Balanced meals and snacks support a calm routine."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent meals and snacks support metabolic balance and energy levels.",
+
+      "nutrition_focus": [
+        "Maintain regular eating intervals",
+        "Include balanced meals and snacks",
+        "Avoid irregular eating habits"
+      ],
+
+      "recommended_foods": [
+        "Whole grains",
+        "Dairy products",
+        "Nuts and seeds"
+      ],
+
+      "foods_to_limit": [
+        "Highly processed foods",
+        "Skipping meals"
+      ],
+
+      "reassurance": "Consistency in meals supports your body's rhythm."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, regular meals with healthy snacks help maintain energy and stability.",
+
+    "priority_nutrition": [
+      "Maintain regular meal and snack timings",
+      "Include balanced and nutrient-rich foods",
+      "Avoid long gaps between meals"
+    ],
+
+    "reassurance": "Steady and frequent nourishment supports your overall well-being."
+  }
+}

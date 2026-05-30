@@ -1,0 +1,120 @@
+{
+  "week": 28,
+  "section": "rest_mindfulness",
+
+  "title": "Renewed Rest Needs",
+  "subtitle": "Adapting to changing comfort levels",
+
+  "description": "As you enter the third trimester, fatigue may return and sleep may become less comfortable. Adapting your rest routine with supportive positioning and regular recovery can help maintain comfort and emotional balance.",
+
+  "what_to_expect": [
+    "Return of noticeable fatigue during the day",
+    "Increased discomfort during sleep or rest",
+    "Greater need for structured rest and recovery"
+  ],
+
+  "rest_practices": [
+    "Maintain a consistent sleep and wake schedule",
+    "Take frequent rest breaks throughout the day",
+    "Use supportive pillows for side sleeping and alignment"
+  ],
+
+  "mindfulness_practices": [
+    "Practice deep breathing or guided relaxation daily",
+    "Engage in calming activities like reading or soft music",
+    "Allow time for quiet and uninterrupted relaxation"
+  ],
+
+  "emotional_wellbeing": [
+    "Be patient with returning fatigue and discomfort",
+    "Maintain a calm and supportive environment",
+    "Stay connected with reassuring individuals"
+  ],
+
+  "important_note": "Adapting rest routines and focusing on comfort can help manage this transition phase.",
+  "reassurance": "With proper support and rest, you can continue to feel balanced and cared for.",
+
+  "medical_disclaimer": "Consult a qualified healthcare professional before making significant changes to your routine.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Consistent routines and structured rest support stable energy and blood sugar levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and meal schedules",
+        "Take rest breaks to manage fatigue",
+        "Monitor your body's response to reduced energy"
+      ],
+
+      "mindfulness_practices": [
+        "Practice relaxation to manage stress",
+        "Use breathing exercises regularly"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    },
+
+    "anemia": {
+      "personalized_description": "Fatigue may increase again, requiring more frequent rest and reduced exertion.",
+
+      "rest_practices": [
+        "Take frequent rest breaks during the day",
+        "Avoid prolonged or physically demanding activities"
+      ],
+
+      "mindfulness_practices": [
+        "Engage in calming practices to conserve energy",
+        "Avoid tiring routines before bedtime"
+      ],
+
+      "reassurance": "Rest helps support your energy and comfort."
+    },
+
+    "hypertension": {
+      "personalized_description": "Calm routines and adequate rest support stable blood pressure levels.",
+
+      "rest_practices": [
+        "Maintain a consistent sleep schedule",
+        "Avoid stimulants like caffeine in the evening"
+      ],
+
+      "mindfulness_practices": [
+        "Practice guided relaxation or meditation",
+        "Focus on slow and steady breathing"
+      ],
+
+      "reassurance": "Calm routines support overall balance."
+    },
+
+    "thyroid": {
+      "personalized_description": "Consistent routines and proper rest support hormonal balance and energy levels.",
+
+      "rest_practices": [
+        "Maintain regular sleep and wake times",
+        "Avoid irregular sleep cycles"
+      ],
+
+      "mindfulness_practices": [
+        "Use simple mindfulness techniques to reduce stress",
+        "Limit overstimulation before sleep"
+      ],
+
+      "reassurance": "Consistency supports stability and comfort."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "When managing multiple conditions, adapting to increased rest needs and maintaining structured routines becomes essential.",
+
+    "priority_practices": [
+      "Maintain a consistent sleep and wake schedule",
+      "Incorporate daily relaxation or breathing exercises",
+      "Take frequent rest breaks to support recovery"
+    ],
+
+    "reassurance": "Supportive routines help maintain comfort and balance."
+  }
+}

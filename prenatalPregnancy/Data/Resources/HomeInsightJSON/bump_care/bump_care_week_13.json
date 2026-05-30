@@ -1,0 +1,114 @@
+{
+  "week": 13,
+  "section": "bump_care",
+
+  "title": "Beginning the Second Trimester",
+  "subtitle": "A phase of renewed energy",
+
+  "description": "By week 13, you are entering the second trimester. Many early symptoms begin to ease, and your baby continues to grow with more stable development. This phase is often more comfortable for many individuals.",
+
+  "what_to_expect": [
+    "Transition into the second trimester",
+    "Symptoms like nausea and fatigue may start to reduce",
+    "Your baby continues steady growth and development"
+  ],
+
+  "care_tips": [
+    "Maintain a balanced and nutritious diet",
+    "Stay hydrated and follow a consistent routine",
+    "Engage in light physical activity if comfortable"
+  ],
+
+  "medical_checkups": {
+    "note": "Routine monitoring continues as you enter a more stable phase.",
+    "commonly_suggested": [
+      {
+        "name": "Routine Checkup",
+        "purpose": "Monitors overall health and pregnancy progress"
+      },
+      {
+        "name": "Follow-up Blood Tests",
+        "purpose": "Checks ongoing health parameters"
+      }
+    ],
+    "guidance": "Your doctor will guide you on the frequency of visits and any additional tests needed."
+  },
+
+  "important_note": "Entering the second trimester marks a period of more stable and comfortable progression.",
+  "reassurance": "You may start to feel more energetic as your journey continues.",
+
+  "medical_disclaimer": "Always follow your healthcare provider’s advice for ongoing care.",
+
+  "condition_overrides": {
+
+    "diabetes": {
+      "personalized_description": "Maintaining stable blood sugar levels remains important as your pregnancy progresses.",
+
+      "care_tips": [
+        "Monitor blood glucose regularly",
+        "Maintain consistent meal timings",
+        "Avoid high-sugar and processed foods"
+      ],
+
+      "medical_focus": "Blood sugar levels may continue to be monitored during routine visits.",
+
+      "reassurance": "Consistent management supports continued healthy development."
+    },
+
+    "anemia": {
+      "personalized_description": "Adequate iron levels support increased blood volume and energy levels.",
+
+      "care_tips": [
+        "Include iron-rich foods daily",
+        "Pair with vitamin C for absorption",
+        "Follow supplement guidance if prescribed"
+      ],
+
+      "medical_focus": "Hemoglobin levels may be monitored during routine tests.",
+
+      "reassurance": "Proper nutrition helps maintain your strength and energy."
+    },
+
+    "hypertension": {
+      "personalized_description": "Stable blood pressure supports healthy circulation during this stage.",
+
+      "care_tips": [
+        "Limit salt intake",
+        "Practice stress management",
+        "Ensure adequate rest"
+      ],
+
+      "medical_focus": "Blood pressure monitoring remains important during checkups.",
+
+      "reassurance": "A calm and consistent routine supports your well-being."
+    },
+
+    "thyroid": {
+      "personalized_description": "Balanced thyroid levels support continued growth and development.",
+
+      "care_tips": [
+        "Take prescribed medication regularly",
+        "Maintain a consistent routine",
+        "Avoid missing doses"
+      ],
+
+      "medical_focus": "Thyroid function may be monitored during ongoing evaluations.",
+
+      "reassurance": "Consistency helps maintain a healthy balance."
+    }
+  },
+
+  "multi_condition_blend": {
+    "enabled": true,
+
+    "combined_message": "As you enter the second trimester, managing multiple conditions requires steady and consistent care.",
+
+    "priority_tips": [
+      "Follow medical advice consistently",
+      "Maintain a balanced lifestyle",
+      "Avoid sudden dietary or lifestyle changes"
+    ],
+
+    "reassurance": "Steady care supports a smooth and healthy progression."
+  }
+}
