@@ -247,12 +247,7 @@ final class InsightsViewModel {
 
     func datesForGestationalWeek(_ gestationalWeek: Int) -> [Date] {
     let safeWeek = max(1, min(gestationalWeek, PregnancyDateCalculation.maxGestationalWeek))
-    let currentWeek = max(1, min(userProfile.gestationalWeek, PregnancyDateCalculation.maxGestationalWeek))
-    let today = istCalendar.startOfDay(for: Date())
-    let weekday = istCalendar.component(.weekday, from: today)
-    let daysFromMonday = (weekday + 5) % 7
-    guard let currentWeekStart = istCalendar.date(byAdding: .day, value: -daysFromMonday, to: today),
-          let startDate = istCalendar.date(byAdding: .day, value: (safeWeek - currentWeek) * 7, to: currentWeekStart) else {
+    guard let startDate = startDateForGestationalWeek(safeWeek) else {
         return []
     }
     
@@ -266,15 +261,11 @@ final class InsightsViewModel {
 }
 
     private func datesForStoredProgressWeek(_ gestationalWeek: Int) -> [Date]? {
-    let storedDates = weekRecords(for: gestationalWeek).keys
-        .compactMap { DateService.dayKeyFormatter.date(from: $0) }
-        .sorted()
+    guard !weekRecords(for: gestationalWeek).isEmpty else {
+        return nil
+    }
 
-    guard let anchorDate = storedDates.first else { return nil }
-
-    let weekday = istCalendar.component(.weekday, from: anchorDate)
-    let daysFromMonday = (weekday + 5) % 7
-    guard let weekStart = istCalendar.date(byAdding: .day, value: -daysFromMonday, to: anchorDate) else {
+    guard let weekStart = startDateForGestationalWeek(gestationalWeek) else {
         return nil
     }
 
@@ -283,18 +274,17 @@ final class InsightsViewModel {
     }
 }
 
-    private func pregnancyReferenceLMP() -> Date {
-    if let lmp = userProfile.lmpDate {
-        return istCalendar.startOfDay(for: lmp)
+    private func startDateForGestationalWeek(_ gestationalWeek: Int) -> Date? {
+    let safeWeek = max(1, min(gestationalWeek, PregnancyDateCalculation.maxGestationalWeek))
+    let currentWeek = max(1, min(userProfile.gestationalWeek, PregnancyDateCalculation.maxGestationalWeek))
+    let currentDay = max(0, min(userProfile.gestationalDay - 1, 6))
+    let today = istCalendar.startOfDay(for: Date())
+
+    guard let currentWeekStart = istCalendar.date(byAdding: .day, value: -currentDay, to: today) else {
+        return nil
     }
-    
-    let estimated = PregnancyDateCalculation.estimatedLMP(
-        fromWeek: userProfile.gestationalWeek,
-        day: userProfile.gestationalDay,
-        calendar: istCalendar,
-        today: Date()
-    )
-    return istCalendar.startOfDay(for: estimated)
+
+    return istCalendar.date(byAdding: .day, value: (safeWeek - currentWeek) * 7, to: currentWeekStart)
 }
 
     func liveSessions(for activity: ActivityType, on date: Date, preferredWeek: Int? = nil) -> [InsightSession] {
